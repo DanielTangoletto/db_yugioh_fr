@@ -1,4 +1,5 @@
 # Base de données FR de cartes Yu-Gi-Oh / Affichage via une barre de recherche
+Lien direct : https://db-yugioh-fr.vercel.app/
 
 **Contexte :** En tant que Développeur Web Junior et afin de m'entraîner sur le framework de React, **NextJS**, ainsi que sur **TailwindCSS**, j'ai souhaité développer une application qui permettrait d'afficher des cartes Yu-Gi-Oh! dans leur version française. L'application est aussi pensé pour ceux qui souhaiteraient afficher des cartes en vidéos ou en stream pour plus d'interactions.
 
