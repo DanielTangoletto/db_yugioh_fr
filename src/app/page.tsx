@@ -60,7 +60,7 @@ export default function Home() {
             </button>
           </div>
         </form>
-        <p className=" italic text-sm my-4">crée par @DanyMasta</p>
+        <p className=" italic text-sm my-4 text-black">crée par @DanyMasta</p>
       </div>
       <div className="relative sm:w-96 w-72">
         {showBaseImage && (
