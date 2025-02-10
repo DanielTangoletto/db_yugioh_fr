@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Base de données FR de cartes Yu-Gi-Oh / Affichage via une barre de recherche
 
-## Getting Started
+**Contexte :** En tant que Développeur Web Junior et afin de m'entraîner sur le framework de React, **NextJS**, ainsi que sur **TailwindCSS**, j'ai souhaité développer une application qui permettrait d'afficher des cartes Yu-Gi-Oh! dans leur version française. L'application est aussi pensé pour ceux qui souhaiteraient afficher des cartes en vidéos ou en stream pour plus d'interactions.
 
-First, run the development server:
+**Informations :**\
+• De base, l'application est pensé pour le format Desktop mais reste responsive.\
+• En dessous d'une résolution de 340 px, l'affichage de la page disparaît.\
+• Une page a été créee pour afficher les cartes disponibles avec leurs noms visibles au survol.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## V.1 - Février 2025
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Base de données actuelle (DB) :\
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+• _Démonforgeron_ (⚠️Kyrie & Rextremende ENG)\
+• _Kashtira_ ✔️\
+• _Majorité des handtraps populaires_ ✔️\
+• _Mulcharmies (Meowls ENG)_ ✔️\
+• _Snake-Eye (⚠️ Dragon maudit EN & Execute JAP)_ ✔️\
+• _Tearlaments_ ✔️\
+• _Bystial_ ✔️\
+• _Ryzeal_ (TCG only)✔️\
+• _Tenyi_ (⚠️ Surya & Tenyinfini ABS)
+• _Staples_ (en cours... ⏳)\
+• _Floodgates_ (en cours... ⏳)\
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Prévu dans le futur :**\
+• Ajout de nouvelles cartes.\
+• Copier le nom de la carte au clic\
+• Filtrage par Archetype

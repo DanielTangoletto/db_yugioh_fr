@@ -1,0 +1,988 @@
+[
+  {
+    "imageUrl": "https://s3.duellinksmeta.com/cards/67865af4362532dfacde03d3_w360.webp",
+    "cardName": "Snake-Eyes Execute Dragon",
+    "shortName": "Execute dragon",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen035.png",
+    "cardName": "Dragon maudit de l'oeil de serpent",
+    "shortName": "Dragon maudit",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/83513/regard-effrayant-de-l-oeil-de-serpent.jpg",
+    "cardName": "Regard effrayant de l'oeil de serpent",
+    "shortName": "Regard Effrayant",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/85994/poursuite-dramatique-de-l-oeil-de-serpent.jpg",
+    "cardName": "Poursuite dramatique de l'oeil de serpent",
+    "shortName": "Poursuite Dramatique",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/113519/bouleau-de-l-oeil-de-serpent-sr-agov-.jpg",
+    "cardName": "Bouleau de l'oeil de serpent",
+    "shortName": "Bouleau",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/81818/butin-du-peche-de-la-subversion-oeil-de-serpent.jpg",
+    "cardName": "Butin du péché de la subversion",
+    "shortName": "Subversion",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/122192/diabellstar-de-l-oeil-de-serpent-ur-lede-.jpg",
+    "cardName": "Diabellstar de l'oeil de serpent",
+    "shortName": "SE Diabellstar",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/83494/temple-divin-de-l-oeil-de-serpent.jpg",
+    "cardName": "Temple divin de l'oeil de serpent",
+    "shortName": "Temple divin",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/83495/butin-du-peche-originel-oeil-de-serpent.jpg",
+    "cardName": "Butin du péché originel",
+    "shortName": "OSS",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03033ur.jpg",
+    "cardName": "Flamberge de l'oeil de serpent",
+    "shortName": "Flamberge",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/83444/chene-de-l-oeil-de-serpent.jpg",
+    "cardName": "Chêne de l'oeil de serpent",
+    "shortName": "Chêne",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/85941/peuplier-de-l-oeil-de-serpent.jpg",
+    "cardName": "Peuplier de l'oeil de serpent",
+    "shortName": "Peuplier",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/83443/frene-de-l-oeil-de-serpent.jpg",
+    "cardName": "Frêne de l'oeil de serpent",
+    "shortName": "Frêne",
+    "archetype": "Snake-Eye"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88736/demonforgeron-au-paradis.jpg",
+    "cardName": "Démonforgeron au Paradis",
+    "shortName": "Fiendsmith paradise",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88726/sanct-du-demonforgeron.jpg",
+    "cardName": "Sanct du démonforgeron",
+    "shortName": "Sanct",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota014.jpg",
+    "cardName": "Lacrima les Larmes Cramoisies",
+    "shortName": "Lacrima",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/130060/agnumday-du-demonforgeron-sr-rota-.jpg",
+    "cardName": "Agnumday du Démonforgeron",
+    "shortName": "Agnumday",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88697/desirae-du-demonforgeron.jpg",
+    "cardName": "Désirae du Démonforgeron",
+    "shortName": "Desirae",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88711/sequence-du-demonforgeron.jpg",
+    "cardName": "Séquence du démonforgeron",
+    "shortName": "Sequence",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88710/requiem-du-demonforgeron.jpg",
+    "cardName": "Requiem du Démonforgeron",
+    "shortName": "Requiem",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88696/lacrima-du-demonforgeron.jpg",
+    "cardName": "Lacrima du Démonforgeron",
+    "shortName": "Lacrima fiendsmith",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88725/tract-du-demonforgeron.jpg",
+    "cardName": "Tract du Démonforgeron",
+    "shortName": "Tract",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/88675/graveur-demonforgeron.jpg",
+    "cardName": "Graveur Démonforgeron",
+    "shortName": "Engraver",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://s3.duellinksmeta.com/cards/66f6a847a78e8d2c499faf5f_w360.webp",
+    "cardName": "Fiendsmith Kyrie",
+    "shortName": "Kyrie",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://s3.duellinksmeta.com/cards/66f6a82ea78e8d2c499faca7_w360.webp",
+    "cardName": "Fiendsmith's Rextremende",
+    "shortName": "Rextremende",
+    "archetype": "Fiendsmith"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/67168/piece-structure-psy-gamma.jpg",
+    "cardName": "Pièce structure-Psy Gamma",
+    "shortName": "Psy Gamma",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/84446/fille-fantome-et-cornouiller-effrayant.jpg",
+    "cardName": "Fille fantôme et cornouiller effrayant",
+    "shortName": "Spooky",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/66006/fantome-du-defunt-et-fraicheur-lunaire.jpg",
+    "cardName": "Fantôme du Défunt et Fraîcheur Lunaire",
+    "shortName": "Ghost Mourner",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01014cr.jpg",
+    "cardName": "Migrateur Dimensionnel",
+    "shortName": "Shifter",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02002ur.jpg",
+    "cardName": "Corbeau D.D.",
+    "shortName": "Corbeau DD",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01011.jpg",
+    "cardName": "Beauté Fantôme et Manoir Hanté",
+    "shortName": "Ghost Belle",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/49660/ogre-fantome-et-lapin-des-neiges.jpg",
+    "cardName": "Ogre Fantôme et Lapin des Neiges",
+    "shortName": "Ghost ogre",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra0206bpur.jpg",
+    "cardName": "Hurluberlu et Oiseau de Verrouillage",
+    "shortName": "Droll",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01015.jpg",
+    "cardName": "Nibiru, l'être primitif",
+    "shortName": "Nibiru",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01003.jpg",
+    "cardName": "Illusionniste d'Effet",
+    "shortName": "Veiler",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02063ur.jpg",
+    "cardName": "Désignateur de la suppression",
+    "shortName": "Crossout",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01057pse.jpg",
+    "cardName": "Appelé par la Tombe",
+    "shortName": "Call by",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/3/3b/CancrelatMaxx-SR03-FR-C-1E.png/revision/latest/scale-to-width-down/545?cb=20180730160201&path-prefix=fr",
+    "cardName": "Cancrelat Maxx",
+    "shortName": "Maxx C",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78857/floraison-de-cendres-et-joyeux-printemps.jpg",
+    "cardName": "Floraison de cendres et joyeux printemps",
+    "shortName": "Ash blossom",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/84360/infini-ephemere.jpg",
+    "cardName": "Infini Éphémère",
+    "shortName": "Imperm",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota024.jpg",
+    "cardName": "Mulcharmy Fuwalos",
+    "shortName": "Fuwalos",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info027.jpg",
+    "cardName": "Mulcharmy Purulia",
+    "shortName": "Purulia",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen025.png",
+    "cardName": "Mulcharmy Miaulements",
+    "shortName": "Meowls",
+    "archetype": "Handtrap"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/111937/fenrir-kashtira-str-mp23-.jpg",
+    "cardName": "Fenrir Kashtira",
+    "shortName": "Fenrir",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/101013/licorne-kashtira-ur-dabl-.jpg",
+    "cardName": "Kashtira Licorne",
+    "shortName": "Licorne",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_PHHY/phhy046.jpg",
+    "cardName": "Kashtira Arise-Heart",
+    "shortName": "Arise-heart",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78483/riseheart-kashtira.jpg",
+    "cardName": "Kashtira Riseheart",
+    "shortName": "Riseheart",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76677/ogre-kashtira.jpg",
+    "cardName": "Kashtira Ogre",
+    "shortName": "Ogre",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78484/kashtira-griffrayeur.jpg",
+    "cardName": "Kashtira Griffrayeur",
+    "shortName": "Griffrayeur",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78485/kashtira-des-tiarmentations.jpg",
+    "cardName": "Kashtira des Tiarmentations",
+    "shortName": "Kashtear",
+    "archetype": ["Kashtira", "Tearlaments"]
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76709/shangri-ira-kashtira.jpg",
+    "cardName": "Kashtira Shangri-Ira",
+    "shortName": "Shangri",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78537/planete-pressurisee-wraitsoth.jpg",
+    "cardName": "Planète Pressurisée Wraitsoth",
+    "shortName": "Wraithsoth",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/101063/naissance-kashtira-sr-dabl-.jpg",
+    "cardName": "Naissance Kashtira",
+    "shortName": "Naissance",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78536/kashtiratheose.jpg",
+    "cardName": "Kashtirathéose",
+    "shortName": "Theosis",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/91698/big-bang-kashtira.jpg",
+    "cardName": "Kashtira Big Bang",
+    "shortName": "Big Bang",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76740/preparations-kashtira.jpg",
+    "cardName": "Préparations Kashtira",
+    "shortName": "Préparations",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/79875/akstra-kashtira.jpg",
+    "cardName": "Akstra Kashtira",
+    "shortName": "Akstra",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78535/chevauchement-kashtira.jpg",
+    "cardName": "Chevauchement Kashtira",
+    "shortName": "Chevauchement",
+    "archetype": "Kashtira"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/128434/raigeki-pse-mp24-.jpg",
+    "cardName": "Raigeki",
+    "shortName": "Raigeki",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78869/le-plumeau-de-dame-harpie.jpg",
+    "cardName": "Plumeau de Dame Harpie",
+    "shortName": "Plumeau",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/80998/trou-noir.jpg",
+    "cardName": "Trou Noir",
+    "shortName": "Trou Noir",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01061pur.jpg",
+    "cardName": "Orage Foudroyant",
+    "shortName": "Orage Foudroyant",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03072.jpg",
+    "cardName": "Poussée des triples tactiques",
+    "shortName": "PTT",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/84294/talent-des-triples-tactiques.jpg",
+    "cardName": "Talent des triples tactiques",
+    "shortName": "TTT",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/84300/gouttelette-de-l-interdit.jpg",
+    "cardName": "Gouttelette de l'interdit",
+    "shortName": "Droplet",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01074.jpg",
+    "cardName": "A forces égales",
+    "shortName": "Evenly",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01066.jpg",
+    "cardName": "Pot de Prospérité",
+    "shortName": "Prospé",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02057.jpg",
+    "cardName": "Pot de dualité",
+    "shortName": "pot de dualité",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/57194/pot-des-desirs.jpg",
+    "cardName": "Pot des désirs",
+    "shortName": "Pot des désirs",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01059.jpg",
+    "cardName": "Pot de l'extravagance",
+    "shortName": "Pot de l'extra",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/55517/sacrifice-inutile.jpg",
+    "cardName": "Sacrifice inutile",
+    "shortName": "Sacrifice inutile",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/87698/sarcophage-dore.jpg",
+    "cardName": "Sarcophage doré",
+    "shortName": "Sarcophage doré",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78385/un-pour-un.jpg",
+    "cardName": "Un pour un",
+    "shortName": "Un pour un",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78384/renfort-de-l-armee.jpg",
+    "cardName": "Renfort de l'armée",
+    "shortName": "Renfort de l'armée",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/36229/objets-de-sacrifice-inutile.jpg",
+    "cardName": "Objets de Sacrifice Inutile",
+    "shortName": "Objets",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03063cr.jpg",
+    "cardName": "L'herbe a l'air plus verte",
+    "shortName": "Grass",
+    "archetype": "Staple"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01070.jpg",
+    "cardName": "Limiteur d'invocation",
+    "shortName": "Limiteur",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74926/parfum-anti-magie.jpg",
+    "cardName": "Parfum Anti-Magie",
+    "shortName": "Parfum Anti-magie",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02077.jpg",
+    "cardName": "Absorption de compétence",
+    "shortName": "Skill drain",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/72136/il-ne-peut-y-en-avoir-qu-un.jpg",
+    "cardName": "Il ne peut en y avoir qu'un",
+    "shortName": "There can be",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/81/CombatenPr%C3%A9sencedelEmpereur-SDSB-FR-C-1E.png/revision/latest/scale-to-width-down/685?cb=20190211133216&path-prefix=fr",
+    "cardName": "Combats en présence de l'empereur",
+    "shortName": "Gozen Match",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/49289/village-secret-des-magiciens.jpg",
+    "cardName": "Village secret des magiciens",
+    "shortName": "Village secret",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/109353/fissure-dimensionnelle-ur-blmr-.jpg",
+    "cardName": "Fissure dimensionnelle",
+    "shortName": "Fissure dim",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/81014/macro-cosmos.jpg",
+    "cardName": "Macro Cosmos",
+    "shortName": "Macro Cosmos",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01010ur.jpg",
+    "cardName": "Inspecteur Boarder",
+    "shortName": "Boarder",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/51156/faux-artefact.jpg",
+    "cardName": "Faux - Artifact",
+    "shortName": "Scythe",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/92522/fossile-dyna-pachycephalosaure-grp-mged-yu-gi-oh.jpg",
+    "cardName": "Fossile Dyna Pachycéphalosaure",
+    "shortName": "Fossile Dyna",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAMA/mama109.jpg",
+    "cardName": "Vallée Mortuaire",
+    "shortName": "Necrovalley",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/19/Rivalit%C3%A9desSeigneursdeGuerre-HISU-FR-SR-1E.png/revision/latest?cb=20181113172405&path-prefix=fr",
+    "cardName": "Rivalité des Seigneurs de Guerre",
+    "shortName": "Rivalry",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/60347/barriere-dimensionnelle.jpg",
+    "cardName": "Barrière dimensionnelle",
+    "shortName": "Barrière dim",
+    "archetype": "Floodgate"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/45669/winda-marionnette-de-l-ombre-el.jpg",
+    "cardName": "Winda, Marionnette de l'Ombre El",
+    "shortName": "Winda",
+    "archetype": ["Shaddoll", "Floodgate"]
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/98778/reinoheart-des-tiarmentations-ur-pote-.jpg",
+    "cardName": "Reinoheart des Tiarmentations",
+    "shortName": "Reinoheart",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74301/havnis-des-tiarmentations.jpg",
+    "cardName": "Havnis des Tiarmentations",
+    "shortName": "Havnis",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74302/scheiren-des-tiarmentations.jpg",
+    "cardName": "Scheiren des Tiarmentations",
+    "shortName": "Scheiren",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74300/merrli-des-tiarmentations.jpg",
+    "cardName": "Merrli des Tiarmentations",
+    "shortName": "Merrli",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74349/planete-originelle-perlereino.jpg",
+    "cardName": "Planète Originelle Perlereino",
+    "shortName": "Perlereino",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76722/cri-des-tiarmentations.jpg",
+    "cardName": "Cri des Tiarmentations",
+    "shortName": "Scream",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74362/criime-des-tiarmentations.jpg",
+    "cardName": "Criime des Tiarmenations",
+    "shortName": "Criime",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74361/decrihurlement-des-tiarmentations.jpg",
+    "cardName": "Décrihurlement des Tiarmentations",
+    "shortName": "Décrihurlement",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74360/metabruit-des-tiarmentations.jpg",
+    "cardName": "Métabruit des Tiarmentations",
+    "shortName": "Métabruit",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76720/chagrin-des-tiarmentations.jpg",
+    "cardName": "Chagrin des Tiarmentations",
+    "shortName": "Chagrin",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76721/battement-de-coeur-des-tiarmentations.jpg",
+    "cardName": "Battement de coeur des Tiarmentations",
+    "shortName": "Battement",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78539/perlegia-des-tiarmentations.jpg",
+    "cardName": "Perlegia des Tiarmentations",
+    "shortName": "Perlegia",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74331/kitkallos-des-tiarmentations.jpg",
+    "cardName": "Kitkallos des Tiarmentations",
+    "shortName": "Kitkallos",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/76702/rulkallos-des-tiarmentations.jpg",
+    "cardName": "Rulkallos des Tiarmentations",
+    "shortName": "Rulkallos",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/74332/kaleido-heart-des-tiarmentations.jpg",
+    "cardName": "Kaleido-Heart des Tiarmentations",
+    "shortName": "Kaleido",
+    "archetype": "Tearlaments"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/101005/bystial-magnamhut-sr-dabl-.jpg",
+    "cardName": "Bystial Magnamhut",
+    "shortName": "Magnamhut",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/101007/bystial-druiswurm-sr-dabl-.jpg",
+    "cardName": "Bystial Druiswurm",
+    "shortName": "Druiswurm",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/78481/bystial-baldrake.jpg",
+    "cardName": "Bystial Baldrake",
+    "shortName": "Baldrake",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/82950/bystial-saronir.jpg",
+    "cardName": "Bystial Saronir",
+    "shortName": "Saronir",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/107589/bystial-dis-pater-ur-cyac-.jpg",
+    "cardName": "Bystial Dis Pater",
+    "shortName": "Dis Pater",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/82651/le-bystial-lubellion.jpg",
+    "cardName": "Le Bystial Lubellion",
+    "shortName": "Lubellion Bystial",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/79931/the-bystial-aluber.jpg",
+    "cardName": "Le Bystial Aluber",
+    "shortName": "Aluber Bystial",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/82652/le-bystial-alba-los.jpg",
+    "cardName": "Le Bystial Alba Los",
+    "shortName": "Alba Los",
+    "archetype": "Bystial"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94570/epee-ryzeal.jpg",
+    "cardName": "Épée Ryzéal",
+    "shortName": "Épée Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94573/noeud-ryzeal.jpg",
+    "cardName": "Noeud Ryzéal",
+    "shortName": "Noeud Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr003.jpg",
+    "cardName": "Int Ryzéal",
+    "shortName": "Int Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94576/ext-ryzeal.jpg",
+    "cardName": "Ext Ryzéal",
+    "shortName": "Ext Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr007cr.jpg",
+    "cardName": "Détonateur Ryzéal",
+    "shortName": "Détonateur Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94579/propulseur-duo-ryzeal.jpg",
+    "cardName": "Propulseur Duo Ryzéal",
+    "shortName": "Propulseur",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr009.jpg",
+    "cardName": "Croisement Ryzéal",
+    "shortName": "Croisement Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr008.jpg",
+    "cardName": "Branchement Ryzéal",
+    "shortName": "Branchement Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr010.jpg",
+    "cardName": "Trappe de Plasma Ryzéal",
+    "shortName": "Trappe de Plasma Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94578/paume-ryzeal.jpg",
+    "cardName": "Paume Ryzéal",
+    "shortName": "Paume Ryzéal",
+    "archetype": "Ryzeal"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/80984/draco-berserker-du-tenyi.jpg",
+    "cardName": "Draco Berserker du Tenyi",
+    "shortName": "Draco Berserker",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/59064/esprit-tenyi-adhara.jpg",
+    "cardName": "Esprit Tenyi - Adhara",
+    "shortName": "Adhara",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_GFP2/gfp2084.jpg",
+    "cardName": "Esprit Tenyi - Shthana",
+    "shortName": "Shthana",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/74310/yugioh-esprit-tenyi-vishuda-r-rira-.jpg",
+    "cardName": "Esprit Tenyi - Vishuda",
+    "shortName": "Vishuda",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/53915/tenyi-spirit-ashuna.jpg",
+    "cardName": "Esprit Tenyi - Ashuna",
+    "shortName": "Ashuna",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/94650/moine-du-tenyi.jpg",
+    "cardName": "Moine du Tenyi",
+    "shortName": "Moine du Tenyi",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/74361/yugioh-shaman-du-tenyi-ur-rira-.jpg",
+    "cardName": "Shaman du Tenyi",
+    "shortName": "Shaman du Tenyi",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/51389/esprit-tenyi-mapura.jpg",
+    "cardName": "Esprit Tenyi - Mapura",
+    "shortName": "Mapura",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/97651/cercle-du-dragon-divin-ur-gfp2-yu-gi-oh.jpg",
+    "cardName": "Cercle du Dragon Divin",
+    "shortName": "Cercle du Dragon Divin",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/59089/receptacle-pour-le-cycle-du-dragon.jpg",
+    "cardName": "Réceptacle pour le Cycle du Dragon",
+    "shortName": "Réceptacle",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/53892/draco-maitres-du-tenyi.jpg",
+    "cardName": "Draco Maîtres du Tenyi",
+    "shortName": "Draco Maîtres",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/56172/esprit-tenyi-sahasrara.jpg",
+    "cardName": "Esprit Tenyi - Sahasrara",
+    "shortName": "Sahasrara",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/51448/poings-du-sans-egal-du-tenyi.jpg",
+    "cardName": "Poings du Sans Égal du Tenyi",
+    "shortName": "Poings du Sans Égal",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/51390/esprit-tenyi-nahata.jpg",
+    "cardName": "Esprit Tenyi - Nahata",
+    "shortName": "Nahata",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/59081/berserker-du-tenyi.jpg",
+    "cardName": "Berserker du Tenyi",
+    "shortName": "Berserker du Tenyi",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.cards-capital.com/59088/perfection-sans-defaut-du-tenyi.jpg",
+    "cardName": "Perfection sans Défaut du Tenyi",
+    "shortName": "Perfection sans Défaut",
+    "archetype": "Tenyi"
+  },
+
+  {
+    "imageUrl": "https://www.lerepairedudragon.fr/137185/esprit-tenyi-mula-adhara-ur-suda-.jpg",
+    "cardName": "Esprit Tenyi - Mula Adhara",
+    "shortName": "Mula Adhara",
+    "archetype": "Tenyi"
+  }
+]
