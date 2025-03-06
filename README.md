@@ -44,7 +44,7 @@ MaJ de la base de données (DB) :
 • _Swordsoul_ ✔️
 
 **Update**\
-• Création d'un nouveau dossier pour certaines images + ajout/update de cartes.
+• Création d'un nouveau dossier pour certaines images + ajout/update de cartes.\
 • Sur l'écran principal est affiché le nombre de cartes dans la BDD.\
 • Ajout des liens sociaux (BlueSky/GitHub/Youtube/LinkedIn).\
 • Dans la DB, nouvel affichage des cartes en fonction de leur archetype, option pour tout afficher/masquer.\
