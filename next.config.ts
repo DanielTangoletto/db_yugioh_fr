@@ -30,11 +30,14 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "images.thenile.io",
+        hostname: "upload.wikimedia.org",
+      },
+      {
+        protocol: "https",
+        hostname: "www.otk-expert.fr",
       },
     ],
   },
-
 };
 
 export default nextConfig;
