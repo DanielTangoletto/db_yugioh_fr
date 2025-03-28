@@ -1715,7 +1715,7 @@
     "cardName": "Coeur aux Yeux Bleus",
     "shortName": "Coeur aux Yeux Bleus",
     "archetype": "Blue-Eyes",
-    "secondArchetype": "Millenium",
+    "secondArchetype": "Millennium",
     "thirdArchetype": ""
   },
   {
@@ -2201,6 +2201,825 @@
     "cardName": "Évaluation Âmépée",
     "shortName": "Évaluation Âmépée",
     "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 246,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24143.jpg",
+    "cardName": "Centur-Ion Primera",
+    "shortName": "Primera",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 247,
+    "imageUrl": "https://www.cards-capital.com/84416/centur-ion-trudea.jpg",
+    "cardName": "Centur-Ion Trudea",
+    "shortName": "Trudea",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 248,
+    "imageUrl": "https://www.cards-capital.com/84421/levez-vous-centur-ion-.jpg",
+    "cardName": "Levez-Vous Centur-Ion",
+    "shortName": "Levez-Vous",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 249,
+    "imageUrl": "https://www.lerepairedudragon.fr/114379/phalange-centur-ion-sr-vasm-.jpg",
+    "cardName": "Phalange Centur-Ion",
+    "shortName": "Phalanx",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 250,
+    "imageUrl": "https://www.cards-capital.com/86949/centur-ion-auxila.jpg",
+    "cardName": "Centur-Ion Auxila",
+    "shortName": "Auxila",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 251,
+    "imageUrl": "https://www.cards-capital.com/84423/emblema-du-serment.jpg",
+    "cardName": "Emblema du Serment",
+    "shortName": "Emblema du Serment",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 252,
+    "imageUrl": "https://www.cards-capital.com/84419/centur-ion-legatia.jpg",
+    "cardName": "Centur-Ion Legatia",
+    "shortName": "Legatia",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 253,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_lede/lede064.jpg",
+    "cardName": "Réveillez-vous Centur-Ion",
+    "shortName": "Réveillez-vous",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 254,
+    "imageUrl": "https://www.cards-capital.com/86823/centur-ion-gargouille-ii.jpg",
+    "cardName": "Centur-Ion Gargouille II",
+    "shortName": "Gargouille II",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 255,
+    "imageUrl": "https://www.cards-capital.com/84424/liens-centur-ion.jpg",
+    "cardName": "Liens Centur-Ion",
+    "shortName": "Liens Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 256,
+    "imageUrl": "https://www.cards-capital.com/84426/veritable-eveil-centur-ion.jpg",
+    "cardName": "Véritable Éveil Centur-Ion",
+    "shortName": "Véritable Éveil",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 257,
+    "imageUrl": "https://www.cards-capital.com/84418/centur-ion-emeth-vi.jpg",
+    "cardName": "Centur-Ion Emeth VI",
+    "shortName": "Emeth VI",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 258,
+    "imageUrl": "https://www.cards-capital.com/92529/centur-ion-primera-primus.jpg",
+    "cardName": "Centur-Ion Primera Primus",
+    "shortName": "Primera Primus",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 259,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info021.jpg",
+    "cardName": "Centur-Ion Atrii",
+    "shortName": "Atrii",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 260,
+    "imageUrl": "https://www.cards-capital.com/92504/centur-ion-chimerea.jpg",
+    "cardName": "Centur-Ion Chimerea",
+    "shortName": "Chimerea",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 261,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/INFO/INFO-63.jpg",
+    "cardName": "Emblema du Salut",
+    "shortName": "Emblema du Salut",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 262,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota079.jpg",
+    "cardName": "Impulsion Dominus",
+    "shortName": "Impulse",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 263,
+    "imageUrl": "https://www.lerepairedudragon.fr/126189/purge-dominus-se-info-.jpg",
+    "cardName": "Purge Dominus",
+    "shortName": "Purge",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 264,
+    "imageUrl": "https://www.lerepairedudragon.fr/52504/yugioh-bras-gauche-de-l-interdit-c-ldk2.jpg",
+    "cardName": "Bras Gauche de l'Interdit",
+    "shortName": "Bras Gauche",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 265,
+    "imageUrl": "https://www.cards-capital.com/34501/bras-droit-de-l-interdit.jpg",
+    "cardName": "Bras Droit de l'Interdit",
+    "shortName": "Bras Droit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 266,
+    "imageUrl": "https://www.lerepairedudragon.fr/52506/yugioh-jambe-gauche-de-l-interdit-c-ldk2.jpg",
+    "cardName": "Jambe Gauche de l'Interdit",
+    "shortName": "Jambe Gauche",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 267,
+    "imageUrl": "https://www.cards-capital.com/29661/jambe-droite-de-l-interdit.jpg",
+    "cardName": "Jambe Droite de l'Interdit",
+    "shortName": "Jambe Droite",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 268,
+    "imageUrl": "https://www.lerepairedudragon.fr/52502/yugioh-exodia-l-interdit-c-ldk2.jpg",
+    "cardName": "Exodia l'Interdit",
+    "shortName": "Exodia l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 269,
+    "imageUrl": "https://www.cards-capital.com/88692/l-incarne-de-l-instoppable-exodia.jpg",
+    "cardName": "L'Incarné de l'Instoppable Éxodia",
+    "shortName": "L'Incarné de l'Instoppable Éxodia",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 270,
+    "imageUrl": "https://www.cards-capital.com/88717/ankh-millenaire.jpg",
+    "cardName": "Ankh Millénaire",
+    "shortName": "Ankh",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 271,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info001.jpg",
+    "cardName": "Sengenjin se Réveille d'un Millénaire",
+    "shortName": "Sengenjin",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 272,
+    "imageUrl": "https://www.cards-capital.com/88659/golem-qui-garde-les-tresors-millenaires.jpg",
+    "cardName": "Golem qui Garde les Trésors Millénaires",
+    "shortName": "Golem qui Garde les Trésors Millénaires",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 273,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info003.jpg",
+    "cardName": "Bouclier de la Dynastie Millénaire",
+    "shortName": "Bouclier de la Dynastie Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 274,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info005.jpg",
+    "cardName": "Reflet Infernal du Millénaire",
+    "shortName": "Reflet Infernal",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 275,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info004.jpg",
+    "cardName": "Vierge de la Lune Millénaire",
+    "shortName": "Vierge de la Lune Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 276,
+    "imageUrl": "https://www.lerepairedudragon.fr/126162/temple-wedju-ur-info-.jpg",
+    "cardName": "Temple Wedju",
+    "shortName": "Temple Wedju",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 277,
+    "imageUrl": "https://www.cards-capital.com/88732/feux-de-la-rage-exxod.jpg",
+    "cardName": "Feux de la Rage Exxod",
+    "shortName": "Exodd",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 278,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y03ultrarare.jpg",
+    "cardName": "Destruction !!!",
+    "shortName": "Obliterate",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 279,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info055.jpg",
+    "cardName": "Embrasement Destruction !!!",
+    "shortName": "Obliterate Blaze",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 280,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr051.jpg",
+    "cardName": "L'Incarné du Légendaire Exodia",
+    "shortName": "L'Incarné du Légendaire Exodia",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 281,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y09commune.jpg",
+    "cardName": "Exodia Necross",
+    "shortName": "Exodia Necross",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 282,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/6f/Contratavec%C3%89xodia-LDK2-FR-C-1E.png/revision/latest?cb=20180730161551&path-prefix=fr",
+    "cardName": "Contrat avec Exodia",
+    "shortName": "Contrat avec Exodia",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 283,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7f/ExodiuslUltimeInterdit-MIL1-FR-C-1E.png/revision/latest?cb=20180730175747&path-prefix=fr",
+    "cardName": "Exodius l'Ultime Interdit",
+    "shortName": "Exodius l'Ultime Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 284,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni003.jpg",
+    "cardName": "Lotus du D Samsara",
+    "shortName": "Lotus du D Samsara",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 285,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24021.jpg",
+    "cardName": "Yubel",
+    "shortName": "Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 286,
+    "imageUrl": "https://www.cards-capital.com/85930/esprit-de-yubel.jpg",
+    "cardName": "Esprit de Yubel",
+    "shortName": "Espri de Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 287,
+    "imageUrl": "https://www.cards-capital.com/86195/yubel-terreur-incarnee.jpg",
+    "cardName": "Yubel - Terreur Incarnée",
+    "shortName": "Terreur Incarnée",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 288,
+    "imageUrl": "https://www.lerepairedudragon.fr/119121/yubel-cauchemar-ultime-titre-or-ur-blc1-.jpg",
+    "cardName": "Yubel - Cauchemar Ultime",
+    "shortName": "Cauchemar Ultime",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 289,
+    "imageUrl": "https://www.cards-capital.com/86821/horrible-faufilleur-du-tombeau.jpg",
+    "cardName": "Horrible Faufilleur du Tombeau",
+    "shortName": "Horrible Faufilleur du Tombeau",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 290,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr047.jpg",
+    "cardName": "Fantôme de Yubel",
+    "shortName": "Fantôme de Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 291,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_lede/lede061.jpg",
+    "cardName": "Trône du Cauchemar",
+    "shortName": "Trône du Cauchemar",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 292,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni054.jpg",
+    "cardName": "Douleur du Cauchemar",
+    "shortName": "Douleur du Cauchemar",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 293,
+    "imageUrl": "https://www.cards-capital.com/85986/parchemin-mature.jpg",
+    "cardName": "Parchemin Mature",
+    "shortName": "Parchemin Mature",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 294,
+    "imageUrl": "https://www.cards-capital.com/85969/yubel-le-protecteur-affectueux-eternel.jpg",
+    "cardName": "Yubel - Le Protecteur Affectueux Éternel",
+    "shortName": "Yubel - Le Protecteur Affectueux Éternel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 295,
+    "imageUrl": "https://www.cards-capital.com/86005/eternel-favori.jpg",
+    "cardName": "Éternel Favori",
+    "shortName": "Éternel Favori",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 296,
+    "imageUrl": "https://www.cards-capital.com/85931/golem-broyeurgeist.jpg",
+    "cardName": "Golem Broyeurgeist",
+    "shortName": "Golem Broyeurgeist",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 297,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23239.jpg",
+    "cardName": "Fontaine Runick",
+    "shortName": "Fontaine Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 298,
+    "imageUrl": "https://www.cards-capital.com/74900/destruction-runick.jpg",
+    "cardName": "Destruction Runick",
+    "shortName": "Destruction Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 299,
+    "imageUrl": "https://www.cards-capital.com/74902/maledictions-glaciales-runick.jpg",
+    "cardName": "Malédictions Glaciales Runick",
+    "shortName": "Malédictions Glaciales Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 300,
+    "imageUrl": "https://www.cards-capital.com/74899/feu-etincelant-runick.jpg",
+    "cardName": "Feu Étincelant Runick",
+    "shortName": "Feu Étincelant Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 301,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23246.jpg",
+    "cardName": "Sommeil Runick",
+    "shortName": "Sommeil Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 302,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23241.jpg",
+    "cardName": "Pointe Runick",
+    "shortName": "Pointe Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 303,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23249.jpg",
+    "cardName": "Hugin des Ailes Runick",
+    "shortName": "Hugin",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 304,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23251.jpg",
+    "cardName": "Geri des Crocs Runick",
+    "shortName": "Geri",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 305,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23244.jpg",
+    "cardName": "Dissipation Runick",
+    "shortName": "Dissipation Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 306,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23240.jpg",
+    "cardName": "Attrait Runick",
+    "shortName": "Attrait Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 307,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23248.jpg",
+    "cardName": "Tempête Cinglante Runick",
+    "shortName": "",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 308,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24096.jpg",
+    "cardName": "Sleipnir de la Crinière Runick",
+    "shortName": "Sleipnir",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 309,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23250.jpg",
+    "cardName": "Munin des Ailes Runick",
+    "shortName": "Munin",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 310,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23247.jpg",
+    "cardName": "Gouttelette d'Or Runick",
+    "shortName": "Gouttelette d'Or Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 311,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23186.jpg",
+    "cardName": "Freki des Crocs Runick",
+    "shortName": "Freki",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 312,
+    "imageUrl": "https://www.cards-capital.com/74888/penducoucou-labrynth.jpg",
+    "cardName": "Penducoucou Labrynth",
+    "shortName": "Penducoucou",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 313,
+    "imageUrl": "https://www.cards-capital.com/74886/chandraglier-labrynth.jpg",
+    "cardName": "Chandraglier Labrynth",
+    "shortName": "Chandraglier",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 314,
+    "imageUrl": "https://www.cards-capital.com/82722/cheminie-torbie-labrynth.jpg",
+    "cardName": "Cheminie Torbie Labrynth",
+    "shortName": "Cheminie Torbie",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 315,
+    "imageUrl": "https://www.lerepairedudragon.fr/99093/arianna-la-domestique-labrynth-ur-tama-.jpg",
+    "cardName": "Arianna la Domestique Labrynth",
+    "shortName": "Arianna",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 316,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24116.jpg",
+    "cardName": "Arias l'Intendante Labrynth",
+    "shortName": "Arias",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 317,
+    "imageUrl": "https://www.cards-capital.com/74881/adorable-labrynth-du-chateau-d-argent.jpg",
+    "cardName": "Adorable Labrynth du Château d'Argent",
+    "shortName": "Adorable Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 318,
+    "imageUrl": "https://www.cards-capital.com/76693/mademoiselle-labrynth-du-chateau-d-argent.jpg",
+    "cardName": "Mademoiselle Labrynth du Château d'Argent",
+    "shortName": "Mademoiselle Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 319,
+    "imageUrl": "https://www.cards-capital.com/74891/bienvenue-labrynth.jpg",
+    "cardName": "Bienvenue Labrynth",
+    "shortName": "Bienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 320,
+    "imageUrl": "https://www.cards-capital.com/78555/grande-bienvenue-labrynth.jpg",
+    "cardName": "Grande Bienvenue Labrynth",
+    "shortName": "Grande Bienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 321,
+    "imageUrl": "https://www.cards-capital.com/74883/ariane-la-domestique-labrynth.jpg",
+    "cardName": "Ariane la Domestique Labrynth",
+    "shortName": "Ariane la Domestique Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 322,
+    "imageUrl": "https://www.cards-capital.com/74889/labyrinthe-labrynth.jpg",
+    "cardName": "Labyrinthe Labrynth",
+    "shortName": "Labyrinthe Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 323,
+    "imageUrl": "https://www.cards-capital.com/82718/archdemon-labrynth.jpg",
+    "cardName": "Archdémon Labrynth",
+    "shortName": "Archdémon Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 324,
+    "imageUrl": "https://www.cards-capital.com/74890/traquenard-labrynth.jpg",
+    "cardName": "Traquenard Labrynth",
+    "shortName": "Traquenard Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 325,
+    "imageUrl": "https://www.cards-capital.com/74892/adieubienvenue-labrynth.jpg",
+    "cardName": "Adieubienvenue Labrynth",
+    "shortName": "Adieubienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 326,
+    "imageUrl": "https://www.cards-capital.com/74893/deferlement-labrynth.jpg",
+    "cardName": "Déferlement Labrynth",
+    "shortName": "Déferlement Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 327,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni019.jpg",
+    "cardName": "Lo, les Prières de la Sans Voix",
+    "shortName": "Lo",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 328,
+    "imageUrl": "https://www.lerepairedudragon.fr/117826/saffira-reine-dragon-de-la-sans-voix-ur-phni-.jpg",
+    "cardName": "Saffira, Reine Dragon de la Sans Voix",
+    "shortName": "Saffira, Reine Dragon",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 329,
+    "imageUrl": "https://www.cards-capital.com/86836/saffira-dragon-divin-de-la-sans-voix.jpg",
+    "cardName": "Saffira, Dragon Divin de la Sans Voix",
+    "shortName": "Saffira, Dragon Divin",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 330,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/PHNI/PHNI-37s.jpg",
+    "cardName": "Gardien du Crâne, Protecteur de la Sans Voix",
+    "shortName": "Gardien du Crâne, Protecteur de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 331,
+    "imageUrl": "https://www.cards-capital.com/85998/prieres-de-la-sans-voix.jpg",
+    "cardName": "Prières de la Sans Voix",
+    "shortName": "Prières de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 332,
+    "imageUrl": "https://www.cards-capital.com/85999/barriere-de-la-sans-voix.jpg",
+    "cardName": "Barrière de la Sans Voix",
+    "shortName": "Barrière de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 333,
+    "imageUrl": "https://www.cards-capital.com/86008/rayonnement-de-la-sans-voix.jpg",
+    "cardName": "Rayonnement de la Sans Voix",
+    "shortName": "Rayonnement de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 334,
+    "imageUrl": "https://www.cards-capital.com/85951/sauravis-sage-dragon-de-la-sans-voix.jpg",
+    "cardName": "Sauravis, Sage Dragon de la Sans Voix",
+    "shortName": "Sauravis, Sage Dragon de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 335,
+    "imageUrl": "https://www.cards-capital.com/86866/benediction-de-la-sans-voix.jpg",
+    "cardName": "Bénédiction de la Sans Voix",
+    "shortName": "Bénédiction de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 336,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info074.jpg",
+    "cardName": "Gardien de la Sans Voix",
+    "shortName": "Gardien de la Sans Voix",
+    "archetype": "Voiceless Voice",
     "secondArchetype": "",
     "thirdArchetype": ""
   }

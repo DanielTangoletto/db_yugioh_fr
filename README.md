@@ -51,3 +51,14 @@ MaJ de la base de données (DB) :
 • Ajout d'une ligne id, secondArchetype, thirdArchetype dans le cards.json.\
 • Possibilité de cliquer sur une carte de la BDD pour en copier le nom.\
 • Autres petites corrections.
+
+## V.1.01.5 - Fin Mars 2025
+
+MaJ de la base de données (DB) :
+• _Cartes Dominus_ ✔️\
+• _Exodia | Millénaire (manque Brise-Sceau)_ ✔️\
+• _Centur-Ion_ ✔️\
+• _Yubel_ ✔️\
+• _Runick_ ✔️\
+• _Labrynth_ ✔️\
+• _Voiceless Voice_ ✔️\

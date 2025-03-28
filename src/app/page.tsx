@@ -85,7 +85,7 @@ export default function Home() {
         )}
       </div>
       <Link href="/cardlist" className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-4 hover:opacity-75 hover:underline">
-        Accès database (voir les {Card.length} cartes disponibles)
+        Accès database (voir les <span className="font-bold text-lg text-green-300">{Card.length}</span> cartes disponibles)
       </Link>
       <footer className="absolute bottom-6 max-[1025px]:invisible">
         <div className="flex gap-3">
