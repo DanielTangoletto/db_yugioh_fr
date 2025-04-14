@@ -19,7 +19,9 @@ export default function Home() {
     e.preventDefault();
 
     const matchedImage = Card.find(
-      (item) => item.cardName.toLowerCase() === inputText.toLowerCase() || item.shortName.toLowerCase() === inputText.toLowerCase()
+      (item) =>
+        item.cardName.toLowerCase() === inputText.toLowerCase() ||
+        item.shortName.toLowerCase() === inputText.toLowerCase()
     );
 
     if (matchedImage) {
@@ -36,15 +38,27 @@ export default function Home() {
       <Image
         src="https://upload.wikimedia.org/wikipedia/commons/6/62/Yu-Gi-Oh%21_%281998%29_logo.png"
         alt="logo yugioh"
-        width={250}
+        width={200}
         height={100}
         className="absolute top-8 max-[1025]:invisible"
       />
       <div className="rounded-3xl flex flex-col items-center bg-gradient-to-br from-[#fff2d7] via-[#ffe0b5] to-[#f8c794] sm:w-md w-xs">
-        <Image src={DMG} width={400} height={237} quality={10} alt="yugioh image" className="sm:w-96 w-72 m-8 rounded-3xl shadow-2xl" unoptimized />
+        <Image
+          src={DMG}
+          width={400}
+          height={237}
+          quality={1}
+          alt="yugioh image"
+          className="sm:w-96 w-72 m-8 rounded-3xl shadow-2xl"
+          unoptimized
+        />
 
         <h1 className="sm:mb-8 mb-4 w-auto text-zinc-800 font-black sm:text-4xl text-3xl px-1 text-center ">
-          Quelle <span className=" bg-linear-to-r from-fuchsia-500 to-pink-500 bg-clip-text text-transparent">carte</span> voulez-vous afficher ?
+          Quelle{" "}
+          <span className=" bg-linear-to-r from-fuchsia-500 to-pink-500 bg-clip-text text-transparent">
+            carte
+          </span>{" "}
+          voulez-vous afficher ?
         </h1>
         <form onSubmit={handleShowImage} className="">
           <div className="flex flex-col items-center">
@@ -71,21 +85,42 @@ export default function Home() {
         </form>
         <p className=" italic text-sm my-4 text-black">crée par @DanyMasta</p>
       </div>
-      <div className="relative sm:w-96 w-72">
+      <div className="relative">
         {showBaseImage && (
           <div>
-            <Image src={CardBack} alt="dos de carte yugi" width={412} height={600} quality={100} priority className="w-96 shadow-lg" />
+            <Image
+              src={CardBack}
+              alt="carte face verso yugioh"
+              width={288}
+              height={419}
+              quality={50}
+              priority
+              className="sm:w-[388px] shadow-lg"
+            />
           </div>
         )}
 
         {imageSrc && (
-          <div className="">
-            <Image src={imageSrc} alt={inputText} className="shadow-lg sm:w-96 w-72" width={412} height={600} priority />
+          <div>
+            <Image
+              src={imageSrc}
+              alt={inputText}
+              className="sm:w-[388px] shadow-lg"
+              width={288}
+              height={419}
+              quality={80}
+              priority
+              decoding="async"
+            />
           </div>
         )}
       </div>
-      <Link href="/cardlist" className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-4 hover:opacity-75 hover:underline">
-        Accès database (voir les <span className="font-bold text-lg text-green-300">{Card.length}</span> cartes disponibles)
+      <Link
+        href="/cardlist"
+        className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-4 hover:opacity-75 hover:underline"
+      >
+        Accès database (voir les{" "}
+        <span className="font-bold text-lg text-green-300">{Card.length}</span> cartes disponibles)
       </Link>
       <footer className="absolute bottom-6 max-[1025px]:invisible">
         <div className="flex gap-3">

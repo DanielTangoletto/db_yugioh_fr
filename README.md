@@ -52,13 +52,29 @@ MaJ de la base de données (DB) :
 • Possibilité de cliquer sur une carte de la BDD pour en copier le nom.\
 • Autres petites corrections.
 
-## V.1.01.5 - Fin Mars 2025
+## V.1.01.5 - Fin Mars 2025 (336 cartes recensées)
 
-MaJ de la base de données (DB) :
+MaJ de la base de données (DB) :\
 • _Cartes Dominus_ ✔️\
-• _Exodia | Millénaire (manque Brise-Sceau)_ ✔️\
+• _Exodia | Millennium (manque Brise-Sceau)_ ✔️\
 • _Centur-Ion_ ✔️\
 • _Yubel_ ✔️\
 • _Runick_ ✔️\
 • _Labrynth_ ✔️\
-• _Voiceless Voice_ ✔️\
+• _Voiceless Voice_ ✔️
+
+## V.1.02 - Avril 2025 (468 cartes recensées)
+
+**Informations :**\
+• Un message est désormais affiché au clic sur la carte sélectionnée en bas de page, au lieu d'une simple alerte.
+
+MaJ de la base de données (DB) :
+
+• _Sky Striker_ ✔️\
+• _Dinomorphia_ ✔️\
+• _Mathmech_ ✔️\
+• _Azamina_ ✔️\
+• _Primite_ ✔️\
+• _Fire King_ ✔️\
+• _Spright_ ✔️\
+• _Branded_ ✔️
