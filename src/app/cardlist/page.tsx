@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Card from "../../data/cards.json";
+import Navbar from "@/components/Navbar/Navbar";
 
 export default function CardList() {
   const [selectedArchetype, setSelectedArchetype] = useState<string | null>(null);
@@ -50,6 +51,9 @@ export default function CardList() {
 
   return (
     <div className="bg-gradient-to-br from-gray-900 to-gray-600 w-full min-h-svh">
+      <header>
+        <Navbar />
+      </header>
       <Link href="/" className="fixed text-white left-3 top-3 text-2xl hover:opacity-75">
         <i className="fa-solid fa-circle-left"></i>
       </Link>

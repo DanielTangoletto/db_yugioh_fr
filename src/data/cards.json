@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "imageUrl": "/img/Kyrie.png",
+    "imageUrl": "/cartes/Kyrie.png",
     "cardName": "Fiendsmith Kyrie",
     "shortName": "Kyrie",
     "archetype": "Fiendsmith",
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "imageUrl": "/img/Rextremende.png",
+    "imageUrl": "/cartes/Rextremende.png",
     "cardName": "Fiendsmith's Rextremende",
     "shortName": "Rextremende",
     "archetype": "Fiendsmith",
@@ -379,7 +379,7 @@
   },
   {
     "id": 43,
-    "imageUrl": "/img/MulcharmyMeowls.png",
+    "imageUrl": "/cartes/MulcharmyMeowls.png",
     "cardName": "Mulcharmy Meowls",
     "shortName": "Meowls",
     "archetype": "Handtrap",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": 176,
-    "imageUrl": "/img/ButinDuPêchéDeLaForêtBlanche.png",
+    "imageUrl": "/cartes/ButinDuPêchéDeLaForêtBlanche.png",
     "cardName": "Butin du Pêché de la Forêt Blanche",
     "shortName": "Butin du Pêché de la Forêt Blanche",
     "archetype": "White Forest",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 177,
-    "imageUrl": "/img/AzaminaAphes.png",
+    "imageUrl": "/cartes/AzaminaAphes.png",
     "cardName": "Azamina Aphes",
     "shortName": "Azamina Aphes",
     "archetype": "White Forest",
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 181,
-    "imageUrl": "/img/EspritAvecDesYeuxDeBleu.png",
+    "imageUrl": "/cartes/EspritAvecDesYeuxDeBleu.png",
     "cardName": "Esprit avec des Yeux de Bleu",
     "shortName": "Esprit avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
@@ -1630,7 +1630,7 @@
   },
   {
     "id": 182,
-    "imageUrl": "/img/DemoiselleBlanche.png",
+    "imageUrl": "/cartes/DemoiselleBlanche.png",
     "cardName": "Demoiselle Blanche",
     "shortName": "Maiden",
     "archetype": "Blue-Eyes",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 183,
-    "imageUrl": "/img/HurlementDesDragonsAuxYeuxDeBleu.png",
+    "imageUrl": "/cartes/HurlementDesDragonsAuxYeuxDeBleu.png",
     "cardName": "Hurlement des Dragons aux Yeux de Bleu",
     "shortName": "Hurlement des Dragons",
     "archetype": "Blue-Eyes",
@@ -1648,7 +1648,7 @@
   },
   {
     "id": 184,
-    "imageUrl": "/img/VoeuxPourLesYeuxDeBleu.png",
+    "imageUrl": "/cartes/VoeuxPourLesYeuxDeBleu.png",
     "cardName": "Voeux pour les Yeux de Bleu",
     "shortName": "Wishes",
     "archetype": "Blue-Eyes",
@@ -1693,7 +1693,7 @@
   },
   {
     "id": 189,
-    "imageUrl": "/img/MajestéDesDragonsBlancs.png",
+    "imageUrl": "/cartes/MajestéDesDragonsBlancs.png",
     "cardName": "Majesté des Dragons Blancs",
     "shortName": "Majesty",
     "archetype": "Blue-Eyes",
@@ -1702,7 +1702,7 @@
   },
   {
     "id": 190,
-    "imageUrl": "/img/NéoKaiserHippocampe.png",
+    "imageUrl": "/cartes/NéoKaiserHippocampe.png",
     "cardName": "Néo Kaiser Hippocampe",
     "shortName": "Néo Kaiser Hippocampe",
     "archetype": "Blue-Eyes",
@@ -1756,7 +1756,7 @@
   },
   {
     "id": 196,
-    "imageUrl": "/img/LaCréatureUltimedeDestruction.png",
+    "imageUrl": "/cartes/LaCréatureUltimedeDestruction.png",
     "cardName": "La Créature Ultime de Destruction",
     "shortName": "Créature ultime",
     "archetype": "Blue-Eyes",
@@ -1985,7 +1985,7 @@
     "cardName": "Forme du Chaos",
     "shortName": "Forme du Chaos",
     "archetype": "Blue-Eyes",
-    "secondArchetype": "",
+    "secondArchetype": "Dark Magician",
     "thirdArchetype": ""
   },
   {
@@ -2030,7 +2030,7 @@
     "cardName": "Force dans l'Union",
     "shortName": "Force dans l'Union",
     "archetype": "Blue-Eyes",
-    "secondArchetype": "",
+    "secondArchetype": "Dark Magician",
     "thirdArchetype": ""
   },
   {
@@ -3610,7 +3610,7 @@
   },
   {
     "id": 402,
-    "imageUrl": "/img/Béryl.png",
+    "imageUrl": "/cartes/Béryl.png",
     "cardName": "Dragon Béryl Éthérique Primite",
     "shortName": "Béryl",
     "archetype": "Primite",
@@ -3664,7 +3664,7 @@
   },
   {
     "id": 408,
-    "imageUrl": "/img/ImpérialPrimite.png",
+    "imageUrl": "/cartes/ImpérialPrimite.png",
     "cardName": "Dragon Impérial Primite",
     "shortName": "Dragon Impérial Primite",
     "archetype": "Primite",
@@ -3943,7 +3943,7 @@
   },
   {
     "id": 439,
-    "imageUrl": "/img/StAzamina.png",
+    "imageUrl": "/cartes/StAzamina.png",
     "cardName": "Sainte Azamina",
     "shortName": "Sainte Azamina",
     "archetype": "Azamina",
@@ -3952,7 +3952,7 @@
   },
   {
     "id": 440,
-    "imageUrl": "/img/ReineAzamina.png",
+    "imageUrl": "/cartes/ReineAzamina.png",
     "cardName": "Reine Azamina",
     "shortName": "Reine Azamina",
     "archetype": "Azamina",
@@ -4065,7 +4065,7 @@
     "shortName": "Kitt Springans",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
-    "thirdArchetype": ""
+    "thirdArchetype": "Springans"
   },
   {
     "id": 453,
@@ -4209,6 +4209,753 @@
     "shortName": "Brillant et Flamboyant Roi du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 469,
+    "imageUrl": "https://www.cards-capital.com/84047/albaz-le-dechu.jpg",
+    "cardName": "Albaz le Déchu",
+    "shortName": "Albaz le Déchu",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 470,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01062se.jpg",
+    "cardName": "Serviteur de Nadir",
+    "shortName": "Serviteur de Nadir",
+    "archetype": "Albaz",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 471,
+    "imageUrl": "https://www.cards-capital.com/72139/miroirjade-le-dragon-de-la-lame-de-glace.jpg",
+    "cardName": "Miroirjade le Dragon de la Lame de Glace",
+    "shortName": "Miroirjade",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 472,
+    "imageUrl": "https://www.cards-capital.com/72141/titaniklad-le-dragon-des-cendres.jpg",
+    "cardName": "Titaniklad le Dragon des Cendres",
+    "shortName": "Titaniklad",
+    "archetype": "Albaz",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 473,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr115.jpg",
+    "cardName": "Lubellion le Dragon Embras",
+    "shortName": "Lubellion le Dragon Embras",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 474,
+    "imageUrl": "https://www.lerepairedudragon.fr/107558/influente-quem-la-vertueuse-str-cyac-.jpg",
+    "cardName": "Influente Quem, la Vertueuse",
+    "shortName": "Quem",
+    "archetype": "Albaz",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": "Despia"
+  },
+  {
+    "id": 475,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02025.jpg",
+    "cardName": "Rindbrumm le Dragon Éclatant",
+    "shortName": "Rindbrumm",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 476,
+    "imageUrl": "https://www.cards-capital.com/76673/eclatante-cartesia-la-vertueuse.jpg",
+    "cardName": "Éclatante Cartésia, la Vertueuse",
+    "shortName": "Éclatante Cartésia",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 477,
+    "imageUrl": "https://www.cards-capital.com/79855/albion-le-dragon-sanctifeu.jpg",
+    "cardName": "Albion le Dragon Sanctifeu",
+    "shortName": "Albion le Dragon Sanctifeu",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 478,
+    "imageUrl": "https://www.cards-capital.com/76718/bataille-decisive-de-golgonda.jpg",
+    "cardName": "Bataille Décisive de Golgonda",
+    "shortName": "Bataille Décisive de Golgonda",
+    "archetype": "Albaz",
+    "secondArchetype": "Springans",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 479,
+    "imageUrl": "https://www.cards-capital.com/72099/mercourier-tri-brigade.jpg",
+    "cardName": "Mercourier Tri-Brigade",
+    "shortName": "Mercourier",
+    "archetype": "Albaz",
+    "secondArchetype": "Tri-Brigade",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 480,
+    "imageUrl": "https://www.cards-capital.com/65530/quaeritis-despian.jpg",
+    "cardName": "Quaeritis Despian",
+    "shortName": "Quaeritis Despian",
+    "archetype": "Albaz",
+    "secondArchetype": "Despia",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 481,
+    "imageUrl": "https://www.cards-capital.com/64722/fetard-springans.jpg",
+    "cardName": "Fêtard Springans",
+    "shortName": "Fêtard Springans",
+    "archetype": "Albaz",
+    "secondArchetype": "Springans",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 482,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23080.jpg",
+    "cardName": "Alba-Lenatus le Dragon des Abysses",
+    "shortName": "Alba-Lenatus",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 483,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SDAZ/sdaz044.jpg",
+    "cardName": "Brigrand le Dragon de la Gloire",
+    "shortName": "Brigrand",
+    "archetype": "Albaz",
+    "secondArchetype": "Tri-Brigade",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 484,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SDAZ/sdaz045.jpg",
+    "cardName": "Sprind le Dragon Filefer",
+    "shortName": "Sprind",
+    "archetype": "Albaz",
+    "secondArchetype": "Springans",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 485,
+    "imageUrl": "https://www.lerepairedudragon.fr/98774/albaz-le-cendreux-sr-pote-.jpg",
+    "cardName": "Albaz le Cendreux",
+    "shortName": "Albaz le Cendreux",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 486,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CYAC/cyac054.jpg",
+    "cardName": "Nouvelle Frontière",
+    "shortName": "Nouvelle Frontière",
+    "archetype": "Albaz",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 487,
+    "imageUrl": "https://www.cards-capital.com/66093/confrontation-dogmatika.jpg",
+    "cardName": "Confrontation Dogmatika",
+    "shortName": "Confrontation Dogmatika",
+    "archetype": "Albaz",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 488,
+    "imageUrl": "https://www.cards-capital.com/63118/explosion-springans-.jpg",
+    "cardName": "Explosion Springans !",
+    "shortName": "Explosion Springans !",
+    "archetype": "Albaz",
+    "secondArchetype": "Springans",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 489,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLVO/blvo068commune.jpg",
+    "cardName": "Appel Springans !",
+    "shortName": "Appel Springans !",
+    "archetype": "Albaz",
+    "secondArchetype": "Springans",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 490,
+    "imageUrl": "https://www.lerepairedudragon.fr/76834/yugioh-ames-des-magiciens-ur-led6-.jpg",
+    "cardName": "Âmes des Magiciens",
+    "shortName": "Âmes des Magiciens",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 491,
+    "imageUrl": "https://www.cards-capital.com/75268/soldat-dragon-sombre-aux-yeux-rouges.jpg",
+    "cardName": "Soldat Dragon Sombre aux Yeux Rouges",
+    "shortName": "Dragoon",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Red-Eyes",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 492,
+    "imageUrl": "https://www.cards-capital.com/79802/magicien-sombre.jpg",
+    "cardName": "Magicien Sombre",
+    "shortName": "Magicien Sombre",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 493,
+    "imageUrl": "https://www.cards-capital.com/69846/illusion-du-chaos.jpg",
+    "cardName": "Illusion du Chaos",
+    "shortName": "Illusion du Chaos",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 494,
+    "imageUrl": "https://www.lerepairedudragon.fr/76840/yugioh-baton-du-magicien-c-led6-.jpg",
+    "cardName": "Bâton du Magicien",
+    "shortName": "Bâton du Magicien",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 495,
+    "imageUrl": "https://www.lerepairedudragon.fr/76836/yugioh-secrets-de-la-magie-des-tenebres-r-led6-.jpg",
+    "cardName": "Secrets de la Magie des Ténèbres",
+    "shortName": "Secrets de la Magie des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 496,
+    "imageUrl": "https://www.lerepairedudragon.fr/76835/yugioh-ame-de-serviteur-ur-led6-.jpg",
+    "cardName": "Âme de Serviteur",
+    "shortName": "Âme de Serviteur",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 497,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/87/MagicienSombreduChaos-DUSA-FR-UR-1E.png/revision/latest?cb=20180730200649&path-prefix=fr",
+    "cardName": "Magicien Sombre du Chaos",
+    "shortName": "Magicien Sombre du Chaos",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 498,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/9b/PaladindesT%C3%A9n%C3%A8bres-LEDD-FR-C-1E.png/revision/latest?cb=20180730211120&path-prefix=fr",
+    "cardName": "Paladin des Ténèbres",
+    "shortName": "Paladin des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Buster Blader",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 499,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2c/DragonAmulette-LEDD-FR-C-1E.png/revision/latest?cb=20180730165352&path-prefix=fr",
+    "cardName": "Dragon Amulette",
+    "shortName": "Dragon Amulette",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 500,
+    "imageUrl": "https://www.lerepairedudragon.fr/59906/yugioh-magicien-sombre-le-dragon-chevalier-ur-ledd-.jpg",
+    "cardName": "Magicien Sombre le Dragon Chevalier",
+    "shortName": "Magicien Sombre le Dragon Chevalier",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 501,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2a/CavaleriedesT%C3%A9n%C3%A8bres-DUPO-FR-UR-1E.png/revision/latest?cb=20190404145154&path-prefix=fr",
+    "cardName": "Cavalerie des Ténèbres",
+    "shortName": "Cavalerie des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 502,
+    "imageUrl": "https://www.cards-capital.com/74049/les-magiciens-des-tenebres.jpg",
+    "cardName": "Les Magiciens des Ténèbres",
+    "shortName": "Les Magiciens des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 503,
+    "imageUrl": "https://www.cards-capital.com/69848/maitre-du-chaos.jpg",
+    "cardName": "Maître du Chaos",
+    "shortName": "Maître du Chaos",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 504,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLMR/blmr001.jpg",
+    "cardName": "Magicien Sombre le Chevalier de la Magie du Dragon",
+    "shortName": "Magicien Sombre le Chevalier de la Magie du Dragon",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 505,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw049commune.jpg",
+    "cardName": "Chevalier du Flamboiement des Ténèbres",
+    "shortName": "Chevalier du Flamboiement des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 506,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3089.jpg",
+    "cardName": "Magicien du Chaos",
+    "shortName": "Magicien du Chaos",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 507,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw027commune.jpg",
+    "cardName": "Sage des Ténèbres",
+    "shortName": "Sage des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 508,
+    "imageUrl": "https://www.cards-capital.com/82494/timee-le-dragon-uni.jpg",
+    "cardName": "Timée le Dragon Uni",
+    "shortName": "Timée",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 509,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw028commune.jpg",
+    "cardName": "Chevalier Magicien des Ténèbres",
+    "shortName": "Chevalier Magicien des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 510,
+    "imageUrl": "https://www.cards-capital.com/55193/mahad-oracle-palladium.jpg",
+    "cardName": "Mahad Oracle Palladium",
+    "shortName": "Mahad Oracle Palladium",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 511,
+    "imageUrl": "https://www.cards-capital.com/74037/magicien-de-l-illusion-noire.jpg",
+    "cardName": "Magicien de l'Illusion Noire",
+    "shortName": "Magicien de l'Illusion Noire",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 512,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7e/MagicienSombreToon-MP17-FR-SR-1E.png/revision/latest?cb=20180730200623&path-prefix=fr",
+    "cardName": "Magicien Sombre Toon",
+    "shortName": "Magicien Sombre Toon",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Toon",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 513,
+    "imageUrl": "https://www.lerepairedudragon.fr/97531/magicien-chronique-ur-gfp2-yu-gi-oh.jpg",
+    "cardName": "Magicien Chronique",
+    "shortName": "Magicien Chronique",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 514,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info006.jpg",
+    "cardName": "Magicien Sombre le Magicien de Magie Noire",
+    "shortName": "Magicien Sombre le Magicien de Magie Noire",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Sarcophagus",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 515,
+    "imageUrl": "https://www.cards-capital.com/34507/magicienne-des-tenebres.jpg",
+    "cardName": "Magicienne des Ténèbres",
+    "shortName": "Magicienne des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 516,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/fe/MagiciennedesT%C3%A9n%C3%A8bresToon-DUPO-FR-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20190404143124&path-prefix=fr",
+    "cardName": "Magicienne des Ténèbres Toon",
+    "shortName": "Magicienne des Ténèbres Toon",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Toon",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 517,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3087.jpg",
+    "cardName": "Apprentie Magicienne Illusion",
+    "shortName": "Apprentie Magicienne Illusion",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 518,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/85/MagicienSombreExp%C3%A9riment%C3%A9-LEDD-FR-C-1E.png/revision/latest/scale-to-width-down/682?cb=20180730200514&path-prefix=fr",
+    "cardName": "Magicien Sombre Expérimenté",
+    "shortName": "Magicien Sombre Expérimenté",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 519,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/d/d4/RobeduMagicien-LEDD-FR-C-1E.png/revision/latest?cb=20180904194111&path-prefix=fr",
+    "cardName": "Robe du Magicien",
+    "shortName": "Robe du Magicien",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 520,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23002.jpg",
+    "cardName": "Magikuriboh",
+    "shortName": "Magikuriboh",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Kuriboh",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 521,
+    "imageUrl": "https://www.cards-capital.com/16119/mille-couteaux.jpg",
+    "cardName": "Mille Couteaux",
+    "shortName": "Mille Couteaux",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 522,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/d/d3/Cons%C3%A9crationparlaLumi%C3%A8reetlesT%C3%A9n%C3%A8bres-DPRP-FR-C-1E.png/revision/latest?cb=20180730161523&path-prefix=fr",
+    "cardName": "Consécration par la Lumière et les Ténèbres",
+    "shortName": "Consécration par la Lumière et les Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 523,
+    "imageUrl": "https://www.lerepairedudragon.fr/38642/attaque-de-magie-noire-c-ysyr.jpg",
+    "cardName": "Attaque de Magie Noire",
+    "shortName": "Attaque de Magie Noire",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 524,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw072commune.jpg",
+    "cardName": "Titre de Chevalier",
+    "shortName": "Titre de Chevalier",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 525,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SS01/ss01a10commune.jpg",
+    "cardName": "Pierre de Sagesse",
+    "shortName": "Pierre de Sagesse",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 526,
+    "imageUrl": "https://www.cards-capital.com/84808/rideau-de-magie-noire.jpg",
+    "cardName": "Rideau de Magie Noire",
+    "shortName": "Rideau de Magie Noire",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 527,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/91/FormuleMagique-YGLD-FR-C-1E.png/revision/latest?cb=20180904191111&path-prefix=fr",
+    "cardName": "Formule Magique",
+    "shortName": "Formule Magique",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 528,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/41/L%C5%92ildeTim%C3%A9e-LEDD-FR-C-1E.png/revision/latest?cb=20180730195727&path-prefix=fr",
+    "cardName": "L'Œil de Timée",
+    "shortName": "L'Œil de Timée",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 529,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/69/Magie%C3%89tenduedesT%C3%A9n%C3%A8bres-LEDD-FR-C-1E.png/revision/latest/scale-to-width-down/683?cb=20180730201259&path-prefix=fr",
+    "cardName": "Magie Étendue des Ténèbres",
+    "shortName": "Magie Étendue des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 530,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/9a/CercleMagiqueSombre-DUPO-FR-UR-1E.png/revision/latest?cb=20190404142613&path-prefix=fr",
+    "cardName": "Cercle Magique Sombre",
+    "shortName": "Cercle Magique Sombre",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 531,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3094.jpg",
+    "cardName": "Illusion Magique",
+    "shortName": "Illusion Magique",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 532,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/0/05/AttaqueBr%C3%BBlantedesT%C3%A9n%C3%A8bres-LDK2-FR-ScR-EL.png/revision/latest?cb=20180730152820&path-prefix=fr",
+    "cardName": "Attaque Brûlante des Ténèbres",
+    "shortName": "Attaque Brûlante des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 533,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2s05secretrare.jpg",
+    "cardName": "Magie Brûlante des Ténèbres",
+    "shortName": "Magie Brûlante des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 534,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LEDD/ledda18.jpg",
+    "cardName": "Héritage de Magie Noire",
+    "shortName": "Héritage de Magie Noire",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 535,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_DUSA/dusa025ultrarare.jpg",
+    "cardName": "Sceptre au Souffle de Chaos",
+    "shortName": "Sceptre au Souffle de Chaos",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 536,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/24/LienentreProfesseuret%C3%89tudiant-DUPO-FR-UR-1E.png/revision/latest/scale-to-width-down/687?cb=20190404145109&path-prefix=fr",
+    "cardName": "Lien entre Professeur et Étudiant",
+    "shortName": "Lien entre Professeur et Étudiant",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 537,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/ad/DoubleCoupMagiedesT%C3%A9n%C3%A8bres-DUPO-FR-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20190404145108&path-prefix=fr",
+    "cardName": "Double Coup Magie des Ténèbres",
+    "shortName": "Double Coup Magie des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 538,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01068.jpg",
+    "cardName": "Sauvetage du Magicien",
+    "shortName": "Sauvetage du Magicien",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 539,
+    "imageUrl": "https://www.lerepairedudragon.fr/48717/restauration-miraculeuse-c-gld.jpg",
+    "cardName": "Restauration Miraculeuse",
+    "shortName": "Restauration Miraculeuse",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Buster Blader",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 540,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2a/NavigationdesMagiciens-LEDD-FR-UR-1E.png/revision/latest?cb=20180730204711&path-prefix=fr",
+    "cardName": "Navigation des Magiciens",
+    "shortName": "Navigation des Magiciens",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 541,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/f6/%C3%82me%C3%89ternelle-DUPO-FR-UR-1E.png/revision/latest?cb=20190404142612&path-prefix=fr",
+    "cardName": "Âme Éternelle",
+    "shortName": "Âme Éternelle",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 542,
+    "imageUrl": "https://www.cards-capital.com/74062/combinaison-des-magiciens.jpg",
+    "cardName": "Combinaison des Magiciens",
+    "shortName": "Combinaison des Magiciens",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 543,
+    "imageUrl": "https://www.cards-capital.com/88733/force-de-miroir-de-magie-des-tenebres.jpg",
+    "cardName": "Force de Miroir de Magie des Ténèbres",
+    "shortName": "Force de Miroir de Magie des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "Sarcophagus",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 544,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03258.jpg",
+    "cardName": "Magicienne des Ténèbres le Dragon Chevalier",
+    "shortName": "Magicienne des Ténèbres le Dragon Chevalier",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 545,
+    "imageUrl": "https://www.cards-capital.com/78510/granguignol-le-dragon-du-crepuscule.jpg",
+    "cardName": "Granguignol le Dragon du Crépuscule",
+    "shortName": "Granguignol",
+    "archetype": "Despia",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 547,
+    "imageUrl": "https://www.cards-capital.com/65531/proskenion-despian.jpg",
+    "cardName": "Proskenion Despian",
+    "shortName": "Proskenion Despian",
+    "archetype": "Despia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 548,
+    "imageUrl": "https://www.cards-capital.com/75196/ad-libitum-de-despia.jpg",
+    "cardName": "Ad Libitum de Despia",
+    "shortName": "Ad Libitum de Despia",
+    "archetype": "Despia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 549,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24085.jpg",
+    "cardName": "Luluwalilith Despian",
+    "shortName": "Luluwalilith Despian",
+    "archetype": "Despia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 550,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02022se.jpg",
+    "cardName": "Masquerade le Dragon Ardent",
+    "shortName": "Masquerade le Dragon Ardent",
+    "archetype": "Despia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 551,
+    "imageUrl": "https://www.cards-capital.com/65502/dramaturge-de-despia.jpg",
+    "cardName": "Dramaturge de Despia",
+    "shortName": "Dramaturge de Despia",
+    "archetype": "Despia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 552,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP22/mp22121.jpg",
+    "cardName": "Comédie Despiane",
+    "shortName": "Comédie Despiane",
+    "archetype": "Despia",
+    "secondArchetype": "",
     "thirdArchetype": ""
   }
 ]

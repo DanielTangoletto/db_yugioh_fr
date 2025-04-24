@@ -12,9 +12,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
 export const metadata: Metadata = {
   title: "Yu-Gi-Oh Database FR - par DanyMasta",
   description: "Base de données de cartes Yu-Gi-Oh en français",
+  authors: [{ name: "DanyMasta" }],
 };
 
 export default function RootLayout({
@@ -25,6 +27,11 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
+        <link rel="manifest" href="/manifest.json" />
+        <link
+          rel="icon"
+          href="https://cdn.iconscout.com/icon/free/png-256/free-pokemon-icon-download-in-svg-png-gif-file-formats--logo-pokeball-game-go-avatars-icons-34722.png?f=webp"
+        />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
