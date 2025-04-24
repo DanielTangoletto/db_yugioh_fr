@@ -8,7 +8,8 @@ import Yugi from "../../../public/yugi.webp";
 
 export default function Informations() {
   return (
-    <div className="bg-gradient-to-br from-gray-900 to-gray-600 w-full min-h-svh">
+    <div className="overflow-x-hidden">
+      <div className="fixed -z-50 bg-gradient-to-br from-gray-900 to-gray-600 w-full h-full"></div>
       <header className="text-white text-center py-4">
         <div className="flex flex-col items-center">
           <Image
@@ -52,7 +53,7 @@ export default function Informations() {
             pendant une vidéo ou un live (comme fait Zouloux dans ses lives Twitch).
           </p>
         </section>
-        <section className="flex flex-col text-center mx-8">
+        <section className="flex flex-col items-center text-center mx-8 mb-8">
           <h2 className="text-lg font-black">Des cartes ajoutées au fur et à mesure.</h2>
           <div className="trait w-[600px] h-[1px] my-3 bg-white"></div>
           <p className="font-light my-1">

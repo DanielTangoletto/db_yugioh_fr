@@ -110,7 +110,7 @@ export default function Home() {
               height={419}
               quality={80}
               priority
-              className="sm:w-[388px] shadow-lg"
+              className="sm:w-[388px] w-72 lg:mb-0 mb-16 shadow-lg"
             />
           </div>
         )}
@@ -120,7 +120,7 @@ export default function Home() {
             <Image
               src={imageSrc}
               alt={inputText}
-              className="sm:w-[388px] shadow-lg"
+              className="sm:w-[388px] w-72 lg:mb-0 mb-16 shadow-lg"
               width={412}
               height={600}
               quality={80}
@@ -130,17 +130,17 @@ export default function Home() {
           </div>
         )}
       </div>
-      
+      <Link href="/informations"
+      className="absolute text-white text-sm md:text-[16px] lg:hidden bottom-4 hover:opacity-75 hover:underline">Plus d&apos;informations ici 📰</Link>
       <Link
         href="/cardlist"
-        className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-4 hover:opacity-75 hover:underline"
+        className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-10 hover:opacity-75 hover:underline"
       >
         Accès database (voir les{" "}
         <span className="font-bold text-lg text-green-300">{Card.length}</span> cartes disponibles)
       </Link>
-      
+
       <footer className="absolute bottom-6 max-[1025px]:invisible">
-       
         <Media />
       </footer>
     </div>

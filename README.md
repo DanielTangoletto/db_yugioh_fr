@@ -87,5 +87,5 @@ MaJ de la base de données (DB) :
 Ajout d'une page Infos\
 Raccourcis vers les différentes pages (Appli, Cartes, Infos)\
 Affichage de cartes aléatoires si la recherche est vide\
-Téléchargement possible de la page
+Téléchargement possible de la page\
 Ajustement visuel de quelques cartes
