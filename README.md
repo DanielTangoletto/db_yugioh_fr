@@ -79,7 +79,7 @@ MaJ de la base de données (DB) :
 • _Spright_ ✔️\
 • _Branded_ ✔️\
 • _Albaz_ ✔️\
-• _Dark Magician | Dark Magician Girl (manque Sorcier Eradicateur)_ ✔️
+• _Dark Magician | Dark Magician Girl (manque Sorcier Eradicateur)_ ✔️\
 • _Despia_ ✔️
 
 ## V.1.02.5 - Avril 2025 (551 cartes recensées)
@@ -89,3 +89,7 @@ Raccourcis vers les différentes pages (Appli, Cartes, Infos)\
 Affichage de cartes aléatoires si la recherche est vide\
 Téléchargement possible de la page\
 Ajustement visuel de quelques cartes
+
+MaJ de la base de données (DB) :
+
+• Memento ✔️

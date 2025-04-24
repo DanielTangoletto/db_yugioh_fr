@@ -130,8 +130,12 @@ export default function Home() {
           </div>
         )}
       </div>
-      <Link href="/informations"
-      className="absolute text-white text-sm md:text-[16px] lg:hidden bottom-4 hover:opacity-75 hover:underline">Plus d&apos;informations ici 📰</Link>
+      <Link
+        href="/informations"
+        className="absolute text-white text-sm md:text-[16px] lg:hidden bottom-4 hover:opacity-75 hover:underline"
+      >
+        Plus d&apos;informations ici 📰
+      </Link>
       <Link
         href="/cardlist"
         className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-10 hover:opacity-75 hover:underline"

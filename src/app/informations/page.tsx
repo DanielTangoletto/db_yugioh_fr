@@ -10,6 +10,13 @@ export default function Informations() {
   return (
     <div className="overflow-x-hidden">
       <div className="fixed -z-50 bg-gradient-to-br from-gray-900 to-gray-600 w-full h-full"></div>
+      <Image
+              src="https://images7.alphacoders.com/875/875040.jpg"
+              alt=""
+              width={1920}
+              height={1080}
+              className="fixed inset-0 -z-49 object-cover w-screen h-screen opacity-10"
+            />
       <header className="text-white text-center py-4">
         <div className="flex flex-col items-center">
           <Image

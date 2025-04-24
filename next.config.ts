@@ -37,6 +37,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "www.otk-expert.fr",
       },
+      {
+        protocol: "https",
+        hostname: "images7.alphacoders.com",
+      },
     ],
   },
 };
