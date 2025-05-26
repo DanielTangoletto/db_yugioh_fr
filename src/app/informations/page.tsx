@@ -15,6 +15,7 @@ export default function Informations() {
               alt=""
               width={1920}
               height={1080}
+              loading="lazy"
               className="fixed inset-0 -z-49 object-cover w-screen h-screen opacity-10"
             />
       <header className="text-white text-center py-4">

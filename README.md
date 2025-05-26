@@ -82,7 +82,7 @@ MaJ de la base de données (DB) :
 • _Dark Magician | Dark Magician Girl (manque Sorcier Eradicateur)_ ✔️\
 • _Despia_ ✔️
 
-## V.1.02.5 - Avril 2025 (551 cartes recensées)
+## V.1.02.5 - Avril 2025 (609 cartes recensées)
 
 Ajout d'une page Infos\
 Raccourcis vers les différentes pages (Appli, Cartes, Infos)\
@@ -92,4 +92,16 @@ Ajustement visuel de quelques cartes
 
 MaJ de la base de données (DB) :
 
-• Memento ✔️
+• _Memento_ ✔️\
+• _Statues-Barrière_ ✔️\
+• _Goblin Biker_✔️\
+• _Quelques staples_ ✔️\
+• _Argostars_ ✔️\
+
+## V.1.03 - Fin Mai 2025 (666 cartes recensées)
+Ajout d'une mini-box de texte.
+
+MaJ de la base de données (DB) :
+
+• _Generaider_ ✔️\
+• _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)\

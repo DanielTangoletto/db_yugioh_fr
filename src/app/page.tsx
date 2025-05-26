@@ -7,6 +7,7 @@ import CardBack from "../../public/card_back.webp";
 import DMG from "../../public/dmg.gif";
 import Navbar from "@/components/Navbar/Navbar";
 import Media from "@/components/Media/Media";
+import Box_Msg from "@/components/Box_Msg/page";
 
 export default function Home() {
   const [inputText, setInputText] = useState("");
@@ -130,6 +131,7 @@ export default function Home() {
           </div>
         )}
       </div>
+      <Box_Msg />
       <Link
         href="/informations"
         className="absolute text-white text-sm md:text-[16px] lg:hidden bottom-4 hover:opacity-75 hover:underline"
