@@ -1,0 +1,802 @@
+[
+  {
+    "id": 301,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23246.jpg",
+    "cardName": "Sommeil Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 302,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23241.jpg",
+    "cardName": "Pointe Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 303,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23249.jpg",
+    "cardName": "Hugin des Ailes Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 304,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23251.jpg",
+    "cardName": "Geri des Crocs Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 305,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23244.jpg",
+    "cardName": "Dissipation Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 306,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23240.jpg",
+    "cardName": "Attrait Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 307,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23248.jpg",
+    "cardName": "Tempête Cinglante Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 308,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24096.jpg",
+    "cardName": "Sleipnir de la Crinière Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 309,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23250.jpg",
+    "cardName": "Munin des Ailes Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 310,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23247.jpg",
+    "cardName": "Gouttelette d'Or Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 311,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23186.jpg",
+    "cardName": "Freki des Crocs Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 312,
+    "imageUrl": "https://www.cards-capital.com/74888/penducoucou-labrynth.jpg",
+    "cardName": "Penducoucou Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 313,
+    "imageUrl": "https://www.cards-capital.com/74886/chandraglier-labrynth.jpg",
+    "cardName": "Chandraglier Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 314,
+    "imageUrl": "https://www.cards-capital.com/82722/cheminie-torbie-labrynth.jpg",
+    "cardName": "Cheminie Torbie Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 315,
+    "imageUrl": "https://www.lerepairedudragon.fr/99093/arianna-la-domestique-labrynth-ur-tama-.jpg",
+    "cardName": "Arianna la Domestique Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 316,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24116.jpg",
+    "cardName": "Arias l'Intendante Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 317,
+    "imageUrl": "https://www.cards-capital.com/74881/adorable-labrynth-du-chateau-d-argent.jpg",
+    "cardName": "Adorable Labrynth du Château d'Argent",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 318,
+    "imageUrl": "https://www.cards-capital.com/76693/mademoiselle-labrynth-du-chateau-d-argent.jpg",
+    "cardName": "Mademoiselle Labrynth du Château d'Argent",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 319,
+    "imageUrl": "https://www.cards-capital.com/74891/bienvenue-labrynth.jpg",
+    "cardName": "Bienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 320,
+    "imageUrl": "https://www.cards-capital.com/78555/grande-bienvenue-labrynth.jpg",
+    "cardName": "Grande Bienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 321,
+    "imageUrl": "https://www.cards-capital.com/74883/ariane-la-domestique-labrynth.jpg",
+    "cardName": "Ariane la Domestique Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 322,
+    "imageUrl": "https://www.cards-capital.com/74889/labyrinthe-labrynth.jpg",
+    "cardName": "Labyrinthe Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 323,
+    "imageUrl": "https://www.cards-capital.com/82718/archdemon-labrynth.jpg",
+    "cardName": "Archdémon Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 324,
+    "imageUrl": "https://www.cards-capital.com/74890/traquenard-labrynth.jpg",
+    "cardName": "Traquenard Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 325,
+    "imageUrl": "https://www.cards-capital.com/74892/adieubienvenue-labrynth.jpg",
+    "cardName": "Adieubienvenue Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 326,
+    "imageUrl": "https://www.cards-capital.com/74893/deferlement-labrynth.jpg",
+    "cardName": "Déferlement Labrynth",
+    "archetype": "Labrynth",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 327,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni019.jpg",
+    "cardName": "Lo, les Prières de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 328,
+    "imageUrl": "https://www.lerepairedudragon.fr/117826/saffira-reine-dragon-de-la-sans-voix-ur-phni-.jpg",
+    "cardName": "Saffira, Reine Dragon de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 329,
+    "imageUrl": "https://www.cards-capital.com/86836/saffira-dragon-divin-de-la-sans-voix.jpg",
+    "cardName": "Saffira, Dragon Divin de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 330,
+    "imageUrl": "https://www.cards-capital.com/85967/gardien-du-crane-protecteur-de-la-sans-voix.jpg",
+    "cardName": "Gardien du Crâne, Protecteur de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 331,
+    "imageUrl": "https://www.cards-capital.com/85998/prieres-de-la-sans-voix.jpg",
+    "cardName": "Prières de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 332,
+    "imageUrl": "https://www.cards-capital.com/85999/barriere-de-la-sans-voix.jpg",
+    "cardName": "Barrière de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 333,
+    "imageUrl": "https://www.cards-capital.com/86008/rayonnement-de-la-sans-voix.jpg",
+    "cardName": "Rayonnement de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 334,
+    "imageUrl": "https://www.cards-capital.com/85951/sauravis-sage-dragon-de-la-sans-voix.jpg",
+    "cardName": "Sauravis, Sage Dragon de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 335,
+    "imageUrl": "https://www.cards-capital.com/86866/benediction-de-la-sans-voix.jpg",
+    "cardName": "Bénédiction de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 336,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info074.jpg",
+    "cardName": "Gardien de la Sans Voix",
+    "archetype": "Voiceless Voice",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 337,
+    "imageUrl": "https://www.cards-capital.com/44303/assaut-de-l-air-as-raye.jpg",
+    "cardName": "Assaut de l'air - As - Raye",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 338,
+    "imageUrl": "https://www.cards-capital.com/67178/assaut-de-l-air-as-roze.jpg",
+    "cardName": "Assaut de l'air - As - Roze",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 339,
+    "imageUrl": "https://www.cards-capital.com/77157/assaut-de-l-air-as-kagari.jpg",
+    "cardName": "Assaut de l'air - As - Kagari",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 340,
+    "imageUrl": "https://www.cards-capital.com/77158/assaut-de-l-air-as-shizuku.jpg",
+    "cardName": "Assaut de l'air - As - Shizuku",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 341,
+    "imageUrl": "https://www.cards-capital.com/77159/assaut-de-l-air-as-hayate.jpg",
+    "cardName": "Assaut de l'air - As - Hayaté",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 342,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2d/AssautdelAirAsKaina-SAST-FR-SR-1E.png/revision/latest?cb=20190129141539&path-prefix=fr",
+    "cardName": "Assaut de l'air - As - Kaina",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 343,
+    "imageUrl": "https://www.cards-capital.com/77161/assaut-de-l-air-mobilisation-a-l-attaque-.jpg",
+    "cardName": "Assaut de l'Air - Mobilisation - À l'Attaque !",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 344,
+    "imageUrl": "https://www.cards-capital.com/44307/assaut-de-l-air-mecha-drones-frelon.jpg",
+    "cardName": "Assaut de l'Air - Mécha - Drones Frelon",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 345,
+    "imageUrl": "https://www.lerepairedudragon.fr/74195/yugioh-assaut-de-l-air-mecha-ancre-veuve-str-blhr-.jpg",
+    "cardName": "Assaut de l'Air - Mécha - Ancre Veuve",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 346,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7d/AssautdelAirMan%C5%93uvrePostcombustion-DASA-FR-ScR-1E.png/revision/latest/scale-to-width-down/677?cb=20180730152748&path-prefix=fr",
+    "cardName": "Assaut de l'Air - Manoeuvre - Postcombustion !",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 347,
+    "imageUrl": "https://www.cards-capital.com/77160/assaut-de-l-air-as-zeke.jpg",
+    "cardName": "Assaut de l'air - As - Zeke",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 348,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLMR/blmr052.jpg",
+    "cardName": "Assaut de l'air - As - Azaléa",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 349,
+    "imageUrl": "https://www.cards-capital.com/44310/assaut-de-l-air-mecha-canon-requin.jpg",
+    "cardName": "Assaut de l'Air - Mécha - Canon Requin",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 350,
+    "imageUrl": "https://www.cards-capital.com/52980/assaut-de-l-air-mechamodules-multirole.jpg",
+    "cardName": "Assaut de l'Air - Méchamodules - Multirôle",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 351,
+    "imageUrl": "https://www.cards-capital.com/77155/assaut-de-l-air-mobilisation-connexion-.jpg",
+    "cardName": "Assaut de l'Air - Mobilisation - Connexion !",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 352,
+    "imageUrl": "https://www.cards-capital.com/52974/assaut-de-l-air-manoeuvre-ondes-de-brouillage-.jpg",
+    "cardName": "Assaut de l'Air - Manoeuvre - Ondes de Brouillage !",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 353,
+    "imageUrl": "https://www.cards-capital.com/44309/assaut-de-l-air-mecha-boost-aigle.jpg",
+    "cardName": "Assaut de l'Air - Mécha - Boost Aigle",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 354,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr044.jpg",
+    "cardName": "Assaut de l'air - As - Azaléa Tempérance",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 355,
+    "imageUrl": "https://www.cards-capital.com/77153/assaut-chirurgical-hamp.jpg",
+    "cardName": "Assaut Chirurgical - H.A.M.P",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 356,
+    "imageUrl": "https://www.cards-capital.com/80960/sage-de-la-bienveillance-ciela.jpg",
+    "cardName": "Sage de la Bienveillance - Ciela",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 357,
+    "imageUrl": "https://www.cards-capital.com/80958/sage-de-la-force-akash.jpg",
+    "cardName": "Sage de la Force - Akash",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 358,
+    "imageUrl": "https://www.cards-capital.com/80959/sage-de-la-sagesse-himmel.jpg",
+    "cardName": "Sage de la Sagesse - Himmel",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 359,
+    "imageUrl": "https://www.cards-capital.com/77154/aileron.jpg",
+    "cardName": "Aileron",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 360,
+    "imageUrl": "https://www.cards-capital.com/88033/pilier-du-futur-cyanos.jpg",
+    "cardName": "Pilier du Futur - Cyanos",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 361,
+    "imageUrl": "https://www.cards-capital.com/44313/assaut-de-l-air-espace-aerien-zone-zero.jpg",
+    "cardName": "Assaut de l'Air - Espace Aérien - Zone Zéro",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 362,
+    "imageUrl": "https://www.cards-capital.com/52979/assaut-de-l-air-mecharmure-base-hercule.jpg",
+    "cardName": "Assaut de l'Air - Mécharmure - Base Hercule",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 363,
+    "imageUrl": "https://www.cards-capital.com/55330/assaut-de-l-air-manoeuvre-ciseaux-croises.jpg",
+    "cardName": "Assaut de l'Air - Manoeuvre - Ciseaux Croisés",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 364,
+    "imageUrl": "https://www.cards-capital.com/46804/assaut-de-l-air-manoeuvre-rafale-vectorielle.jpg",
+    "cardName": "Assaut de l'Air - Manœuvre - Rafale Vectorielle",
+    "archetype": "Sky Striker",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 365,
+    "imageUrl": "https://www.cards-capital.com/82500/therizia-dinomorphia.jpg",
+    "cardName": "Therizia Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 366,
+    "imageUrl": "https://www.cards-capital.com/69822/diplos-dinomorphia.jpg",
+    "cardName": "Diplos Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 367,
+    "imageUrl": "https://www.cards-capital.com/82573/rexterm-dinomorphia.jpg",
+    "cardName": "Rexterm Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 368,
+    "imageUrl": "https://www.cards-capital.com/82511/kentregina-dinomorphia.jpg",
+    "cardName": "Kentregina Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 369,
+    "imageUrl": "https://www.cards-capital.com/82598/frenesie-dinomorphia.jpg",
+    "cardName": "Frénésie Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 370,
+    "imageUrl": "https://www.cards-capital.com/82512/stealthbergia-dinomorphia.jpg",
+    "cardName": "Stealthbergia Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 371,
+    "imageUrl": "https://www.cards-capital.com/82528/domaine-dinomorphia.jpg",
+    "cardName": "Domaine Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 372,
+    "imageUrl": "https://www.cards-capital.com/82529/alerte-dinomorphia.jpg",
+    "cardName": "Alerte Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 373,
+    "imageUrl": "https://www.cards-capital.com/82530/brute-dinomorphia.jpg",
+    "cardName": "Brute Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 374,
+    "imageUrl": "https://www.cards-capital.com/82531/carapace-dinomorphia.jpg",
+    "cardName": "Carapace Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 375,
+    "imageUrl": "https://www.cards-capital.com/82532/sonique-dinomorphia.jpg",
+    "cardName": "Sonique Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 376,
+    "imageUrl": "https://www.cards-capital.com/82533/reversion-dinomorphia.jpg",
+    "cardName": "Réversion Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 377,
+    "imageUrl": "https://www.cards-capital.com/79896/preservation-dinomorphia.jpg",
+    "cardName": "Préservation Dinomorphia",
+    "archetype": "Dinomorphia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 378,
+    "imageUrl": "https://www.cards-capital.com/74317/circulaire-mathmech.jpg",
+    "cardName": "Circulaire Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 379,
+    "imageUrl": "https://www.cards-capital.com/80970/sigma-mathmech.jpg",
+    "cardName": "Sigma Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 380,
+    "imageUrl": "https://www.cards-capital.com/72344/addition-mathmech.jpg",
+    "cardName": "Addition Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 381,
+    "imageUrl": "https://www.cards-capital.com/58555/diametre-mathmech.jpg",
+    "cardName": "Diamètre Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 382,
+    "imageUrl": "https://www.cards-capital.com/54660/multiplication-mathmech.jpg",
+    "cardName": "Multiplication Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 383,
+    "imageUrl": "https://www.cards-capital.com/54659/soustraction-mathmech.jpg",
+    "cardName": "Soustraction Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 384,
+    "imageUrl": "https://www.cards-capital.com/54661/division-mathmech.jpg",
+    "cardName": "Division Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 385,
+    "imageUrl": "https://www.cards-capital.com/54657/nabla-mathmech.jpg",
+    "cardName": "Nabla Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 386,
+    "imageUrl": "https://www.cards-capital.com/54664/laplacien-primathmech.jpg",
+    "cardName": "Laplacien Primathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 387,
+    "imageUrl": "https://www.cards-capital.com/54695/alembertien-primathmech.jpg",
+    "cardName": "Alembertien Primathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 388,
+    "imageUrl": "https://www.cards-capital.com/54662/magma-geomathmech.jpg",
+    "cardName": "Magma Géomathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 389,
+    "imageUrl": "https://www.cards-capital.com/54663/sigma-final-geomathmech.jpg",
+    "cardName": "Sigma Final Géomathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 390,
+    "imageUrl": "https://www.cards-capital.com/54665/equation-mathmech.jpg",
+    "cardName": "Équation Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 391,
+    "imageUrl": "https://www.cards-capital.com/54666/nayuta-milliardlame-mathmech.jpg",
+    "cardName": "Nayuta Milliardlame Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 392,
+    "imageUrl": "https://www.cards-capital.com/54667/superfactorielle-mathmech.jpg",
+    "cardName": "Superfactorielle Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 393,
+    "imageUrl": "https://www.cards-capital.com/54668/induction-mathmech.jpg",
+    "cardName": "Induction Mathmech",
+    "archetype": "Mathmech",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 394,
+    "imageUrl": "https://www.cards-capital.com/92520/azamina-ilia-silvia.jpg",
+    "cardName": "Azamina Ilia Silvia",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 395,
+    "imageUrl": "https://www.cards-capital.com/92523/azamina-moa-regina.jpg",
+    "cardName": "Azamina Moa Regina",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 396,
+    "imageUrl": "https://www.cards-capital.com/92521/azamina-mu-rcielago.jpg",
+    "cardName": "Azamina Mu Rcielago",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 397,
+    "imageUrl": "https://www.cards-capital.com/92546/tromperie-du-butin-du-peche.jpg",
+    "cardName": "Tromperie du Butin du Péché",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 398,
+    "imageUrl": "https://www.cards-capital.com/92545/debitrices-azamina.jpg",
+    "cardName": "Débitrices Azamina",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 399,
+    "imageUrl": "https://www.cards-capital.com/92544/l-azamina-sanctifie.jpg",
+    "cardName": "L'Azamina Sanctifié",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 400,
+    "imageUrl": "https://www.cards-capital.com/92564/determination-azamina.jpg",
+    "cardName": "Détermination Azamina",
+    "archetype": "Azamina",
+    "secondArchetype": "Sinful Spoils",
+    "thirdArchetype": ""
+  }
+]

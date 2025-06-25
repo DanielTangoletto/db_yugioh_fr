@@ -1,0 +1,802 @@
+[
+  {
+    "id": 201,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/85/DragonduChaosMAXauxYeuxBleus-DUPO-FR-UR-1E.png/revision/latest?cb=20190404143111&path-prefix=fr",
+    "cardName": "Dragon du Chaos MAX aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 202,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/98/DragonduChaosauxYeuxBleus-LED3-FR-UR-1E.png/revision/latest?cb=20180926174152&path-prefix=fr",
+    "cardName": "Dragon du Chaos aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 203,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/48/PaladinduDragonBlanc-DPKB-FR-R-EI.png/revision/latest?cb=20190323115438&path-prefix=fr",
+    "cardName": "Paladin du Dragon Blanc",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 204,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/ac/DragonauxYeuxBleusRayonnants-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730173242&path-prefix=fr",
+    "cardName": "Dragon aux Yeux Bleus Rayonnants",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 205,
+    "imageUrl": "https://www.cards-capital.com/77209/dragon-des-abysses-aux-yeux-bleus.jpg",
+    "cardName": "Dragon des Abysses aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 206,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/9e/DragonBlancauxYeuxProfonds-MVP1-FR-GR-1E.png/revision/latest?cb=20180730171405&path-prefix=fr",
+    "cardName": "Dragon Blanc aux Yeux Profonds",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 207,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7d/DragonToonauxYeuxBleus-DPBC-FR-C-1E.png/revision/latest?cb=20180904190706&path-prefix=fr",
+    "cardName": "Dragon Toon aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Toon",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 208,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/e7/DragonBlancauxYeuxBleusCorrompu-DPKB-FR-UR-EI.png/revision/latest/scale-to-width-down/686?cb=20190323115439&path-prefix=fr",
+    "cardName": "Dragon Blanc aux Yeux Bleus Corrompu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Malefic",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 209,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/fb/EspritduDragonBlanc-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904190901&path-prefix=fr",
+    "cardName": "Esprit du Dragon Blanc",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 210,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/a0/DragonBlancAlternatifauxYeuxBleus-MVP1-FR-GR-1E.png/revision/latest?cb=20180730165529&path-prefix=fr",
+    "cardName": "Dragon Blanc Alternatif aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 211,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS2/lds2014ultrararebleu.jpg",
+    "cardName": "Dragon Solide aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 212,
+    "imageUrl": "https://www.cards-capital.com/69817/dictateur-des-d.jpg",
+    "cardName": "Dictateur des D",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 213,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/0/0f/Kaibaman-SS02-FR-C-1E.png/revision/latest?cb=20190122165155&path-prefix=fr",
+    "cardName": "Kaibaman",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 214,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/1b/PierreBlancheL%C3%A9gendaire-LED3-FR-C-1E.png/revision/latest?cb=20180926174103&path-prefix=fr",
+    "cardName": "Pierre Blanche Légendaire",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 215,
+    "imageUrl": "https://www.cards-capital.com/43068/demoiselle-aux-yeux-couleur-bleu.jpg",
+    "cardName": "Demoiselle aux Yeux Couleur Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 216,
+    "imageUrl": "https://www.cards-capital.com/62748/pretresse-avec-des-yeux-de-bleu.jpg",
+    "cardName": "Prêtresse avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 217,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/eb/ProtecteuravecdesYeuxdeBleu-LCKC-FR-UR-1E.png/revision/latest/scale-to-width-down/678?cb=20180904193515&path-prefix=fr",
+    "cardName": "Protecteur avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 218,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/5/56/PierreBlancheAncienne-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904193146&path-prefix=fr",
+    "cardName": "Pierre Blanche Ancienne",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 219,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/18/FlotRugissantdeDestruction-SS02-FR-C-1E.png/revision/latest?cb=20190122165148&path-prefix=fr",
+    "cardName": "Flot Rugissant de Destruction",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 220,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/80/RelaisBlanc-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730221158&path-prefix=fr",
+    "cardName": "Relais Blanc",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 221,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/84/FormeduChaos-DUPO-FR-UR-1E.png/revision/latest?cb=20190404143109&path-prefix=fr",
+    "cardName": "Forme du Chaos",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Dark Magician",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 222,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/61/UnNeutron-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904195916&path-prefix=fr",
+    "cardName": "Un Neutron",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 223,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/fd/Majest%C3%A9avecdesYeuxdeBleu-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730201424&path-prefix=fr",
+    "cardName": "Majesté aux Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 224,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02062se.jpg",
+    "cardName": "Machine Bingo, Go !!!",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 225,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS2/lds2029ultrararebleu.jpg",
+    "cardName": "Rage avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 226,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/MP20/MP20-247.jpg",
+    "cardName": "Force dans l'Union",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Dark Magician",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 227,
+    "imageUrl": "https://www.cards-capital.com/82517/vision-avec-des-yeux-de-bleu.jpg",
+    "cardName": "Vision avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 228,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/MP20/MP20-248.jpg",
+    "cardName": "Rivaux Destinés",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Dark Magician",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 229,
+    "imageUrl": "https://www.cards-capital.com/66936/mo-ye-de-l-amepee.jpg",
+    "cardName": "Mo Ye de l'Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 230,
+    "imageUrl": "https://www.cards-capital.com/77189/longyuan-strategiste-de-l-amepee.jpg",
+    "cardName": "Longyuan, Stratégiste de l'Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 231,
+    "imageUrl": "https://www.cards-capital.com/66937/taia-de-l-amepee.jpg",
+    "cardName": "Taia de l'Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 232,
+    "imageUrl": "https://www.cards-capital.com/77212/formidable-ecclesia-la-vertueuse.jpg",
+    "cardName": "Formidable Ecclesia, la Vertueuse",
+    "archetype": "Swordsoul",
+    "secondArchetype": "Albaz",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 233,
+    "imageUrl": "https://www.cards-capital.com/65504/amepee-l-iris.jpg",
+    "cardName": "Âmepée - L'Iris",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 234,
+    "imageUrl": "https://www.cards-capital.com/66986/emergence-amepee.jpg",
+    "cardName": "Émergence Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 235,
+    "imageUrl": "https://www.cards-capital.com/77197/black-out-amepee.jpg",
+    "cardName": "Black-Out Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 236,
+    "imageUrl": "https://www.cards-capital.com/72101/amepee-la-doree.jpg",
+    "cardName": "Âmépée - La Dorée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "Albaz",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 237,
+    "imageUrl": "https://www.cards-capital.com/77190/chunjun-auspice-de-l-amepee.jpg",
+    "cardName": "Chunjun, Auspice de l'Amépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 238,
+    "imageUrl": "https://www.cards-capital.com/78482/amepee-le-dragon-des-abysses.jpg",
+    "cardName": "Âmépée - Le Dragon des Abysses",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 239,
+    "imageUrl": "https://www.cards-capital.com/66987/sommet-sacre-amepee.jpg",
+    "cardName": "Sommet Sacré Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 240,
+    "imageUrl": "https://www.cards-capital.com/77191/grand-maitre-de-l-amepee-chixiao.jpg",
+    "cardName": "Grand Maître de l'Âmépée - Chixiao",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 241,
+    "imageUrl": "https://www.cards-capital.com/66975/souverain-supreme-de-l-amepee-chengying.jpg",
+    "cardName": "Souverain Suprême de l'Âmépée - Chengying",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 242,
+    "imageUrl": "https://www.cards-capital.com/69853/souverain-sinistre-de-l-amepee-qixing-longyuan.jpg",
+    "cardName": "Souverain Sinistre de l'Âmépée - Qixing Longyuan",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 243,
+    "imageUrl": "https://www.cards-capital.com/69879/conflit-amepee.jpg",
+    "cardName": "Conflit Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 244,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24345.jpg",
+    "cardName": "Châtiment Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 245,
+    "imageUrl": "https://www.cards-capital.com/67005/evaluation-amepee.jpg",
+    "cardName": "Évaluation Âmépée",
+    "archetype": "Swordsoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 246,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24143.jpg",
+    "cardName": "Centur-Ion Primera",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 247,
+    "imageUrl": "https://www.cards-capital.com/84416/centur-ion-trudea.jpg",
+    "cardName": "Centur-Ion Trudea",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 248,
+    "imageUrl": "https://www.cards-capital.com/84421/levez-vous-centur-ion-.jpg",
+    "cardName": "Levez-Vous Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 249,
+    "imageUrl": "https://www.lerepairedudragon.fr/114379/phalange-centur-ion-sr-vasm-.jpg",
+    "cardName": "Phalange Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 250,
+    "imageUrl": "https://www.cards-capital.com/86949/centur-ion-auxila.jpg",
+    "cardName": "Centur-Ion Auxila",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 251,
+    "imageUrl": "https://www.cards-capital.com/84423/emblema-du-serment.jpg",
+    "cardName": "Emblema du Serment",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 252,
+    "imageUrl": "https://www.cards-capital.com/84419/centur-ion-legatia.jpg",
+    "cardName": "Centur-Ion Legatia",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 253,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_lede/lede064.jpg",
+    "cardName": "Réveillez-vous Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 254,
+    "imageUrl": "https://www.cards-capital.com/86823/centur-ion-gargouille-ii.jpg",
+    "cardName": "Centur-Ion Gargouille II",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 255,
+    "imageUrl": "https://www.cards-capital.com/84424/liens-centur-ion.jpg",
+    "cardName": "Liens Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 256,
+    "imageUrl": "https://www.cards-capital.com/84426/veritable-eveil-centur-ion.jpg",
+    "cardName": "Véritable Éveil Centur-Ion",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 257,
+    "imageUrl": "https://www.cards-capital.com/84418/centur-ion-emeth-vi.jpg",
+    "cardName": "Centur-Ion Emeth VI",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 258,
+    "imageUrl": "https://www.cards-capital.com/92529/centur-ion-primera-primus.jpg",
+    "cardName": "Centur-Ion Primera Primus",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 259,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info021.jpg",
+    "cardName": "Centur-Ion Atrii",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 260,
+    "imageUrl": "https://www.cards-capital.com/92504/centur-ion-chimerea.jpg",
+    "cardName": "Centur-Ion Chimerea",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 261,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/INFO/INFO-63.jpg",
+    "cardName": "Emblema du Salut",
+    "archetype": "Centur-Ion",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 262,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota079.jpg",
+    "cardName": "Impulsion Dominus",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 263,
+    "imageUrl": "https://www.lerepairedudragon.fr/126189/purge-dominus-se-info-.jpg",
+    "cardName": "Purge Dominus",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 264,
+    "imageUrl": "https://www.lerepairedudragon.fr/52504/yugioh-bras-gauche-de-l-interdit-c-ldk2.jpg",
+    "cardName": "Bras Gauche de l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 265,
+    "imageUrl": "https://www.cards-capital.com/34501/bras-droit-de-l-interdit.jpg",
+    "cardName": "Bras Droit de l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 266,
+    "imageUrl": "https://www.lerepairedudragon.fr/52506/yugioh-jambe-gauche-de-l-interdit-c-ldk2.jpg",
+    "cardName": "Jambe Gauche de l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 267,
+    "imageUrl": "https://www.cards-capital.com/29661/jambe-droite-de-l-interdit.jpg",
+    "cardName": "Jambe Droite de l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 268,
+    "imageUrl": "https://www.lerepairedudragon.fr/52502/yugioh-exodia-l-interdit-c-ldk2.jpg",
+    "cardName": "Exodia l'Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 269,
+    "imageUrl": "https://www.cards-capital.com/88692/l-incarne-de-l-instoppable-exodia.jpg",
+    "cardName": "L'Incarné de l'Instoppable Éxodia",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 270,
+    "imageUrl": "https://www.cards-capital.com/88717/ankh-millenaire.jpg",
+    "cardName": "Ankh Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 271,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info001.jpg",
+    "cardName": "Sengenjin se Réveille d'un Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 272,
+    "imageUrl": "https://www.cards-capital.com/88659/golem-qui-garde-les-tresors-millenaires.jpg",
+    "cardName": "Golem qui Garde les Trésors Millénaires",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 273,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info003.jpg",
+    "cardName": "Bouclier de la Dynastie Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 274,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info005.jpg",
+    "cardName": "Reflet Infernal du Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 275,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info004.jpg",
+    "cardName": "Vierge de la Lune Millénaire",
+    "archetype": "Exodia",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 276,
+    "imageUrl": "https://www.lerepairedudragon.fr/126162/temple-wedju-ur-info-.jpg",
+    "cardName": "Temple Wedju",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 277,
+    "imageUrl": "https://www.cards-capital.com/88732/feux-de-la-rage-exxod.jpg",
+    "cardName": "Feux de la Rage Exxod",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 278,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y03ultrarare.jpg",
+    "cardName": "Destruction !!!",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 279,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info055.jpg",
+    "cardName": "Embrasement Destruction !!!",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 280,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr051.jpg",
+    "cardName": "L'Incarné du Légendaire Exodia",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 281,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y09commune.jpg",
+    "cardName": "Exodia Necross",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 282,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/6f/Contratavec%C3%89xodia-LDK2-FR-C-1E.png/revision/latest?cb=20180730161551&path-prefix=fr",
+    "cardName": "Contrat avec Exodia",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 283,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7f/ExodiuslUltimeInterdit-MIL1-FR-C-1E.png/revision/latest?cb=20180730175747&path-prefix=fr",
+    "cardName": "Exodius l'Ultime Interdit",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 284,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni003.jpg",
+    "cardName": "Lotus du D Samsara",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 285,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24021.jpg",
+    "cardName": "Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 286,
+    "imageUrl": "https://www.cards-capital.com/85930/esprit-de-yubel.jpg",
+    "cardName": "Esprit de Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 287,
+    "imageUrl": "https://www.cards-capital.com/86195/yubel-terreur-incarnee.jpg",
+    "cardName": "Yubel - Terreur Incarnée",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 288,
+    "imageUrl": "https://www.lerepairedudragon.fr/119121/yubel-cauchemar-ultime-titre-or-ur-blc1-.jpg",
+    "cardName": "Yubel - Cauchemar Ultime",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 289,
+    "imageUrl": "https://www.cards-capital.com/86821/horrible-faufilleur-du-tombeau.jpg",
+    "cardName": "Horrible Faufilleur du Tombeau",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 290,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr047.jpg",
+    "cardName": "Fantôme de Yubel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 291,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_lede/lede061.jpg",
+    "cardName": "Trône du Cauchemar",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 292,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni054.jpg",
+    "cardName": "Douleur du Cauchemar",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 293,
+    "imageUrl": "https://www.cards-capital.com/85986/parchemin-mature.jpg",
+    "cardName": "Parchemin Mature",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 294,
+    "imageUrl": "https://www.cards-capital.com/85969/yubel-le-protecteur-affectueux-eternel.jpg",
+    "cardName": "Yubel - Le Protecteur Affectueux Éternel",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 295,
+    "imageUrl": "https://www.cards-capital.com/86005/eternel-favori.jpg",
+    "cardName": "Éternel Favori",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 296,
+    "imageUrl": "https://www.cards-capital.com/85931/golem-broyeurgeist.jpg",
+    "cardName": "Golem Broyeurgeist",
+    "archetype": "Yubel",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 297,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23239.jpg",
+    "cardName": "Fontaine Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 298,
+    "imageUrl": "https://www.cards-capital.com/74900/destruction-runick.jpg",
+    "cardName": "Destruction Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 299,
+    "imageUrl": "https://www.cards-capital.com/74902/maledictions-glaciales-runick.jpg",
+    "cardName": "Malédictions Glaciales Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 300,
+    "imageUrl": "https://www.cards-capital.com/74899/feu-etincelant-runick.jpg",
+    "cardName": "Feu Étincelant Runick",
+    "archetype": "Runick",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  }
+]

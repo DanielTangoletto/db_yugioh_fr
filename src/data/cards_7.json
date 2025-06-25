@@ -1,0 +1,698 @@
+[
+  {
+    "id": 601,
+    "imageUrl": "https://www.cards-capital.com/88762/lune-du-paradis-ferme.jpg",
+    "cardName": "Lune du Paradis Fermé",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 602,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02045.jpg",
+    "cardName": "Déesse des Enfers du Monde Fermé",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 603,
+    "imageUrl": "https://www.cards-capital.com/91453/ange-du-chaos.jpg",
+    "cardName": "Ange du Chaos",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 604,
+    "imageUrl": "https://www.cards-capital.com/56167/anaconda-vert-predaplante.jpg",
+    "cardName": "Anaconda Vert Prédaplante",
+    "archetype": "Staple",
+    "secondArchetype": "Predaplant",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 605,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr012.jpg",
+    "cardName": "Résident des Abysses",
+    "archetype": "Staple",
+    "secondArchetype": "Floodgate",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 606,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03063.jpg",
+    "cardName": "L'Herbe a l'Air plus Verte",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 607,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01060.jpg",
+    "cardName": "Plus du Tout Gouverneur des Ténèbres",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 608,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02070.jpg",
+    "cardName": "Pourfendeuse Ultime",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 609,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info052.jpg",
+    "cardName": "Lapin Silhouettochapeau",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 610,
+    "imageUrl": "/cartes/Argostars_Tydeu.png",
+    "cardName": "Argostars - Foudroyante Tydéu",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 611,
+    "imageUrl": "/cartes/Argostars_Eteo.png",
+    "cardName": "Argostars - Pourfendeuse Étéo",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 612,
+    "imageUrl": "/cartes/Argostars_Veloce.png",
+    "cardName": "Argostars - Véloce Capane",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 613,
+    "imageUrl": "/cartes/Argostars_Adra.png",
+    "cardName": "Argostars - Glorieuse Adra",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 614,
+    "imageUrl": "/cartes/Argostars_Parthe.png",
+    "cardName": "Argostars - Féroce Parthe",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 615,
+    "imageUrl": "/cartes/Argostars_Stade.png",
+    "cardName": "Argostars - Stade à Domicile",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 616,
+    "imageUrl": "/cartes/Argostars_Tueur.png",
+    "cardName": "Argostars - Tueur de Géants",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 617,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_GFP2/gfp2147.jpg",
+    "cardName": "Jormungandr, Boss Genèraideur de l'Éternité",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 618,
+    "imageUrl": "https://www.cards-capital.com/78525/laevatein-boss-generaideur-des-ombres.jpg",
+    "cardName": "Laevatein, Boss Genèraideur des Ombres",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 619,
+    "imageUrl": "https://www.cards-capital.com/91539/vala-seidhr-des-boss-generaideur.jpg",
+    "cardName": "Vala, Seidhr des Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 620,
+    "imageUrl": "https://www.cards-capital.com/72316/mardel-boss-generaideur-de-la-lumiere.jpg",
+    "cardName": "Mardel, Boss Genèraideur de la Lumière",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 621,
+    "imageUrl": "https://www.cards-capital.com/72317/hela-boss-generaideur-de-la-mort.jpg",
+    "cardName": "Hela, Boss Genèraideur de la Mort",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 622,
+    "imageUrl": "https://www.cards-capital.com/56681/harr-boss-generaideur-des-tempetes.jpg",
+    "cardName": "Harr, Boss Genèraideur des Tempêtes",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 623,
+    "imageUrl": "https://www.cards-capital.com/56682/loptr-ombre-des-boss-generaideur.jpg",
+    "cardName": "Loptr, Ombre des Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 624,
+    "imageUrl": "https://www.cards-capital.com/55289/utgarda-boss-generaideur-de-la-delusion.jpg",
+    "cardName": "Utgarda, Boss Genèraideur de la Délusion",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 625,
+    "imageUrl": "https://www.cards-capital.com/72390/niveau-boss-generaideur.jpg",
+    "cardName": "Niveau Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 626,
+    "imageUrl": "https://www.cards-capital.com/54691/butin-boss-generaideur.jpg",
+    "cardName": "Butin Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 627,
+    "imageUrl": "https://www.cards-capital.com/54692/combat-boss-generaideur.jpg",
+    "cardName": "Combat Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 628,
+    "imageUrl": "https://www.cards-capital.com/54693/salle-boss-generaideur.jpg",
+    "cardName": "Salle Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 629,
+    "imageUrl": "https://www.cards-capital.com/54694/morsure-boss-generaideur.jpg",
+    "cardName": "Morsure Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 630,
+    "imageUrl": "https://www.cards-capital.com/54686/nidhogg-boss-generaideur-de-la-glace.jpg",
+    "cardName": "Nidhogg, Boss Genèraideur de la Glace",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 631,
+    "imageUrl": "https://www.cards-capital.com/54685/naglfar-boss-generaideur-du-feu.jpg",
+    "cardName": "Naglfar, Boss Genèraideur du Feu",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 632,
+    "imageUrl": "https://www.cards-capital.com/54684/dovelgus-boss-generaideur-du-fer.jpg",
+    "cardName": "Dovelgus, Boss Genèraideur du Fer",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 633,
+    "imageUrl": "https://www.cards-capital.com/54690/quete-boss-generaideur.jpg",
+    "cardName": "Quête Boss Genèraideur",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 634,
+    "imageUrl": "https://www.cards-capital.com/54683/frodi-boss-generaideur-des-epees.jpg",
+    "cardName": "Frodi, Boss Genèraideur des Épées",
+    "archetype": "Generaider",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 635,
+    "imageUrl": "https://www.cards-capital.com/93236/neptabysses-le-prince-de-l-atlantide.jpg",
+    "cardName": "Neptabysses, le Prince de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 636,
+    "imageUrl": "https://www.cards-capital.com/93191/cavalerie-dragon-de-l-atlantide.jpg",
+    "cardName": "Cavalerie Dragon de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 637,
+    "imageUrl": "https://www.cards-capital.com/92553/pique-abysses-triaina.jpg",
+    "cardName": "Pique-Abysses Triaina",
+    "archetype": "Atlantean",
+    "secondArchetype": "Mermail",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 638,
+    "imageUrl": "https://www.cards-capital.com/92537/roi-des-sirenemures-neptabysses.jpg",
+    "cardName": "Roi des Sirènemures - Neptabysses",
+    "archetype": "Atlantean",
+    "secondArchetype": "Mermail",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 639,
+    "imageUrl": "https://www.cards-capital.com/92534/poseidra-des-abysses-le-seigneur-dragon-de-l-atlantide.jpg",
+    "cardName": "Poseidra des Abysses, le Seigneur Dragon de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "Mermail",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 640,
+    "imageUrl": "https://www.cards-capital.com/92505/rhinabysses-l-esprit-de-l-atlantide.jpg",
+    "cardName": "Rhinabysses, l'Esprit de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "Mermail",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 641,
+    "imageUrl": "https://www.cards-capital.com/92506/escouade-de-l-ombre-sirenemure.jpg",
+    "cardName": "Escouade de l'Ombre Sirènemure",
+    "archetype": "Atlantean",
+    "secondArchetype": "Mermail",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 642,
+    "imageUrl": "https://www.cards-capital.com/9459/tireur-de-l-atlantide.jpg",
+    "cardName": "Tireur de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 643,
+    "imageUrl": "https://www.cards-capital.com/16939/infanterie-lourde-de-l-atlantide.jpg",
+    "cardName": "Infanterie Lourde de l'Atlantide",
+    "archetype": "Atlantean",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 644,
+    "imageUrl": "https://www.cards-capital.com/93198/sirenemure-abyssteus.jpg",
+    "cardName": "Sirènemure Abyssteus",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 645,
+    "imageUrl": "https://www.cards-capital.com/59053/sirenemure-abyssalacia.jpg",
+    "cardName": "Sirènemure Abyssalacia",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 646,
+    "imageUrl": "https://www.cards-capital.com/45994/sirenemure-nereidabysses.jpg",
+    "cardName": "Sirènemure Néréidabysses",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 647,
+    "imageUrl": "https://www.cards-capital.com/45658/sirenemure-abyssleed.jpg",
+    "cardName": "Sirènemure Abyssleed",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 648,
+    "imageUrl": "https://www.cards-capital.com/45657/sirenemure-abyssmegalo.jpg",
+    "cardName": "Sirènemure Abyssmégalo",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 649,
+    "imageUrl": "https://www.cards-capital.com/22488/sirenemure-abyssbalaen.jpg",
+    "cardName": "Sirènemure Abyssbalaen",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 650,
+    "imageUrl": "https://www.cards-capital.com/22473/ecaille-abysses-de-mizuchi.jpg",
+    "cardName": "Écaille-Abysses de Mizuchi",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 651,
+    "imageUrl": "https://www.cards-capital.com/22449/sirenemure-abyssocea.jpg",
+    "cardName": "Sirènemure Abyssocea",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 652,
+    "imageUrl": "https://www.cards-capital.com/16964/sirenemure-abyssgunde.jpg",
+    "cardName": "Sirènemure Abyssgunde",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 653,
+    "imageUrl": "https://www.cards-capital.com/10712/mepris-abysses.jpg",
+    "cardName": "Mépris-Abysses",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 654,
+    "imageUrl": "https://www.cards-capital.com/10685/sirenemure-abysstrite.jpg",
+    "cardName": "Sirènemure Abysstrite",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 655,
+    "imageUrl": "https://www.cards-capital.com/10663/sirenemure-abyssnose.jpg",
+    "cardName": "Sirènemure Abyssnose",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 656,
+    "imageUrl": "https://www.cards-capital.com/10662/sirenemure-abyssdine.jpg",
+    "cardName": "Sirènemure Abyssdine",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 657,
+    "imageUrl": "https://www.cards-capital.com/10308/sirenemure-abyssmander.jpg",
+    "cardName": "Sirènemure Abyssmander",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 658,
+    "imageUrl": "https://www.cards-capital.com/10297/sphere-abysses.jpg",
+    "cardName": "Sphère-Abysses",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 659,
+    "imageUrl": "https://www.cards-capital.com/10296/bourrasque-abysses.jpg",
+    "cardName": "Bourrasque-Abysses",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 660,
+    "imageUrl": "https://www.cards-capital.com/10269/sirenemure-abyssgaios.jpg",
+    "cardName": "Sirènemure Abyssgaios",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 661,
+    "imageUrl": "https://www.cards-capital.com/10238/sirenemure-abysslung.jpg",
+    "cardName": "Sirènemure Abysslung",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 662,
+    "imageUrl": "https://www.cards-capital.com/10236/sirenemure-abyssturge.jpg",
+    "cardName": "Sirènemure Abyssturge",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 663,
+    "imageUrl": "https://www.cards-capital.com/10237/sirenemure-abysspike.jpg",
+    "cardName": "Sirènemure Abysspike",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 664,
+    "imageUrl": "https://www.cards-capital.com/10232/sirenemure-abysslinde.jpg",
+    "cardName": "Sirènemure Abysslinde",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 665,
+    "imageUrl": "https://www.cards-capital.com/10282/ecaille-abysses-de-kraken.jpg",
+    "cardName": "Écaille-Abysses de Kraken",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 666,
+    "imageUrl": "https://www.cards-capital.com/10697/ecaille-abysses-de-cetus.jpg",
+    "cardName": "Écaille-Abysses de Cetus",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 667,
+    "imageUrl": "https://www.cards-capital.com/72376/halqifibrax-crystron.jpg",
+    "cardName": "Halqifibrax Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 668,
+    "imageUrl": "https://www.cards-capital.com/44656/quandax-crystron.jpg",
+    "cardName": "Quandax Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 669,
+    "imageUrl": "https://www.cards-capital.com/39840/entree-crystron.jpg",
+    "cardName": "Entrée Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 670,
+    "imageUrl": "https://www.cards-capital.com/39867/rion-crystron.jpg",
+    "cardName": "Rion Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 671,
+    "imageUrl": "https://www.cards-capital.com/39841/impact-crystron.jpg",
+    "cardName": "Impact Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 672,
+    "imageUrl": "https://www.cards-capital.com/39833/potentiel-crystolique.jpg",
+    "cardName": "Potentiel Crystolique",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 673,
+    "imageUrl": "https://www.cards-capital.com/39820/rosenix-crystron.jpg",
+    "cardName": "Rosénix Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 674,
+    "imageUrl": "https://www.cards-capital.com/39817/prasiortue-crystron.jpg",
+    "cardName": "Prasiortle Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 675,
+    "imageUrl": "https://www.cards-capital.com/39818/morigre-crystron.jpg",
+    "cardName": "Morigre Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 676,
+    "imageUrl": "https://www.cards-capital.com/39819/thystivre-crystron.jpg",
+    "cardName": "Thystivre Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 677,
+    "imageUrl": "https://www.cards-capital.com/36210/quariongandrax-crystron.jpg",
+    "cardName": "Quariongandrax Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 678,
+    "imageUrl": "https://www.cards-capital.com/36185/soufefnir-crystron.jpg",
+    "cardName": "Soufefnir Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 679,
+    "imageUrl": "https://www.cards-capital.com/35106/ametrix-crystron.jpg",
+    "cardName": "Amétrix Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 680,
+    "imageUrl": "https://www.cards-capital.com/35107/phenix-crystron.jpg",
+    "cardName": "Phénix Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 681,
+    "imageUrl": "https://www.cards-capital.com/35077/citree-crystron.jpg",
+    "cardName": "Citree Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 682,
+    "imageUrl": "https://www.cards-capital.com/35076/quan-crystron.jpg",
+    "cardName": "Quan Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 683,
+    "imageUrl": "https://www.lerepairedudragon.fr/137181/eleskeletus-crystron-c-suda-.jpg",
+    "cardName": "Crystron Eleskeletus",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 684,
+    "imageUrl": "https://www.lerepairedudragon.fr/137143/amas-crystron-c-suda-.jpg",
+    "cardName": "Amas Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 685,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/31552317.jpg",
+    "cardName": "Inclusion Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 686,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/0/01/CrystronTristaros-SUDA-EN-SR-1E.png/revision/latest?cb=20250409131757",
+    "cardName": "Tristaros Crystron",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 687,
+    "imageUrl": "https://images.ygoprodeck.com/images/cards/25865565.jpg",
+    "cardName": "Crystron Soulfador",
+    "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  }
+]

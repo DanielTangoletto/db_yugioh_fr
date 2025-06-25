@@ -17,6 +17,11 @@ export default function Media() {
         className="fa-brands fa-square-youtube text-3xl text-white hover:text-[#c4302b] cursor-pointer"
       ></a>
       <a
+        href="https://twitter.com/d__tango"
+        target="_blank"
+        className="fa-brands fa-square-twitter text-3xl text-white hover:text-[#1DA1F2] cursor-pointer"
+      ></a>
+      <a
         href="https://www.linkedin.com/in/daniel-tangoletto-823210215/"
         target="_blank"
         className="fa-brands fa-linkedin text-white text-3xl hover:text-[#0e76a8] cursor-pointer"

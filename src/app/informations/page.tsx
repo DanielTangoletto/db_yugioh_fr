@@ -2,22 +2,30 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import Navbar from "@/components/Navbar/Navbar";
-import Card from "../../data/cards.json";
+import Navbar from "@/components/Navbar";
+import cards1 from "../../data/cards_1.json";
+import cards2 from "../../data/cards_2.json";
+import cards3 from "../../data/cards_3.json";
+import cards4 from "../../data/cards_4.json";
+import cards5 from "../../data/cards_5.json";
+import cards6 from "../../data/cards_6.json";
+import cards7 from "../../data/cards_7.json";
 import Yugi from "../../../public/yugi.webp";
+
+const Card = [...cards1, ...cards2, ...cards3, ...cards4, ...cards5, ...cards6, ...cards7];
 
 export default function Informations() {
   return (
     <div className="overflow-x-hidden">
       <div className="fixed -z-50 bg-gradient-to-br from-gray-900 to-gray-600 w-full h-full"></div>
       <Image
-              src="https://images7.alphacoders.com/875/875040.jpg"
-              alt=""
-              width={1920}
-              height={1080}
-              loading="lazy"
-              className="fixed inset-0 -z-49 object-cover w-screen h-screen opacity-10"
-            />
+        src="https://images7.alphacoders.com/875/875040.jpg"
+        alt=""
+        width={1920}
+        height={1080}
+        loading="lazy"
+        className="fixed inset-0 -z-49 object-cover w-screen h-screen opacity-10"
+      />
       <header className="text-white text-center py-4">
         <div className="flex flex-col items-center">
           <Image

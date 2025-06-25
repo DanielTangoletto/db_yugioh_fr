@@ -1,0 +1,802 @@
+[
+  {
+    "id": 101,
+    "imageUrl": "https://www.cards-capital.com/76720/chagrin-des-tiarmentations.jpg",
+    "cardName": "Chagrin des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 102,
+    "imageUrl": "https://www.cards-capital.com/76721/battement-de-coeur-des-tiarmentations.jpg",
+    "cardName": "Battement de coeur des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 103,
+    "imageUrl": "https://www.cards-capital.com/78539/perlegia-des-tiarmentations.jpg",
+    "cardName": "Perlegia des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 104,
+    "imageUrl": "https://www.cards-capital.com/74331/kitkallos-des-tiarmentations.jpg",
+    "cardName": "Kitkallos des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 105,
+    "imageUrl": "https://www.cards-capital.com/76702/rulkallos-des-tiarmentations.jpg",
+    "cardName": "Rulkallos des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 106,
+    "imageUrl": "https://www.cards-capital.com/74332/kaleido-heart-des-tiarmentations.jpg",
+    "cardName": "Kaleido-Heart des Tiarmentations",
+    "archetype": "Tearlaments",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 107,
+    "imageUrl": "https://www.lerepairedudragon.fr/101005/bystial-magnamhut-sr-dabl-.jpg",
+    "cardName": "Bystial Magnamhut",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 108,
+    "imageUrl": "https://www.lerepairedudragon.fr/101007/bystial-druiswurm-sr-dabl-.jpg",
+    "cardName": "Bystial Druiswurm",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 109,
+    "imageUrl": "https://www.cards-capital.com/78481/bystial-baldrake.jpg",
+    "cardName": "Bystial Baldrake",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 110,
+    "imageUrl": "https://www.cards-capital.com/82950/bystial-saronir.jpg",
+    "cardName": "Bystial Saronir",
+    "archetype": "Bystial",
+    "secondArchetype": "Branded",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 111,
+    "imageUrl": "https://www.lerepairedudragon.fr/107589/bystial-dis-pater-ur-cyac-.jpg",
+    "cardName": "Bystial Dis Pater",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 112,
+    "imageUrl": "https://www.cards-capital.com/82651/le-bystial-lubellion.jpg",
+    "cardName": "Le Bystial Lubellion",
+    "archetype": "Bystial",
+    "secondArchetype": "Branded",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 113,
+    "imageUrl": "https://www.cards-capital.com/79931/the-bystial-aluber.jpg",
+    "cardName": "Le Bystial Aluber",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 114,
+    "imageUrl": "https://www.cards-capital.com/82652/le-bystial-alba-los.jpg",
+    "cardName": "Le Bystial Alba Los",
+    "archetype": "Bystial",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 115,
+    "imageUrl": "https://www.cards-capital.com/94570/epee-ryzeal.jpg",
+    "cardName": "Épée Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 116,
+    "imageUrl": "https://www.cards-capital.com/94573/noeud-ryzeal.jpg",
+    "cardName": "Noeud Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 117,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr003.jpg",
+    "cardName": "Int Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 118,
+    "imageUrl": "https://www.cards-capital.com/94576/ext-ryzeal.jpg",
+    "cardName": "Ext Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 119,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr007cr.jpg",
+    "cardName": "Détonateur Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 120,
+    "imageUrl": "https://www.cards-capital.com/94579/propulseur-duo-ryzeal.jpg",
+    "cardName": "Propulseur Duo Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 121,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr009.jpg",
+    "cardName": "Croisement Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 122,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr008.jpg",
+    "cardName": "Branchement Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 123,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr010.jpg",
+    "cardName": "Trappe de Plasma Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 124,
+    "imageUrl": "https://www.cards-capital.com/94578/paume-ryzeal.jpg",
+    "cardName": "Paume Ryzéal",
+    "archetype": "Ryzeal",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 125,
+    "imageUrl": "https://www.cards-capital.com/80984/draco-berserker-du-tenyi.jpg",
+    "cardName": "Draco Berserker du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 126,
+    "imageUrl": "https://www.cards-capital.com/59064/esprit-tenyi-adhara.jpg",
+    "cardName": "Esprit Tenyi - Adhara",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 127,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_GFP2/gfp2084.jpg",
+    "cardName": "Esprit Tenyi - Shthana",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 128,
+    "imageUrl": "https://www.lerepairedudragon.fr/74310/yugioh-esprit-tenyi-vishuda-r-rira-.jpg",
+    "cardName": "Esprit Tenyi - Vishuda",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 129,
+    "imageUrl": "https://www.cards-capital.com/53915/tenyi-spirit-ashuna.jpg",
+    "cardName": "Esprit Tenyi - Ashuna",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 130,
+    "imageUrl": "https://www.cards-capital.com/94650/moine-du-tenyi.jpg",
+    "cardName": "Moine du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 131,
+    "imageUrl": "https://www.lerepairedudragon.fr/74361/yugioh-shaman-du-tenyi-ur-rira-.jpg",
+    "cardName": "Shaman du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 132,
+    "imageUrl": "https://www.cards-capital.com/51389/esprit-tenyi-mapura.jpg",
+    "cardName": "Esprit Tenyi - Mapura",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 133,
+    "imageUrl": "https://www.lerepairedudragon.fr/97651/cercle-du-dragon-divin-ur-gfp2-yu-gi-oh.jpg",
+    "cardName": "Cercle du Dragon Divin",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 134,
+    "imageUrl": "https://www.cards-capital.com/59089/receptacle-pour-le-cycle-du-dragon.jpg",
+    "cardName": "Réceptacle pour le Cycle du Dragon",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 135,
+    "imageUrl": "https://www.cards-capital.com/53892/draco-maitres-du-tenyi.jpg",
+    "cardName": "Draco Maîtres du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 136,
+    "imageUrl": "https://www.cards-capital.com/56172/esprit-tenyi-sahasrara.jpg",
+    "cardName": "Esprit Tenyi - Sahasrara",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 137,
+    "imageUrl": "https://www.cards-capital.com/51448/poings-du-sans-egal-du-tenyi.jpg",
+    "cardName": "Poings du Sans Égal du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 138,
+    "imageUrl": "https://www.cards-capital.com/51390/esprit-tenyi-nahata.jpg",
+    "cardName": "Esprit Tenyi - Nahata",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 139,
+    "imageUrl": "https://www.cards-capital.com/59081/berserker-du-tenyi.jpg",
+    "cardName": "Berserker du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 140,
+    "imageUrl": "https://www.cards-capital.com/59088/perfection-sans-defaut-du-tenyi.jpg",
+    "cardName": "Perfection sans Défaut du Tenyi",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 141,
+    "imageUrl": "https://www.lerepairedudragon.fr/137185/esprit-tenyi-mula-adhara-ur-suda-.jpg",
+    "cardName": "Esprit Tenyi - Mula Adhara",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 142,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen021.png",
+    "cardName": "Esprit Tenyi - Surya",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 143,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen062.png",
+    "cardName": "Tenyinfini",
+    "archetype": "Tenyi",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 144,
+    "imageUrl": "https://www.cards-capital.com/84411/terra-formation.jpg",
+    "cardName": "Terra Formation",
+    "archetype": "Staple",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 145,
+    "imageUrl": "https://www.cards-capital.com/94599/maliss-compilatrice-blanche.jpg",
+    "cardName": "Maliss <Q> Compilatrice Blanche",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 146,
+    "imageUrl": "https://www.cards-capital.com/94595/maliss-lapin-blanc.jpg",
+    "cardName": "Maliss <P> Lapin Blanc",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 147,
+    "imageUrl": "https://www.cards-capital.com/94596/maliss-chat-chessy.jpg",
+    "cardName": "Maliss <P> Chat Chessy",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 148,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr017.jpg",
+    "cardName": "Maliss <P> Loir",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 149,
+    "imageUrl": "https://www.cards-capital.com/94604/maliss-mtp-07.jpg",
+    "cardName": "Maliss <C> MTP-07",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 150,
+    "imageUrl": "https://www.cards-capital.com/94606/maliss-gwc-06.jpg",
+    "cardName": "Maliss <C> GWC-06",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 151,
+    "imageUrl": "https://www.cards-capital.com/94608/maliss-tb-11.jpg",
+    "cardName": "Maliss <C> TB-11",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 152,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr021.jpg",
+    "cardName": "Maliss sous Terre",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 153,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr018.jpg",
+    "cardName": "Maliss <Q> Rançon Rouge",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 154,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CRBR/crbr020.jpg",
+    "cardName": "Maliss <Q> Chiffreuse de Coeur",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 155,
+    "imageUrl": "https://www.cards-capital.com/86864/sangen-kaimen.jpg",
+    "cardName": "Sangen Kaimen",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 156,
+    "imageUrl": "https://www.cards-capital.com/86863/invocation-sangen.jpg",
+    "cardName": "Invocation Sangen",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 157,
+    "imageUrl": "https://www.cards-capital.com/88737/sangen-kaiho.jpg",
+    "cardName": "Sangen Kaiho",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 158,
+    "imageUrl": "https://www.lerepairedudragon.fr/122202/tenpai-dragon-chundra-c-lede-.jpg",
+    "cardName": "Tenpai Dragon Chundra",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 159,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info019.jpg",
+    "cardName": "Tenpai Dragon Genroku",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 160,
+    "imageUrl": "https://www.cards-capital.com/86819/tenpai-dragon-fadra.jpg",
+    "cardName": "Tenpai Dragon Fadra",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 161,
+    "imageUrl": "https://www.cards-capital.com/86818/tenpai-dragon-paidra.jpg",
+    "cardName": "Tenpai Dragon Paidra",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 162,
+    "imageUrl": "https://www.cards-capital.com/86841/dragion-bident-sangenpai.jpg",
+    "cardName": "Dragion Bident Sangenpai",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 163,
+    "imageUrl": "https://www.cards-capital.com/86842/dragion-transcendant-sangenpai.jpg",
+    "cardName": "Dragion Transcendant Sangenpai",
+    "archetype": "Tenpai Dragon",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 164,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info013.jpg",
+    "cardName": "Astellar de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 165,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info014.jpg",
+    "cardName": "Elzette de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 166,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info016.jpg",
+    "cardName": "Rucia de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 167,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info015.jpg",
+    "cardName": "Silvy de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 168,
+    "imageUrl": "https://www.lerepairedudragon.fr/137182/elzette-azamina-de-la-foret-blanche-se-suda-.jpg",
+    "cardName": "Elzette, Azamina de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "Azamina",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 169,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info058.jpg",
+    "cardName": "Contes de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 170,
+    "imageUrl": "https://www.cards-capital.com/88735/malheur-de-la-foret-blanche.jpg",
+    "cardName": "Malheur de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 171,
+    "imageUrl": "https://www.cards-capital.com/88701/rciela-ame-sinistre-de-la-foret-blanche.jpg",
+    "cardName": "Rciela, Âme Sinistre de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 172,
+    "imageUrl": "https://www.cards-capital.com/88699/silvera-dompteuse-de-loups-de-la-foret-blanche.jpg",
+    "cardName": "Silvera, dompteuse de loups de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 173,
+    "imageUrl": "https://www.cards-capital.com/88703/diabell-reine-de-la-foret-blanche.jpg",
+    "cardName": "Diabell, Reine de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 174,
+    "imageUrl": "https://www.cards-capital.com/88723/attention-a-la-foret-blanche.jpg",
+    "cardName": "Attention à la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 175,
+    "imageUrl": "https://www.cards-capital.com/92547/fleau-de-la-foret-blanche.jpg",
+    "cardName": "Fléau de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 176,
+    "imageUrl": "/cartes/ButinDuPêchéDeLaForêtBlanche.png",
+    "cardName": "Butin du Pêché de la Forêt Blanche",
+    "archetype": "White Forest",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 177,
+    "imageUrl": "/cartes/AzaminaAphes.png",
+    "cardName": "Azamina Aphes",
+    "archetype": "White Forest",
+    "secondArchetype": "Azamina",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 178,
+    "imageUrl": "https://www.cards-capital.com/55195/dragon-blanc-aux-yeux-bleus.jpg",
+    "cardName": "Dragon Blanc aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 179,
+    "imageUrl": "https://www.cards-capital.com/87546/dragon-esprit-aux-yeux-bleus.jpg",
+    "cardName": "Dragon Esprit aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 180,
+    "imageUrl": "https://www.lerepairedudragon.fr/138387/dragon-esprit-ultime-aux-yeux-bleus-ur-sdwd-.jpg",
+    "cardName": "Dragon Esprit Ultime aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 181,
+    "imageUrl": "/cartes/EspritAvecDesYeuxDeBleu.png",
+    "cardName": "Esprit avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 182,
+    "imageUrl": "/cartes/DemoiselleBlanche.png",
+    "cardName": "Demoiselle Blanche",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 183,
+    "imageUrl": "/cartes/HurlementDesDragonsAuxYeuxDeBleu.png",
+    "cardName": "Hurlement des Dragons aux Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 184,
+    "imageUrl": "/cartes/VoeuxPourLesYeuxDeBleu.png",
+    "cardName": "Voeux pour les Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 185,
+    "imageUrl": "https://www.cards-capital.com/66200/veritable-lumiere.jpg",
+    "cardName": "Véritable Lumière",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 186,
+    "imageUrl": "https://www.cards-capital.com/86167/sage-avec-des-yeux-de-bleu.jpg",
+    "cardName": "Sage avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 187,
+    "imageUrl": "https://www.cards-capital.com/69849/dragon-tyran-aux-yeux-bleus.jpg",
+    "cardName": "Dragon Tyran aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 188,
+    "imageUrl": "https://www.lerepairedudragon.fr/138377/neo-dragon-ultime-aux-yeux-bleus-c-sdwd-.jpg",
+    "cardName": "Néo Dragon Ultime aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 189,
+    "imageUrl": "/cartes/MajestéDesDragonsBlancs.png",
+    "cardName": "Majesté des Dragons Blancs",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 190,
+    "imageUrl": "/cartes/NéoKaiserHippocampe.png",
+    "cardName": "Néo Kaiser Hippocampe",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 191,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota004.jpg",
+    "cardName": "Coeur aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "Millennium",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 192,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BACH/bach004.jpg",
+    "cardName": "Dragon à Réaction aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 193,
+    "imageUrl": "https://www.cards-capital.com/82518/fusion-ultime.jpg",
+    "cardName": "Fusion Ultime",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 194,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/49/Ma%C3%AEtreavecdesYeuxdeBleu-LCKC-FR-UR-1E.png/revision/latest/scale-to-width-down/678?cb=20180904192531&path-prefix=fr",
+    "cardName": "Maître avec des Yeux de Bleu",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 195,
+    "imageUrl": "https://www.cards-capital.com/62778/dragon-jumele-d-explosion-aux-yeux-bleus.jpg",
+    "cardName": "Dragon Jumelé d'Explosion aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 196,
+    "imageUrl": "/cartes/LaCréatureUltimedeDestruction.png",
+    "cardName": "La Créature Ultime de Destruction",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 197,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/e2/DragonUltimeauxYeuxBleus-SBLS-FR-UR-1E.png/revision/latest?cb=20190326121430&path-prefix=fr",
+    "cardName": "Dragon Ultime aux yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 198,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/5/58/ChevalierMa%C3%AEtredesDragons-LCKC-FR-ScR-1E.png/revision/latest/scale-to-width-down/678?cb=20180730160904&path-prefix=fr",
+    "cardName": "Chevalier Maître des Dragons",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 199,
+    "imageUrl": "https://www.lerepairedudragon.fr/75355/yugioh-dragon-ultime-alternatif-aux-yeux-bleus-psr-tn19-.jpg",
+    "cardName": "Dragon Ultime Alternatif aux Yeux Bleus",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 200,
+    "imageUrl": "https://www.cards-capital.com/88111/magia-maitre-des-dragons.jpg",
+    "cardName": "Magia Maître des Dragons",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  }
+]

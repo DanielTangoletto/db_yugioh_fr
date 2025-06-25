@@ -94,7 +94,7 @@ MaJ de la base de données (DB) :
 
 • _Memento_ ✔️\
 • _Statues-Barrière_ ✔️\
-• _Goblin Biker_✔️\
+• _Goblin Biker_ ✔️\
 • _Quelques staples_ ✔️\
 • _Argostars_ ✔️\
 
@@ -104,4 +104,10 @@ Ajout d'une mini-box de texte.
 MaJ de la base de données (DB) :
 
 • _Generaider_ ✔️\
-• _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)\
+• _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)
+
+## V.1.04 - Fin Juin 2025 (xxx cartes recensées)
+Quelques updates graphiques, plus de cartes à rajouter à venir.
+
+MaJ de la base de données :
+• _Crystron (Inclusion, Tristaros, soulfador EN)_✔️
