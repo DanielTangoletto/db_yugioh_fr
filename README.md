@@ -96,7 +96,7 @@ MaJ de la base de données (DB) :
 • _Statues-Barrière_ ✔️\
 • _Goblin Biker_ ✔️\
 • _Quelques staples_ ✔️\
-• _Argostars_ ✔️\
+• _Argostars_ ✔️
 
 ## V.1.03 - Fin Mai 2025 (666 cartes recensées)
 Ajout d'une mini-box de texte.
@@ -110,4 +110,4 @@ MaJ de la base de données (DB) :
 Quelques updates graphiques, plus de cartes à rajouter à venir.
 
 MaJ de la base de données :
-• _Crystron (Inclusion, Tristaros, soulfador EN)_✔️
+• _Crystron (Inclusion, Tristaros, soulfador EN)_ ✔️
