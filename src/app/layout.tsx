@@ -15,6 +15,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Yu-Gi-Oh Database FR - par DanyMasta",
   description: "Base de données de cartes Yu-Gi-Oh en français",
+  openGraph: {
+    images: [
+      {
+        url: "https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126",
+      },
+    ],
+  },
   authors: [{ name: "DanyMasta" }],
 };
 
@@ -26,14 +33,6 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
-        <meta
-          property="og:image"
-          content="https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126"
-        />
-        <meta
-          property="twitter:image"
-          content="https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126"
-        />
         <link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/favicon.ico" />
         <link
