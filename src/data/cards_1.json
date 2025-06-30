@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageUrl": "/cartes/DragonVengeur.png",
+    "imageUrl": "/cartes/DragonVengeur.webp",
     "cardName": "Dragon Vengeur de l'Œil de Serpent",
     "archetype": "Snake-Eye",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "imageUrl": "/cartes/Kyrie.png",
+    "imageUrl": "/cartes/Kyrie.webp",
     "cardName": "Fiendsmith Kyrie",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "imageUrl": "/cartes/Rextremende.png",
+    "imageUrl": "/cartes/Rextremende.webp",
     "cardName": "Fiendsmith's Rextremende",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": 43,
-    "imageUrl": "/cartes/MulcharmyMeowls.png",
+    "imageUrl": "/cartes/MulcharmyMeowls.webp",
     "cardName": "Mulcharmy Meowls",
     "archetype": "Handtrap",
     "secondArchetype": "",

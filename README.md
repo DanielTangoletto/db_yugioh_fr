@@ -99,6 +99,7 @@ MaJ de la base de données (DB) :
 • _Argostars_ ✔️
 
 ## V.1.03 - Fin Mai 2025 (666 cartes recensées)
+
 Ajout d'une mini-box de texte.
 
 MaJ de la base de données (DB) :
@@ -107,9 +108,11 @@ MaJ de la base de données (DB) :
 • _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)
 
 ## V.1.04 - Fin Juin 2025 (xxx cartes recensées)
+
 Quelques updates graphiques, plus de cartes à rajouter à venir.\
 Dans la liste des cartes : Catégories désormais affichées via des images, clic molette ouvre un nouvel onglet avec l'image de la carte.
 Ajout de la page Changelog + lien vers MDM
 
 MaJ de la base de données :
 • _Crystron (Inclusion, Tristaros, soulfador EN)_ ✔️
+• _Mimighoul_ ✔️

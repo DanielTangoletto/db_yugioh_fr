@@ -9,66 +9,75 @@ import cards4 from "../../data/cards_4.json";
 import cards5 from "../../data/cards_5.json";
 import cards6 from "../../data/cards_6.json";
 import cards7 from "../../data/cards_7.json";
+import cards8 from "../../data/cards_8.json";
 import Navbar from "@/components/Navbar";
 
-const Card = [...cards1, ...cards2, ...cards3, ...cards4, ...cards5, ...cards6, ...cards7];
+const Card = [
+  ...cards1,
+  ...cards2,
+  ...cards3,
+  ...cards4,
+  ...cards5,
+  ...cards6,
+  ...cards7,
+  ...cards8,
+];
 
 // Configuration des archetypes avec leurs images
 const ARCHETYPE_CONFIG = {
-  Albaz:
-    "https://ms.yugipedia.com//thumb/3/3e/FallenofAlbaz-MADU-EN-VG-artwork.png/275px-FallenofAlbaz-MADU-EN-VG-artwork.png",
-  Argostars: "https://ygomjson.untapped.gg/art/crop/256/alin/21050476.webp",
-  Atlantean: "https://ygomjson.untapped.gg/art/crop/256/cblz/22446869.webp",
-  Azamina: "https://ygomjson.untapped.gg/art/crop/256/suda/65033975.webp",
-  "Blue-Eyes": "https://ygomjson.untapped.gg/art/crop/256/lob/89631139.webp",
-  Branded: "https://ygomjson.untapped.gg/art/crop/256/dama/25451383.webp",
-  "Buster Blader": "https://ygomjson.untapped.gg/art/crop/256/bosh/3428069.webp",
-  Bystial: "https://ygomjson.untapped.gg/art/crop/256/dabl/32731036.webp",
-  "Centur-Ion": "https://ygomjson.untapped.gg/art/crop/256/lede/97698279.webp",
-  Crystron: "https://ygomjson.untapped.gg/art/crop/256/rate/3422200.webp",
-  "Dark Magician": "https://ygomjson.untapped.gg/art/crop/256/sdy/46986414.webp",
-  Despia: "https://ygomjson.untapped.gg/art/crop/256/dama/99456344.webp",
-  Dinomorphia: "https://ygomjson.untapped.gg/art/crop/256/bach/92133240.webp",
-  Dogmatika: "https://ygomjson.untapped.gg/art/crop/256/rotd/60303688.webp",
-  Exodia: "https://ygomjson.untapped.gg/art/crop/256/ldk2/58604027.webp",
-  Fiendsmith: "https://ygomjson.untapped.gg/art/crop/256/info/60764609.webp",
-  "Fire King": "https://ygomjson.untapped.gg/art/crop/256/sr14/2526224.webp",
-  Floodgate: "https://ygomjson.untapped.gg/art/crop/256/cibr/32181268.webp",
-  Generaider: "https://ygomjson.untapped.gg/art/crop/256/etco/68199168.webp",
-  "Goblin Biker": "https://ygomjson.untapped.gg/art/crop/256/phni/27868563.webp",
-  Handtrap: "https://ygomjson.untapped.gg/art/crop/256/macr/14558127.webp",
-  Kashtira: "https://ygomjson.untapped.gg/art/crop/256/dabl/68304193.webp",
-  Kuriboh: "https://ygomjson.untapped.gg/art/crop/256/bltr/48486809.webp",
-  Labrynth: "https://ygomjson.untapped.gg/art/crop/256/tama/2347656.webp",
-  Malefic: "https://ygomjson.untapped.gg/art/crop/256/ymp1/598988.webp",
-  Maliss:
-    "https://ms.yugipedia.com//thumb/c/c1/MalissinUnderground-OW.png/257px-MalissinUnderground-OW.png",
-  Mathmech: "https://ygomjson.untapped.gg/art/crop/256/pote/36521307.webp",
-  Mementotlain: "https://ygomjson.untapped.gg/art/crop/256/vasm/81677154.webp",
-  Mermail: "https://ygomjson.untapped.gg/art/crop/256/cblz/37781520.webp",
-  Millennium: "https://ygomjson.untapped.gg/art/crop/256/info/38775407.webp",
-  Predaplant: "https://ygomjson.untapped.gg/art/crop/256/difo/17825378.webp",
-  Primite: "https://ygomjson.untapped.gg/art/crop/256/suda/63198739.webp",
-  "Red-Eyes": "https://ygomjson.untapped.gg/art/crop/256/rota/80870883.webp",
-  Runick: "https://ygomjson.untapped.gg/art/crop/256/tama/92107604.webp",
-  Ryzeal: "https://yugi.wiki/assets/card-arts/8633261.jpg",
-  Sarcophagus: "https://ygomjson.untapped.gg/art/crop/256/info/342673.webp",
-  Shaddoll: "https://ygomjson.untapped.gg/art/crop/256/gftp/92079625.webp",
-  "Sinful Spoils": "https://ygomjson.untapped.gg/art/crop/256/rota/66328392.webp",
-  "Sky Striker": "https://ygomjson.untapped.gg/art/crop/256/dasa/26077387.webp",
-  "Snake-Eye": "https://ygomjson.untapped.gg/art/crop/256/agov/48452496.webp",
-  Spright: "https://yugi.wiki/assets/card-arts/54498517.jpg",
-  Springans: "https://yugi.wiki/assets/card-arts/48285768.jpg",
-  Staple: "https://yugi.wiki/assets/card-arts/12580477.jpg",
-  Swordsoul: "https://ygomjson.untapped.gg/art/crop/256/bode/93490856.webp",
-  Tearlaments: "https://yugi.wiki/assets/card-arts/92731385.jpg",
-  "Tenpai Dragon": "https://yugi.wiki/assets/card-arts/18969888.jpg",
-  Tenyi: "https://yugi.wiki/assets/card-arts/73121813.jpg",
-  Toon: "https://ygomjson.untapped.gg/art/crop/256/mrl/53183600.webp",
-  "Tri-Brigade": "https://ygomjson.untapped.gg/art/crop/256/phra/87209160.webp",
-  "Voiceless Voice": "https://ygomjson.untapped.gg/art/crop/256/phni/10774240.webp",
-  "White Forest": "https://ygomjson.untapped.gg/art/crop/256/info/98385955.webp",
-  Yubel: "https://ygomjson.untapped.gg/art/crop/256/ptdn/78371393.webp",
+  Albaz: "/sprites/Albaz.webp",
+  Argostars: "/sprites/Argostars.webp",
+  Atlantean: "/sprites/Atlantean.webp",
+  Azamina: "/sprites/Azamina.webp",
+  "Blue-Eyes": "/sprites/Blue_Eyes.webp",
+  Branded: "/sprites/Branded.webp",
+  "Buster Blader": "/sprites/Buster_Blader.webp",
+  Bystial: "/sprites/Bystial.webp",
+  "Centur-Ion": "/sprites/Centur_Ion.webp",
+  Crystron: "/sprites/Crystron.webp",
+  "Dark Magician": "/sprites/Dark_Magician.webp",
+  Despia: "/sprites/Despia.webp",
+  Dinomorphia: "/sprites/Dinomorphia.webp",
+  Dogmatika: "/sprites/Dogmatika.webp",
+  Exodia: "/sprites/Exodia.webp",
+  Fiendsmith: "/sprites/Fiendsmith.webp",
+  "Fire King": "/sprites/Fire_King.webp",
+  Floodgate: "/sprites/Floodgate.webp",
+  Generaider: "/sprites/Generaider.webp",
+  "Goblin Biker": "/sprites/Goblin_Biker.webp",
+  Handtrap: "/sprites/Handtrap.webp",
+  Kashtira: "/sprites/Kashtira.webp",
+  Kuriboh: "/sprites/Kuriboh.webp",
+  Labrynth: "/sprites/Labrynth.webp",
+  Malefic: "/sprites/Malefic.webp",
+  Maliss: "/sprites/Maliss.webp",
+  Mathmech: "/sprites/Mathmech.webp",
+  Mementotlain: "/sprites/Mementotlain.webp",
+  Mermail: "/sprites/Mermail.webp",
+  Millennium: "/sprites/Millennium.webp",
+  Mimighoul: "/sprites/Mimighoul.webp",
+  Predaplant: "/sprites/Predaplant.webp",
+  Primite: "/sprites/Primite.webp",
+  "Red-Eyes": "/sprites/Red_Eyes.webp",
+  Runick: "/sprites/Runick.webp",
+  Ryzeal: "/sprites/Ryzeal.webp",
+  Sarcophagus: "/sprites/Sarcophagus.webp",
+  Shaddoll: "/sprites/Shaddoll.webp",
+  "Sinful Spoils": "/sprites/Sinful_Spoils.webp",
+  "Sky Striker": "/sprites/Sky_Striker.webp",
+  "Snake-Eye": "/sprites/Snake_Eye.webp",
+  Spright: "/sprites/Spright.webp",
+  Springans: "/sprites/Springans.webp",
+  Staple: "/sprites/Staple.webp",
+  Swordsoul: "/sprites/Swordsoul.webp",
+  Tearlaments: "/sprites/Tearlaments.webp",
+  "Tenpai Dragon": "/sprites/Tenpai_Dragon.webp",
+  Tenyi: "/sprites/Tenyi.webp",
+  Toon: "/sprites/Toon.webp",
+  "Tri-Brigade": "/sprites/Tri_Brigade.webp",
+  "Voiceless Voice": "/sprites/Voiceless_Voice.webp",
+  "White Forest": "/sprites/White_Forest.webp",
+  Yubel: "/sprites/Yubel.webp",
 } as const;
 
 export default function CardList() {
@@ -151,8 +160,12 @@ export default function CardList() {
       <header>
         <Navbar />
       </header>
-      <Link href="/" className="fixed text-white left-3 top-3 text-2xl hover:opacity-75">
-        <i className="fa-solid fa-circle-left"></i>
+      <Link
+        href="/"
+        className="fixed text-white left-3 top-3 text-2xl hover:opacity-75"
+        aria-label="Retour à l'accueil"
+      >
+        <i className="fa-solid fa-circle-left" aria-hidden="true"></i>
       </Link>
 
       {/* Message de confirmation */}
@@ -175,6 +188,7 @@ export default function CardList() {
               )}`}
               style={getArchetypeStyle(archetype)}
               onClick={() => setSelectedArchetype(archetype)}
+              aria-label={`Sélectionner l'archetype ${archetype}`}
             >
               {!(archetype in ARCHETYPE_CONFIG) && archetype}
             </button>
@@ -183,22 +197,24 @@ export default function CardList() {
       </div>
       <div className="flex flex-wrap items-center justify-center gap-2 max-w-7xl px-5 sm:px-20 md:px-40 py-10 mx-auto">
         {filteredCards.map((card, index) => (
-          <div
+          <button
             key={index}
-            className="cursor-pointer relative"
+            className="cursor-pointer relative bg-transparent border-0 p-0"
             onClick={() => copyToClipboard(card.cardName)}
             onMouseDown={(e) => openImageInNewTab(card.imageUrl, e)}
+            aria-label={`Copier le nom de la carte ${card.cardName} dans le presse-papiers. Clic molette pour ouvrir l'image dans un nouvel onglet.`}
           >
             <Image
               src={card.imageUrl}
-              alt={card.cardName}
+              alt=""
               width={412}
               height={600}
               loading="lazy"
               quality={1}
               className="w-28 h-auto"
+              aria-hidden="true"
             />
-          </div>
+          </button>
         ))}
       </div>
     </div>

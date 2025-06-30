@@ -73,7 +73,7 @@
   },
   {
     "id": 610,
-    "imageUrl": "/cartes/Argostars_Tydeu.png",
+    "imageUrl": "/cartes/Argostars_Tydeu.webp",
     "cardName": "Argostars - Foudroyante Tydéu",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 611,
-    "imageUrl": "/cartes/Argostars_Eteo.png",
+    "imageUrl": "/cartes/Argostars_Eteo.webp",
     "cardName": "Argostars - Pourfendeuse Étéo",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -89,7 +89,7 @@
   },
   {
     "id": 612,
-    "imageUrl": "/cartes/Argostars_Veloce.png",
+    "imageUrl": "/cartes/Argostars_Veloce.webp",
     "cardName": "Argostars - Véloce Capane",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 613,
-    "imageUrl": "/cartes/Argostars_Adra.png",
+    "imageUrl": "/cartes/Argostars_Adra.webp",
     "cardName": "Argostars - Glorieuse Adra",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 614,
-    "imageUrl": "/cartes/Argostars_Parthe.png",
+    "imageUrl": "/cartes/Argostars_Parthe.webp",
     "cardName": "Argostars - Féroce Parthe",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 615,
-    "imageUrl": "/cartes/Argostars_Stade.png",
+    "imageUrl": "/cartes/Argostars_Stade.webp",
     "cardName": "Argostars - Stade à Domicile",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 616,
-    "imageUrl": "/cartes/Argostars_Tueur.png",
+    "imageUrl": "/cartes/Argostars_Tueur.webp",
     "cardName": "Argostars - Tueur de Géants",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -692,6 +692,110 @@
     "imageUrl": "https://images.ygoprodeck.com/images/cards/25865565.jpg",
     "cardName": "Crystron Soulfador",
     "archetype": "Crystron",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 688,
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota093.jpg",
+    "cardName": "Géant Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 689,
+    "imageUrl": "https://www.cards-capital.com/88757/archdemon-mimigoule.jpg",
+    "cardName": "Archdémon Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 690,
+    "imageUrl": "https://www.cards-capital.com/88755/dragon-mimigoule.jpg",
+    "cardName": "Dragon Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 691,
+    "imageUrl": "https://www.cards-capital.com/88754/mimigoule-de-la-mort.jpg",
+    "cardName": "Mimigoule de la Mort",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 692,
+    "imageUrl": "https://www.cards-capital.com/92588/charme-mimigoule.jpg",
+    "cardName": "Charme Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 693,
+    "imageUrl": "https://www.cards-capital.com/88760/chambre-mimigoule.jpg",
+    "cardName": "Chambre Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 694,
+    "imageUrl": "https://www.cards-capital.com/92581/armure-mimigoule.jpg",
+    "cardName": "Armure Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 695,
+    "imageUrl": "https://www.cards-capital.com/88759/fabricant-mimigoule.jpg",
+    "cardName": "Fabricant Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 696,
+    "imageUrl": "https://www.cards-capital.com/92587/embranchement-mimigoule.jpg",
+    "cardName": "Embranchement Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 697,
+    "imageUrl": "https://www.cards-capital.com/92582/fee-mimigoule.jpg",
+    "cardName": "Fée Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 698,
+    "imageUrl": "https://www.cards-capital.com/92585/trone-mimigoule.jpg",
+    "cardName": "Trône Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 699,
+    "imageUrl": "https://www.cards-capital.com/88754/maitre-mimigoule.jpg",
+    "cardName": "Maitre Mimigoule",
+    "archetype": "Mimighoul",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 700,
+    "imageUrl": "https://www.cards-capital.com/88756/cerbere-mimigoule.jpg",
+    "cardName": "Cerbère Mimigoule",
+    "archetype": "Mimighoul",
     "secondArchetype": "",
     "thirdArchetype": ""
   }

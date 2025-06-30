@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     url: "https://db-yugioh-fr.vercel.app/",
     images: [
       {
-        url: "https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126",
+        url: "https://ms.yugipedia.com//thumb/b/ba/DarkMagicianGirl-DBR-EN-VG-artwork.png/275px-DarkMagicianGirl-DBR-EN-VG-artwork.png",
       },
     ],
   },

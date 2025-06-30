@@ -13,8 +13,9 @@ import cards4 from "../data/cards_4.json";
 import cards5 from "../data/cards_5.json";
 import cards6 from "../data/cards_6.json";
 import cards7 from "../data/cards_7.json";
+import cards8 from "../data/cards_8.json";
 
-const Card = [...cards1, ...cards2, ...cards3, ...cards4, ...cards5, ...cards6, ...cards7];
+const Card = [...cards1, ...cards2, ...cards3, ...cards4, ...cards5, ...cards6, ...cards7, ...cards8];
 
 // Constantes extraites
 const LOGO_URL =

@@ -329,7 +329,7 @@
   },
   {
     "id": 142,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen021.png",
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen021.webp",
     "cardName": "Esprit Tenyi - Surya",
     "archetype": "Tenyi",
     "secondArchetype": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": 143,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen062.png",
+    "imageUrl": "https://www.play-in.com/images/cartes/yugi_suda/sudaen062.webp",
     "cardName": "Tenyinfini",
     "archetype": "Tenyi",
     "secondArchetype": "",
@@ -601,7 +601,7 @@
   },
   {
     "id": 176,
-    "imageUrl": "/cartes/ButinDuPêchéDeLaForêtBlanche.png",
+    "imageUrl": "/cartes/ButinDuPêchéDeLaForêtBlanche.webp",
     "cardName": "Butin du Pêché de la Forêt Blanche",
     "archetype": "White Forest",
     "secondArchetype": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": 177,
-    "imageUrl": "/cartes/AzaminaAphes.png",
+    "imageUrl": "/cartes/AzaminaAphes.webp",
     "cardName": "Azamina Aphes",
     "archetype": "White Forest",
     "secondArchetype": "Azamina",
@@ -641,7 +641,7 @@
   },
   {
     "id": 181,
-    "imageUrl": "/cartes/EspritAvecDesYeuxDeBleu.png",
+    "imageUrl": "/cartes/EspritAvecDesYeuxDeBleu.webp",
     "cardName": "Esprit avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 182,
-    "imageUrl": "/cartes/DemoiselleBlanche.png",
+    "imageUrl": "/cartes/DemoiselleBlanche.webp",
     "cardName": "Demoiselle Blanche",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 183,
-    "imageUrl": "/cartes/HurlementDesDragonsAuxYeuxDeBleu.png",
+    "imageUrl": "/cartes/HurlementDesDragonsAuxYeuxDeBleu.webp",
     "cardName": "Hurlement des Dragons aux Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -665,7 +665,7 @@
   },
   {
     "id": 184,
-    "imageUrl": "/cartes/VoeuxPourLesYeuxDeBleu.png",
+    "imageUrl": "/cartes/VoeuxPourLesYeuxDeBleu.webp",
     "cardName": "Voeux pour les Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -705,7 +705,7 @@
   },
   {
     "id": 189,
-    "imageUrl": "/cartes/MajestéDesDragonsBlancs.png",
+    "imageUrl": "/cartes/MajestéDesDragonsBlancs.webp",
     "cardName": "Majesté des Dragons Blancs",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -713,7 +713,7 @@
   },
   {
     "id": 190,
-    "imageUrl": "/cartes/NéoKaiserHippocampe.png",
+    "imageUrl": "/cartes/NéoKaiserHippocampe.webp",
     "cardName": "Néo Kaiser Hippocampe",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -761,7 +761,7 @@
   },
   {
     "id": 196,
-    "imageUrl": "/cartes/LaCréatureUltimedeDestruction.png",
+    "imageUrl": "/cartes/LaCréatureUltimedeDestruction.webp",
     "cardName": "La Créature Ultime de Destruction",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",

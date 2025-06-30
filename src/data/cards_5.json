@@ -9,7 +9,7 @@
   },
   {
     "id": 402,
-    "imageUrl": "/cartes/Béryl.png",
+    "imageUrl": "/cartes/Béryl.webp",
     "cardName": "Dragon Béryl Éthérique Primite",
     "archetype": "Primite",
     "secondArchetype": "",
@@ -57,7 +57,7 @@
   },
   {
     "id": 408,
-    "imageUrl": "/cartes/ImpérialPrimite.png",
+    "imageUrl": "/cartes/ImpérialPrimite.webp",
     "cardName": "Dragon Impérial Primite",
     "archetype": "Primite",
     "secondArchetype": "",
@@ -305,7 +305,7 @@
   },
   {
     "id": 439,
-    "imageUrl": "/cartes/StAzamina.png",
+    "imageUrl": "/cartes/StAzamina.webp",
     "cardName": "Sainte Azamina",
     "archetype": "Azamina",
     "secondArchetype": "",
@@ -313,7 +313,7 @@
   },
   {
     "id": 440,
-    "imageUrl": "/cartes/ReineAzamina.png",
+    "imageUrl": "/cartes/ReineAzamina.webp",
     "cardName": "Reine Azamina",
     "archetype": "Azamina",
     "secondArchetype": "",
