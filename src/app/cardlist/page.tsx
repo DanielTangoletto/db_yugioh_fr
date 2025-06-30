@@ -196,7 +196,7 @@ export default function CardList() {
               height={600}
               loading="lazy"
               quality={1}
-              className="w-28"
+              className="w-28 h-auto"
             />
           </div>
         ))}

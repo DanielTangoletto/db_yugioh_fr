@@ -107,7 +107,9 @@ MaJ de la base de données (DB) :
 • _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)
 
 ## V.1.04 - Fin Juin 2025 (xxx cartes recensées)
-Quelques updates graphiques, plus de cartes à rajouter à venir.
+Quelques updates graphiques, plus de cartes à rajouter à venir.\
+Dans la liste des cartes : Catégories désormais affichées via des images, clic molette ouvre un nouvel onglet avec l'image de la carte.
+Ajout de la page Changelog + lien vers MDM
 
 MaJ de la base de données :
 • _Crystron (Inclusion, Tristaros, soulfador EN)_ ✔️

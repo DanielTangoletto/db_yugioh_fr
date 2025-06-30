@@ -26,6 +26,10 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
+        <meta
+          property="og:image"
+          content="https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126"
+        />
         <link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/favicon.ico" />
         <link

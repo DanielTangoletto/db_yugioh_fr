@@ -85,8 +85,7 @@ export default function Home() {
         alt="logo yugioh"
         width={200}
         height={100}
-        className="absolute top-8 left-1/2 transform -translate-x-1/2 max-[1025]:invisible"
-        style={{ width: "auto" }}
+        className="absolute top-8 left-1/2 transform -translate-x-1/2 max-[1025px]:invisible w-auto h-auto"
       />
 
       <div className="flex lg:flex-row flex-col items-center justify-center min-h-screen gap-10 lg:gap-20 px-4">
@@ -137,15 +136,14 @@ export default function Home() {
         </div>
       </div>
 
-      <Link
-        href="/cardlist"
-        className="absolute text-white text-sm md:text-[16px] lg:bottom-15 bottom-10 left-1/2 transform -translate-x-1/2 hover:opacity-75 hover:underline"
-      >
-        Accès database (voir les{" "}
-        <span className="font-bold text-lg text-green-300">{CARD_COUNT}</span> cartes disponibles)
-      </Link>
-
       <footer className="absolute bottom-6 left-1/2 transform -translate-x-1/2 max-[1025px]:invisible">
+        <Link
+          href="/cardlist"
+          className="absolute text-white text-sm md:text-[16px] bottom-10 hover:opacity-75 hover:underline w-auto whitespace-nowrap left-1/2 transform -translate-x-1/2"
+        >
+          Accès database (voir les{" "}
+          <span className="font-bold text-lg text-green-300">{CARD_COUNT}</span> cartes disponibles)
+        </Link>
         <Media />
       </footer>
     </div>

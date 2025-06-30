@@ -6,6 +6,16 @@ const nextConfig: NextConfig = {
     optimizePackageImports: ["react", "react-dom"],
   },
 
+  // Configuration Turbopack stable
+  turbopack: {
+    rules: {
+      "*.svg": {
+        loaders: ["@svgr/webpack"],
+        as: "*.js",
+      },
+    },
+  },
+
   // Optimisation des images
   images: {
     formats: ["image/webp", "image/avif"],
@@ -69,6 +79,14 @@ const nextConfig: NextConfig = {
   // Optimisation du cache
   generateEtags: false,
 
+  // Optimisation du cache de build
+  onDemandEntries: {
+    // Période d'inactivité avant déchargement des pages
+    maxInactiveAge: 25 * 1000,
+    // Nombre de pages à garder en mémoire
+    pagesBufferLength: 2,
+  },
+
   // Headers de sécurité et performance
   async headers() {
     return [
@@ -95,6 +113,24 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/cartes/(.*)",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+        ],
+      },
+      {
+        source: "/manifest.json",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=86400",
+          },
+        ],
+      },
+      {
+        source: "/favicon.ico",
         headers: [
           {
             key: "Cache-Control",

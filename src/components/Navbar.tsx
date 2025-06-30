@@ -22,6 +22,20 @@ export default function Navbar() {
       >
         Infos 📰
       </Link>
+      <Link
+        href="/changelog"
+        className="px-3 py-1 rounded hover:opacity-60 hover:scale-120 transition-all ease-in-out duration-300"
+      >
+        Changelog 📝
+      </Link>
+      <a
+        href="https://www.masterduelmeta.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="px-3 py-1 rounded hover:opacity-60 hover:scale-120 transition-all ease-in-out duration-300"
+      >
+        MDM 🏆
+      </a>
     </div>
   );
 }
