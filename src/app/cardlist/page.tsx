@@ -42,6 +42,7 @@ const ARCHETYPE_CONFIG = {
   Exodia: "/sprites/Exodia.webp",
   Fiendsmith: "/sprites/Fiendsmith.webp",
   "Fire King": "/sprites/Fire_King.webp",
+  "Gem-Knight": "/sprites/Gem_Knight.webp",
   Floodgate: "/sprites/Floodgate.webp",
   Generaider: "/sprites/Generaider.webp",
   "Goblin Biker": "/sprites/Goblin_Biker.webp",
@@ -53,6 +54,7 @@ const ARCHETYPE_CONFIG = {
   Maliss: "/sprites/Maliss.webp",
   Mathmech: "/sprites/Mathmech.webp",
   Mementotlain: "/sprites/Mementotlain.webp",
+  Melodious: "/sprites/Melodious.jpg",
   Mermail: "/sprites/Mermail.webp",
   Millennium: "/sprites/Millennium.webp",
   Mimighoul: "/sprites/Mimighoul.webp",
@@ -61,6 +63,7 @@ const ARCHETYPE_CONFIG = {
   "Red-Eyes": "/sprites/Red_Eyes.webp",
   Runick: "/sprites/Runick.webp",
   Ryzeal: "/sprites/Ryzeal.webp",
+  "Ryu-Ge": "/sprites/Ryu_Ge.png",
   Sarcophagus: "/sprites/Sarcophagus.webp",
   Shaddoll: "/sprites/Shaddoll.webp",
   "Sinful Spoils": "/sprites/Sinful_Spoils.webp",
@@ -196,26 +199,28 @@ export default function CardList() {
         </div>
       </div>
       <div className="flex flex-wrap items-center justify-center gap-2 max-w-7xl px-5 sm:px-20 md:px-40 py-10 mx-auto">
-        {filteredCards.map((card, index) => (
-          <button
-            key={index}
-            className="cursor-pointer relative bg-transparent border-0 p-0"
-            onClick={() => copyToClipboard(card.cardName)}
-            onMouseDown={(e) => openImageInNewTab(card.imageUrl, e)}
-            aria-label={`Copier le nom de la carte ${card.cardName} dans le presse-papiers. Clic molette pour ouvrir l'image dans un nouvel onglet.`}
-          >
-            <Image
-              src={card.imageUrl}
-              alt=""
-              width={412}
-              height={600}
-              loading="lazy"
-              quality={1}
-              className="w-28 h-auto"
-              aria-hidden="true"
-            />
-          </button>
-        ))}
+        {filteredCards
+          .filter((card) => card.imageUrl && card.imageUrl.trim() !== "")
+          .map((card, index) => (
+            <button
+              key={index}
+              className="cursor-pointer relative bg-transparent border-0 p-0"
+              onClick={() => copyToClipboard(card.cardName)}
+              onMouseDown={(e) => openImageInNewTab(card.imageUrl, e)}
+              aria-label={`Copier le nom de la carte ${card.cardName} dans le presse-papiers. Clic molette pour ouvrir l'image dans un nouvel onglet.`}
+            >
+              <Image
+                src={card.imageUrl}
+                alt=""
+                width={412}
+                height={600}
+                loading="lazy"
+                quality={1}
+                className="w-28 h-auto"
+                aria-hidden="true"
+              />
+            </button>
+          ))}
       </div>
     </div>
   );

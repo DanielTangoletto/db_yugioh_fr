@@ -6,5 +6,629 @@
     "archetype": "Mimighoul",
     "secondArchetype": "",
     "thirdArchetype": ""
+  },
+  {
+    "id": 702,
+    "imageUrl": "https://www.cards-capital.com/94618/genro-ryu-ge-hakva.jpg",
+    "cardName": "Genro Ryu-Ge Hakva",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 703,
+    "imageUrl": "https://www.cards-capital.com/94615/kyoro-ryu-ge-kaiva.jpg",
+    "cardName": "Kyoro Ryu-Ge Kaiva",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 704,
+    "imageUrl": "https://www.cards-capital.com/94617/kairo-ryu-ge-emva.jpg",
+    "cardName": "Kairo Ryu-Ge Emva",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 705,
+    "imageUrl": "https://www.cards-capital.com/94622/zone-de-combat-ryu-ge.jpg",
+    "cardName": "Zone de Combat Ryu-Ge",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 706,
+    "imageUrl": "https://www.cards-capital.com/94620/elevement-ryu-ge.jpg",
+    "cardName": "Élèvement Ryu-Ge",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 707,
+    "imageUrl": "https://www.cards-capital.com/94619/sosei-ryu-ge-mistva.jpg",
+    "cardName": "Sosei Ryu-Ge Mistva",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 708,
+    "imageUrl": "https://www.cards-capital.com/94623/royaume-ryu-ge-domaines-de-dino.jpg",
+    "cardName": "Royaume Ryu-Ge - Domaines de Dino",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 709,
+    "imageUrl": "https://www.cards-capital.com/94625/royaume-ryu-ge-fleches-de-mer.jpg",
+    "cardName": "Royaume Ryu-Ge - Flèches de Mer",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 710,
+    "imageUrl": "https://www.cards-capital.com/94627/royaume-ryu-ge-vents-de-wyrm.jpg",
+    "cardName": "Royaume Ryu-Ge - Vents de Wyrm",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 711,
+    "imageUrl": "https://www.cards-capital.com/94629/rivalite-ryu-ge.jpg",
+    "cardName": "Rivalité Ryu-Ge",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 712,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/9/9d/TenseiRyuGeAnva-ALIN-EN-C-1E.png/revision/latest?cb=20250503175437",
+    "cardName": "Tensei Ryu-Ge Anva",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 713,
+    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/0/0e/RyuGeEnd-ALIN-EN-C-1E.png/revision/latest?cb=20250503172457",
+    "cardName": "Fin Ryu-Ge",
+    "archetype": "Ryu-Ge",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 714,
+    "imageUrl": "https://www.cards-capital.com/93523/ostinato.jpg",
+    "cardName": "Ostinato",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 715,
+    "imageUrl": "https://www.cards-capital.com/93352/schuberta-la-maestria-de-la-musique.jpg",
+    "cardName": "Schuberta, la maestria de la musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 716,
+    "imageUrl": "https://www.cards-capital.com/28559/1er-mouvement-solo.jpg",
+    "cardName": "1er Mouvement Solo",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 717,
+    "imageUrl": "https://www.cards-capital.com/86859/concerto-de-la-musique.jpg",
+    "cardName": "Concerto de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 718,
+    "imageUrl": "https://www.cards-capital.com/86837/bacha-la-maestria-de-la-musique.jpg",
+    "cardName": "Bacha, la Maestria de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 719,
+    "imageUrl": "https://www.cards-capital.com/86838/etoile-en-fleurs-le-magnificat-de-la-musique.jpg",
+    "cardName": "Etoile en Fleurs le Magnificat de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 720,
+    "imageUrl": "https://www.cards-capital.com/86809/refrain-la-chanteuse-de-la-musique.jpg",
+    "cardName": "Refrain, la Chanteuse de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 721,
+    "imageUrl": "https://www.cards-capital.com/86810/couplet-la-chanteuse-de-la-musique.jpg",
+    "cardName": "Couplet, la Chanteuse de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 722,
+    "imageUrl": "https://www.cards-capital.com/74309/rose-brillante.jpg",
+    "cardName": "Rose Brillante",
+    "archetype": "Melodious",
+    "secondArchetype": "Gem-Knight",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 723,
+    "imageUrl": "https://www.cards-capital.com/56166/harmoniste-florale-la-compositrice-de-musique.jpg",
+    "cardName": "Harmoniste Florale la Compositrice de Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 724,
+    "imageUrl": "https://www.cards-capital.com/37047/prima-fleur-la-choriste-de-la-musique.jpg",
+    "cardName": "Prima Fleur la Choriste de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 725,
+    "imageUrl": "https://www.cards-capital.com/37025/solo-la-chanteuse-de-la-musique.jpg",
+    "cardName": "Solo, la Chanteuse de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 726,
+    "imageUrl": "https://www.cards-capital.com/37027/partition-la-diva-de-la-musique.jpg",
+    "cardName": "Partition la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 727,
+    "imageUrl": "https://www.cards-capital.com/37007/rose-de-cristal.jpg",
+    "cardName": "Rose de Cristal",
+    "archetype": "Melodious",
+    "secondArchetype": "Gem-Knight",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 728,
+    "imageUrl": "https://www.cards-capital.com/37005/opera-la-diva-de-la-musique.jpg",
+    "cardName": "Opéra la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 729,
+    "imageUrl": "https://www.cards-capital.com/36991/soprano-la-chanteuse-de-la-musique.jpg",
+    "cardName": "Soprano la Chanteuse de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 730,
+    "imageUrl": "https://www.cards-capital.com/33925/partition-la-diva-de-la-musique.jpg",
+    "cardName": "Partition la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 731,
+    "imageUrl": "https://www.cards-capital.com/33796/tamtam-la-diva-de-la-musique.jpg",
+    "cardName": "Partition la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 732,
+    "imageUrl": "https://www.cards-capital.com/32235/fortissimo.jpg",
+    "cardName": "Fortissimo",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 733,
+    "imageUrl": "https://www.cards-capital.com/28521/shopina-la-maestria-de-la-musique.jpg",
+    "cardName": "Shopina, la Maestria de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 734,
+    "imageUrl": "https://www.cards-capital.com/28518/canon-la-diva-de-la-musique.jpg",
+    "cardName": "Canon la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 735,
+    "imageUrl": "https://www.cards-capital.com/28519/serenade-la-diva-de-la-musique.jpg",
+    "cardName": "Sérénade la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 736,
+    "imageUrl": "https://www.cards-capital.com/28520/elegie-la-diva-de-la-musique.jpg",
+    "cardName": "Élégie la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 737,
+    "imageUrl": "https://www.cards-capital.com/28461/sonate-la-diva-de-la-musique.jpg",
+    "cardName": "Sonate la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 738,
+    "imageUrl": "https://www.cards-capital.com/28462/mozarta-la-maestria-de-la-musique.jpg",
+    "cardName": "Mozart la Maestria de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 739,
+    "imageUrl": "https://www.cards-capital.com/28460/aria-la-diva-de-la-musique.jpg",
+    "cardName": "Aria la Diva de la Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 740,
+    "imageUrl": "https://www.cards-capital.com/26650/illusion-de-musique.jpg",
+    "cardName": "Illusion de Musique",
+    "archetype": "Melodious",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 741,
+    "imageUrl": "https://www.cards-capital.com/82625/diamant-rose-dame-chevalier-gemmes.jpg",
+    "cardName": "Diamant Rose, Dame Chevalier Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 742,
+    "imageUrl": "https://www.cards-capital.com/82614/quartz-chevalier-gemmes.jpg",
+    "cardName": "Quartz, Chevalier Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 743,
+    "imageUrl": "https://www.cards-capital.com/45668/seraphinite-chevalier-gemmes.jpg",
+    "cardName": "Séraphinite, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 744,
+    "imageUrl": "https://www.cards-capital.com/42149/quartz-fantome-chevalier-gemmes.jpg",
+    "cardName": "Quartz Fantôme, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 745,
+    "imageUrl": "https://www.cards-capital.com/31152/perle-chevalier-gemmes.jpg",
+    "cardName": "Perle, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 746,
+    "imageUrl": "https://www.cards-capital.com/28592/lapis-chevalier-gemmes.jpg",
+    "cardName": "Lapis, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 747,
+    "imageUrl": "https://www.cards-capital.com/27844/diamant-brillant-dame-chevalier-gemmes.jpg",
+    "cardName": "Diamant Brillant, Dame Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 748,
+    "imageUrl": "https://www.cards-capital.com/27403/fusion-chevalier-gemmes.jpg",
+    "cardName": "Fusion Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 749,
+    "imageUrl": "https://www.cards-capital.com/27386/maitre-diamant-chevalier-gemmes.jpg",
+    "cardName": "Maitre Diamant, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 750,
+    "imageUrl": "https://www.cards-capital.com/27329/tourmaline-chevalier-gemmes.jpg",
+    "cardName": "Tourmaline, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 751,
+    "imageUrl": "https://www.cards-capital.com/25090/lapis-lazuli-dame-chevalier-gemmes.jpg",
+    "cardName": "Lapis-Lazuli, Dame Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 752,
+    "imageUrl": "https://www.cards-capital.com/11719/lazuli-chevalier-gemmes.jpg",
+    "cardName": "Lazuli, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 753,
+    "imageUrl": "https://www.cards-capital.com/11698/zircone-chevalier-gemmes.jpg",
+    "cardName": "Zircone, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 754,
+    "imageUrl": "https://www.cards-capital.com/11681/sardonyx-chevalier-gemmes.jpg",
+    "cardName": "Sardonyx, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 755,
+    "imageUrl": "https://www.cards-capital.com/8026/amethyste-chevalier-gemmes.jpg",
+    "cardName": "Améthyste, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 756,
+    "imageUrl": "https://www.cards-capital.com/8012/ambre-chevalier-gemmes.jpg",
+    "cardName": "Ambre, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 757,
+    "imageUrl": "https://www.cards-capital.com/8011/cordierite-chevalier-gemmes.jpg",
+    "cardName": "Cordiérite, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 758,
+    "imageUrl": "https://www.cards-capital.com/8010/obsidienne-chevalier-gemmes.jpg",
+    "cardName": "Obsidienne, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 759,
+    "imageUrl": "https://www.cards-capital.com/8000/prismaura-chevalier-gemmes.jpg",
+    "cardName": "Prismaura, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 760,
+    "imageUrl": "https://www.cards-capital.com/7999/citrine-chevalier-gemmes.jpg",
+    "cardName": "Citrine, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 761,
+    "imageUrl": "https://www.cards-capital.com/7982/cristal-chevalier-gemmes.jpg",
+    "cardName": "Cristal, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 762,
+    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/HA05/HA05-21.jpg",
+    "cardName": "Topaze, Chevalier-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 763,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 764,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 765,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 766,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 767,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 768,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 769,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 770,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 771,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 772,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 773,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 774,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 775,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 776,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 777,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 778,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 779,
+    "imageUrl": "",
+    "cardName": "",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
   }
 ]

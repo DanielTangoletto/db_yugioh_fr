@@ -115,4 +115,7 @@ Ajout de la page Changelog + lien vers MDM
 
 MaJ de la base de données :
 • _Crystron (Inclusion, Tristaros, soulfador EN)_ ✔️
-• _Mimighoul_ ✔️
+• _Mimighoul_ ✔️\
+• _Ryu-Ge (Anva / Fin Ryu-Ge EN)_ ✔️\
+• _Melodious_ ✔️\
+• _Gem-Knight (en cours)_
