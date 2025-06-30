@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "Yu-Gi-Oh Database FR - par DanyMasta",
   description: "Base de données de cartes Yu-Gi-Oh en français",
   openGraph: {
+    url: "https://db-yugioh-fr.vercel.app/",
     images: [
       {
         url: "https://uploads1.yugioh.com/card_images/3/detail/dark-magician-girl01_480x480.jpg?1372284126",
