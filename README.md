@@ -118,4 +118,4 @@ MaJ de la base de données :
 • _Mimighoul_ ✔️\
 • _Ryu-Ge (Anva / Fin Ryu-Ge EN)_ ✔️\
 • _Melodious_ ✔️\
-• _Gem-Knight (en cours)_
+• *Gem-Knight*✔️

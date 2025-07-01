@@ -489,7 +489,7 @@
   },
   {
     "id": 762,
-    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/HA05/HA05-21.jpg",
+    "imageUrl": "/cartes/gem_knight/Topaze_Chevalier-Gemmes.jpg",
     "cardName": "Topaze, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
@@ -497,136 +497,160 @@
   },
   {
     "id": 763,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/Aigue-Marine_Chevalier-Gemmes.jpg",
+    "cardName": "Aigue-Marine, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 764,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/Rubis_Chevalier-Gemmes.jpg",
+    "cardName": "Rubis, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 765,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/Saphir_Chevalier-Gemmes.jpg",
+    "cardName": "Saphir, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 766,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/Alexandrite_Chevalier-Gemmes.jpg",
+    "cardName": "Alexandrite, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 767,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/Grenat_Chevalier-Gemmes.jpg",
+    "cardName": "Grenat, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 768,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/41777.jpg",
+    "cardName": "Amélioration-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 769,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/3105404.jpg",
+    "cardName": "Étincelle Brillante",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 770,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/7394770.jpg",
+    "cardName": "Fusion Brillante",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 771,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/24220368.jpg",
+    "cardName": "Dispersion Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 772,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/25342956.jpg",
+    "cardName": "Dispersion Maître Diamant, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 773,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/27004302.jpg",
+    "cardName": "Tatou-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 774,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/39261576.jpg",
+    "cardName": "Fusion de particules",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 775,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/40597694.jpg",
+    "cardName": "Fusion Disséminée",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 776,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/51831560.jpg",
+    "cardName": "Népyrim, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 777,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/55824220.jpg",
+    "cardName": "Fusion Pyroxène",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 778,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/69243722.jpg",
+    "cardName": "Émeraude, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 779,
-    "imageUrl": "",
-    "cardName": "",
+    "imageUrl": "/cartes/gem_knight/64734090.jpg",
+    "cardName": "Tortue-Gemmes",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 780,
+    "imageUrl": "/cartes/gem_knight/71422989.jpg",
+    "cardName": "Fusion d'Absorption",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 781,
+    "imageUrl": "/cartes/gem_knight/72029628.jpg",
+    "cardName": "Fusion Fragmentaire",
+    "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 782,
+    "imageUrl": "/cartes/gem_knight/88225269.jpg",
+    "cardName": "Carcassenoyau, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
     "secondArchetype": "",
     "thirdArchetype": ""
