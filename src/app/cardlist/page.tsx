@@ -218,9 +218,10 @@ export default function CardList() {
                 width={412}
                 height={600}
                 loading="lazy"
-                quality={1}
+                quality={80}
                 className="w-28 h-auto"
                 aria-hidden="true"
+                unoptimized={card.imageUrl.startsWith("/cartes/")}
               />
             </button>
           ))}
