@@ -38,5 +38,133 @@
     "archetype": "Albaz",
     "secondArchetype": "Dogmatika",
     "thirdArchetype": ""
+  },
+  {
+    "id": 806,
+    "imageUrl": "/cartes/buster_blader/2602411.jpg",
+    "cardName": "Sorcier Buster, Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 807,
+    "imageUrl": "/cartes/buster_blader/3428069.jpg",
+    "cardName": "Buster Blader, Maître de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 808,
+    "imageUrl": "/cartes/buster_blader/6390406.jpg",
+    "cardName": "Emblème du Destructeur de Dragon",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 809,
+    "imageUrl": "/cartes/buster_blader/11790356.jpg",
+    "cardName": "Dragon Buster",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 810,
+    "imageUrl": "/cartes/buster_blader/15155568.jpg",
+    "cardName": "Éclair de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 811,
+    "imageUrl": "/cartes/buster_blader/32104431.jpg",
+    "cardName": "Mémoires de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 812,
+    "imageUrl": "/cartes/buster_blader/33280639.jpg",
+    "cardName": "Prologue du Soldat de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 813,
+    "imageUrl": "/cartes/buster_blader/38601126.jpg",
+    "cardName": "Machine Buster, Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 814,
+    "imageUrl": "/cartes/buster_blader/41940225.jpg",
+    "cardName": "Fusion Soldat de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 815,
+    "imageUrl": "/cartes/buster_blader/46363422.jpg",
+    "cardName": "Magicien Blanc Expérimenté",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 816,
+    "imageUrl": "/cartes/buster_blader/47158777.jpg",
+    "cardName": "Jeune Protectrice, Soldat de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 817,
+    "imageUrl": "/cartes/buster_blader/49823708.jpg",
+    "cardName": "Jeune Buster, Soldat de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 818,
+    "imageUrl": "/cartes/buster_blader/76218313.jpg",
+    "cardName": "Dragon Buster, Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 819,
+    "imageUrl": "/cartes/buster_blader/78193831.jpg",
+    "cardName": "Buster Blader",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 820,
+    "imageUrl": "/cartes/buster_blader/78348934.jpg",
+    "cardName": "Karma du Soldat de l'Épée Destructrice",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 821,
+    "imageUrl": "/cartes/buster_blader/86240887.jpg",
+    "cardName": "Buster Blader, le Spadassin Dragon Destructeur",
+    "archetype": "Buster Blader",
+    "secondArchetype": "",
+    "thirdArchetype": ""
   }
 ]
