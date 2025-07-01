@@ -337,10 +337,10 @@
   },
   {
     "id": 443,
-    "imageUrl": "https://www.lerepairedudragon.fr/120141/fusion-du-marque-sr-sdaz-.jpg",
+    "imageUrl": "/cartes/albaz/44362883.jpg",
     "cardName": "Fusion du Marqué",
     "archetype": "Branded",
-    "secondArchetype": "",
+    "secondArchetype": "Albaz",
     "thirdArchetype": ""
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "id": 446,
-    "imageUrl": "https://www.cards-capital.com/72103/albion-le-dragon-obscur.jpg",
+    "imageUrl": "/cartes/albaz/25451383.jpg",
     "cardName": "Albion le Dragon Obscur",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -377,7 +377,7 @@
   },
   {
     "id": 448,
-    "imageUrl": "https://www.cards-capital.com/66988/marque-de-bonne-humeur.jpg",
+    "imageUrl": "/cartes/albaz/29948294.jpg",
     "cardName": "Marqué de Bonne Humeur",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -385,7 +385,7 @@
   },
   {
     "id": 449,
-    "imageUrl": "https://www.cards-capital.com/66990/marque-en-rouge.jpg",
+    "imageUrl": "/cartes/albaz/82738008.jpg",
     "cardName": "Marqué en Rouge",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -393,7 +393,7 @@
   },
   {
     "id": 450,
-    "imageUrl": "https://www.cards-capital.com/72130/chatiment-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/17751597.jpg",
     "cardName": "Châtiment du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -409,7 +409,7 @@
   },
   {
     "id": 452,
-    "imageUrl": "https://www.cards-capital.com/72100/kitt-springans.jpg",
+    "imageUrl": "/cartes/albaz/45484331.jpg",
     "cardName": "Kitt Springans",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -417,7 +417,7 @@
   },
   {
     "id": 453,
-    "imageUrl": "https://www.cards-capital.com/72118/perte-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/18973184.jpg",
     "cardName": "Perte du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -433,7 +433,7 @@
   },
   {
     "id": 455,
-    "imageUrl": "https://www.cards-capital.com/64737/marque-en-blanc.jpg",
+    "imageUrl": "/cartes/albaz/34995106.jpg",
     "cardName": "Marqué en Blanc",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -449,7 +449,7 @@
   },
   {
     "id": 457,
-    "imageUrl": "https://www.cards-capital.com/65551/lien-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/62022479.jpg",
     "cardName": "Lien du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -473,7 +473,7 @@
   },
   {
     "id": 460,
-    "imageUrl": "https://www.cards-capital.com/82586/perdition-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/10065487.jpg",
     "cardName": "Perdition du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -489,7 +489,7 @@
   },
   {
     "id": 462,
-    "imageUrl": "https://www.cards-capital.com/78534/lumiere-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/72554664.jpg",
     "cardName": "Lumière du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -497,7 +497,7 @@
   },
   {
     "id": 463,
-    "imageUrl": "https://www.cards-capital.com/75108/jugement-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/93595154.jpg",
     "cardName": "Jugement du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -505,7 +505,7 @@
   },
   {
     "id": 464,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP22/mp22103.jpg",
+    "imageUrl": "/cartes/albaz/67100549.jpg",
     "cardName": "Cris du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -513,7 +513,7 @@
   },
   {
     "id": 465,
-    "imageUrl": "https://www.cards-capital.com/72129/epee-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/81767888.jpg",
     "cardName": "Épée du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -521,7 +521,7 @@
   },
   {
     "id": 466,
-    "imageUrl": "https://www.cards-capital.com/74359/expulsion-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/1041278.jpg",
     "cardName": "Expulsion du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -537,7 +537,7 @@
   },
   {
     "id": 468,
-    "imageUrl": "https://www.cards-capital.com/79890/brillant-et-flamboyant-roi-du-marque.jpg",
+    "imageUrl": "/cartes/albaz/19271881.jpg",
     "cardName": "Brillant et Flamboyant Roi du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Albaz",
@@ -545,7 +545,7 @@
   },
   {
     "id": 469,
-    "imageUrl": "https://www.cards-capital.com/84047/albaz-le-dechu.jpg",
+    "imageUrl": "/cartes/albaz/68468460.jpg",
     "cardName": "Albaz le Déchu",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -553,7 +553,7 @@
   },
   {
     "id": 470,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01062se.jpg",
+    "imageUrl": "/cartes/albaz/1984618.jpg",
     "cardName": "Serviteur de Nadir",
     "archetype": "Albaz",
     "secondArchetype": "Dogmatika",
@@ -561,7 +561,7 @@
   },
   {
     "id": 471,
-    "imageUrl": "https://www.cards-capital.com/72139/miroirjade-le-dragon-de-la-lame-de-glace.jpg",
+    "imageUrl": "/cartes/albaz/44146295.jpg",
     "cardName": "Miroirjade le Dragon de la Lame de Glace",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -569,7 +569,7 @@
   },
   {
     "id": 472,
-    "imageUrl": "https://www.cards-capital.com/72141/titaniklad-le-dragon-des-cendres.jpg",
+    "imageUrl": "/cartes/albaz/41373230.jpg",
     "cardName": "Titaniklad le Dragon des Cendres",
     "archetype": "Albaz",
     "secondArchetype": "Dogmatika",
@@ -577,15 +577,15 @@
   },
   {
     "id": 473,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr115.jpg",
-    "cardName": "Lubellion le Dragon Embras",
+    "imageUrl": "/cartes/albaz/70534340.jpg",
+    "cardName": "Lubellion le Dragon Embrasé",
     "archetype": "Albaz",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 474,
-    "imageUrl": "https://www.lerepairedudragon.fr/107558/influente-quem-la-vertueuse-str-cyac-.jpg",
+    "imageUrl": "/cartes/albaz/45883110.jpg",
     "cardName": "Influente Quem, la Vertueuse",
     "archetype": "Albaz",
     "secondArchetype": "Dogmatika",
@@ -593,7 +593,7 @@
   },
   {
     "id": 475,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02025.jpg",
+    "imageUrl": "/cartes/albaz/51409648.jpg",
     "cardName": "Rindbrumm le Dragon Éclatant",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -601,7 +601,7 @@
   },
   {
     "id": 476,
-    "imageUrl": "https://www.cards-capital.com/76673/eclatante-cartesia-la-vertueuse.jpg",
+    "imageUrl": "/cartes/albaz/95515790.jpg",
     "cardName": "Éclatante Cartésia, la Vertueuse",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": 477,
-    "imageUrl": "https://www.cards-capital.com/79855/albion-le-dragon-sanctifeu.jpg",
+    "imageUrl": "/cartes/albaz/38811586.jpg",
     "cardName": "Albion le Dragon Sanctifeu",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 478,
-    "imageUrl": "https://www.cards-capital.com/76718/bataille-decisive-de-golgonda.jpg",
+    "imageUrl": "/cartes/albaz/70485614.jpg",
     "cardName": "Bataille Décisive de Golgonda",
     "archetype": "Albaz",
     "secondArchetype": "Springans",
@@ -625,7 +625,7 @@
   },
   {
     "id": 479,
-    "imageUrl": "https://www.cards-capital.com/72099/mercourier-tri-brigade.jpg",
+    "imageUrl": "/cartes/albaz/19096726.jpg",
     "cardName": "Mercourier Tri-Brigade",
     "archetype": "Albaz",
     "secondArchetype": "Tri-Brigade",
@@ -633,7 +633,7 @@
   },
   {
     "id": 480,
-    "imageUrl": "https://www.cards-capital.com/65530/quaeritis-despian.jpg",
+    "imageUrl": "/cartes/albaz/72272462.jpg",
     "cardName": "Quaeritis Despian",
     "archetype": "Albaz",
     "secondArchetype": "Despia",
@@ -641,7 +641,7 @@
   },
   {
     "id": 481,
-    "imageUrl": "https://www.cards-capital.com/64722/fetard-springans.jpg",
+    "imageUrl": "/cartes/albaz/48285768.jpg",
     "cardName": "Fêtard Springans",
     "archetype": "Albaz",
     "secondArchetype": "Springans",
@@ -649,7 +649,7 @@
   },
   {
     "id": 482,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23080.jpg",
+    "imageUrl": "/cartes/albaz/3410461.jpg",
     "cardName": "Alba-Lenatus le Dragon des Abysses",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 483,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SDAZ/sdaz044.jpg",
+    "imageUrl": "/cartes/albaz/34848821.jpg",
     "cardName": "Brigrand le Dragon de la Gloire",
     "archetype": "Albaz",
     "secondArchetype": "Tri-Brigade",
@@ -665,7 +665,7 @@
   },
   {
     "id": 484,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SDAZ/sdaz045.jpg",
+    "imageUrl": "/cartes/albaz/1906812.jpg",
     "cardName": "Sprind le Dragon Filefer",
     "archetype": "Albaz",
     "secondArchetype": "Springans",
@@ -673,7 +673,7 @@
   },
   {
     "id": 485,
-    "imageUrl": "https://www.lerepairedudragon.fr/98774/albaz-le-cendreux-sr-pote-.jpg",
+    "imageUrl": "/cartes/albaz/37683547.jpg",
     "cardName": "Albaz le Cendreux",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 486,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_CYAC/cyac054.jpg",
+    "imageUrl": "/cartes/albaz/56787189.jpg",
     "cardName": "Nouvelle Frontière",
     "archetype": "Albaz",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 487,
-    "imageUrl": "https://www.cards-capital.com/66093/confrontation-dogmatika.jpg",
+    "imageUrl": "/cartes/albaz/29354228.jpg",
     "cardName": "Confrontation Dogmatika",
     "archetype": "Albaz",
     "secondArchetype": "Dogmatika",
@@ -697,7 +697,7 @@
   },
   {
     "id": 488,
-    "imageUrl": "https://www.cards-capital.com/63118/explosion-springans-.jpg",
+    "imageUrl": "/cartes/albaz/10584050.jpg",
     "cardName": "Explosion Springans !",
     "archetype": "Albaz",
     "secondArchetype": "Springans",
@@ -705,7 +705,7 @@
   },
   {
     "id": 489,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLVO/blvo068commune.jpg",
+    "imageUrl": "/cartes/albaz/83199011.jpg",
     "cardName": "Appel Springans !",
     "archetype": "Albaz",
     "secondArchetype": "Springans",

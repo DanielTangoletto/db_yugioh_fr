@@ -32,7 +32,7 @@ const ARCHETYPE_CONFIG = {
   Atlantean: "/sprites/Atlantean.webp",
   Azamina: "/sprites/Azamina.webp",
   "Blue-Eyes": "/sprites/Blue_Eyes.webp",
-  Branded: "/sprites/Branded.webp",
+  Branded: "/sprites/Branded.png",
   "Buster Blader": "/sprites/Buster_Blader.webp",
   Bystial: "/sprites/Bystial.webp",
   "Centur-Ion": "/sprites/Centur_Ion.webp",

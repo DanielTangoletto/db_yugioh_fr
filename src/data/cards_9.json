@@ -30,5 +30,13 @@
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
     "thirdArchetype": ""
+  },
+  {
+    "id": 805,
+    "imageUrl": "/cartes/albaz/93053159.jpg",
+    "cardName": "Système Alba Dogmatikalamité",
+    "archetype": "Albaz",
+    "secondArchetype": "Dogmatika",
+    "thirdArchetype": ""
   }
 ]

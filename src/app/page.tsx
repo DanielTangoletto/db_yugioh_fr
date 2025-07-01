@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
-import CardBack from "../../public/card_back.webp";
+import CardBack from "../../public/images/card_back.webp";
 import DMG from "../../public/dmg.webp";
 import Navbar from "@/components/Navbar";
 import Media from "@/components/Media";
@@ -77,7 +77,7 @@ export default function Home() {
     useCardSearch();
 
   return (
-    <div className="relative bg-gradient-to-br from-gray-900 to-gray-600 min-h-screen font-[family-name:var(--font-geist-sans)]">
+    <div className="relative bg-gradient-to-br from-gray-900 to-gray-600 min-h-screen font-[family-name:var(--font-geist-sans)] max-lg:py-12">
       <header>
         <Navbar />
       </header>
