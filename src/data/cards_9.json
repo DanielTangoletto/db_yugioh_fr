@@ -1,0 +1,34 @@
+[
+  {
+    "id": 801,
+    "imageUrl": "/cartes/exodia/69873498.jpg",
+    "cardName": "Brise Sceau",
+    "archetype": "Exodia",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 802,
+    "imageUrl": "/cartes/argostars/40706444.jpg",
+    "cardName": "Argostars - Arion Courageuse",
+    "archetype": "Argostars",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 803,
+    "imageUrl": "/cartes/azamina/17749468.jpg",
+    "cardName": "Azamina",
+    "archetype": "Azamina",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 804,
+    "imageUrl": "/cartes/blue_eyes/67768675.jpg",
+    "cardName": "Kaibaman, Légende de la Justice",
+    "archetype": "Blue-Eyes",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": 201,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/85/DragonduChaosMAXauxYeuxBleus-DUPO-FR-UR-1E.png/revision/latest?cb=20190404143111&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/55410871.jpg",
     "cardName": "Dragon du Chaos MAX aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 202,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/98/DragonduChaosauxYeuxBleus-LED3-FR-UR-1E.png/revision/latest?cb=20180926174152&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/20654247.jpg",
     "cardName": "Dragon du Chaos aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -17,7 +17,7 @@
   },
   {
     "id": 203,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/48/PaladinduDragonBlanc-DPKB-FR-R-EI.png/revision/latest?cb=20190323115438&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/73398797.jpg",
     "cardName": "Paladin du Dragon Blanc",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 204,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/ac/DragonauxYeuxBleusRayonnants-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730173242&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/53347303.jpg",
     "cardName": "Dragon aux Yeux Bleus Rayonnants",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -33,7 +33,7 @@
   },
   {
     "id": 205,
-    "imageUrl": "https://www.cards-capital.com/77209/dragon-des-abysses-aux-yeux-bleus.jpg",
+    "imageUrl": "/cartes/blue_eyes/64202399.jpg",
     "cardName": "Dragon des Abysses aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -41,7 +41,7 @@
   },
   {
     "id": 206,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/9e/DragonBlancauxYeuxProfonds-MVP1-FR-GR-1E.png/revision/latest?cb=20180730171405&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/22804410.jpg",
     "cardName": "Dragon Blanc aux Yeux Profonds",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -49,7 +49,7 @@
   },
   {
     "id": 207,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7d/DragonToonauxYeuxBleus-DPBC-FR-C-1E.png/revision/latest?cb=20180904190706&path-prefix=fr",
+    "imageUrl": "/cartes/toon/53183600.jpg",
     "cardName": "Dragon Toon aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Toon",
@@ -57,7 +57,7 @@
   },
   {
     "id": 208,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/e7/DragonBlancauxYeuxBleusCorrompu-DPKB-FR-UR-EI.png/revision/latest/scale-to-width-down/686?cb=20190323115439&path-prefix=fr",
+    "imageUrl": "/cartes/malefic/9433350.jpg",
     "cardName": "Dragon Blanc aux Yeux Bleus Corrompu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Malefic",
@@ -65,7 +65,7 @@
   },
   {
     "id": 209,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/fb/EspritduDragonBlanc-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904190901&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/45467446.jpg",
     "cardName": "Esprit du Dragon Blanc",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -73,7 +73,7 @@
   },
   {
     "id": 210,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/a0/DragonBlancAlternatifauxYeuxBleus-MVP1-FR-GR-1E.png/revision/latest?cb=20180730165529&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/38517737.jpg",
     "cardName": "Dragon Blanc Alternatif aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 211,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS2/lds2014ultrararebleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/57043986.jpg",
     "cardName": "Dragon Solide aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -89,7 +89,7 @@
   },
   {
     "id": 212,
-    "imageUrl": "https://www.cards-capital.com/69817/dictateur-des-d.jpg",
+    "imageUrl": "/cartes/blue_eyes/66961194.jpg",
     "cardName": "Dictateur des D",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 213,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/0/0f/Kaibaman-SS02-FR-C-1E.png/revision/latest?cb=20190122165155&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/34627841.jpg",
     "cardName": "Kaibaman",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 214,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/1b/PierreBlancheL%C3%A9gendaire-LED3-FR-C-1E.png/revision/latest?cb=20180926174103&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/79814787.jpg",
     "cardName": "Pierre Blanche Légendaire",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 215,
-    "imageUrl": "https://www.cards-capital.com/43068/demoiselle-aux-yeux-couleur-bleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/88241506.jpg",
     "cardName": "Demoiselle aux Yeux Couleur Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 216,
-    "imageUrl": "https://www.cards-capital.com/62748/pretresse-avec-des-yeux-de-bleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/36734924.jpg",
     "cardName": "Prêtresse avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -129,7 +129,7 @@
   },
   {
     "id": 217,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/eb/ProtecteuravecdesYeuxdeBleu-LCKC-FR-UR-1E.png/revision/latest/scale-to-width-down/678?cb=20180904193515&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/72855441.jpg",
     "cardName": "Protecteur avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 218,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/5/56/PierreBlancheAncienne-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904193146&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/79814787.jpg",
     "cardName": "Pierre Blanche Ancienne",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 219,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/18/FlotRugissantdeDestruction-SS02-FR-C-1E.png/revision/latest?cb=20190122165148&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/17655904.jpg",
     "cardName": "Flot Rugissant de Destruction",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -153,7 +153,7 @@
   },
   {
     "id": 220,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/80/RelaisBlanc-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730221158&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/50371210.jpg",
     "cardName": "Relais Blanc",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -161,7 +161,7 @@
   },
   {
     "id": 221,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/84/FormeduChaos-DUPO-FR-UR-1E.png/revision/latest?cb=20190404143109&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/21082832.jpg",
     "cardName": "Forme du Chaos",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Dark Magician",
@@ -169,7 +169,7 @@
   },
   {
     "id": 222,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/61/UnNeutron-LCKC-FR-ScR-1E.png/revision/latest?cb=20180904195916&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/43845801.jpg",
     "cardName": "Un Neutron",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 223,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/fd/Majest%C3%A9avecdesYeuxdeBleu-LCKC-FR-ScR-1E.png/revision/latest?cb=20180730201424&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/43219114.jpg",
     "cardName": "Majesté aux Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 224,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02062se.jpg",
+    "imageUrl": "/cartes/blue_eyes/93437091.jpg",
     "cardName": "Machine Bingo, Go !!!",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 225,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS2/lds2029ultrararebleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/29432790.jpg",
     "cardName": "Rage avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -201,7 +201,7 @@
   },
   {
     "id": 226,
-    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/MP20/MP20-247.jpg",
+    "imageUrl": "/cartes/blue_eyes/96239878.jpg",
     "cardName": "Force dans l'Union",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Dark Magician",
@@ -209,7 +209,7 @@
   },
   {
     "id": 227,
-    "imageUrl": "https://www.cards-capital.com/82517/vision-avec-des-yeux-de-bleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/35659410.jpg",
     "cardName": "Vision avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -217,7 +217,7 @@
   },
   {
     "id": 228,
-    "imageUrl": "https://www.otk-expert.fr/cartes/yugioh_ext/MP20/MP20-248.jpg",
+    "imageUrl": "/cartes/blue_eyes/22634473.jpg",
     "cardName": "Rivaux Destinés",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Dark Magician",

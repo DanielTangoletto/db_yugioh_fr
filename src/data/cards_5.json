@@ -1,7 +1,7 @@
 [
   {
     "id": 401,
-    "imageUrl": "https://www.cards-capital.com/92522/azamina-sol-erysichthon.jpg",
+    "imageUrl": "/cartes/azamina/9785661.jpg",
     "cardName": "Azamina Sol Erysichthon",
     "archetype": "Azamina",
     "secondArchetype": "Sinful Spoils",
@@ -305,7 +305,7 @@
   },
   {
     "id": 439,
-    "imageUrl": "/cartes/StAzamina.webp",
+    "imageUrl": "/cartes/azamina/85065943.jpg",
     "cardName": "Sainte Azamina",
     "archetype": "Azamina",
     "secondArchetype": "",
@@ -313,7 +313,7 @@
   },
   {
     "id": 440,
-    "imageUrl": "/cartes/ReineAzamina.webp",
+    "imageUrl": "/cartes/azamina/65033975.jpg",
     "cardName": "Reine Azamina",
     "archetype": "Azamina",
     "secondArchetype": "",

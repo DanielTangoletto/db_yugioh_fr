@@ -537,7 +537,7 @@
   },
   {
     "id": 168,
-    "imageUrl": "https://www.lerepairedudragon.fr/137182/elzette-azamina-de-la-foret-blanche-se-suda-.jpg",
+    "imageUrl": "/cartes/azamina/38648860.jpg",
     "cardName": "Elzette, Azamina de la Forêt Blanche",
     "archetype": "White Forest",
     "secondArchetype": "Azamina",
@@ -609,7 +609,7 @@
   },
   {
     "id": 177,
-    "imageUrl": "/cartes/AzaminaAphes.webp",
+    "imageUrl": "/cartes/azamina/39491690.jpg",
     "cardName": "Azamina Aphes",
     "archetype": "White Forest",
     "secondArchetype": "Azamina",
@@ -617,7 +617,7 @@
   },
   {
     "id": 178,
-    "imageUrl": "https://www.cards-capital.com/55195/dragon-blanc-aux-yeux-bleus.jpg",
+    "imageUrl": "/cartes/blue_eyes/89631139.jpg",
     "cardName": "Dragon Blanc aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 179,
-    "imageUrl": "https://www.cards-capital.com/87546/dragon-esprit-aux-yeux-bleus.jpg",
+    "imageUrl": "/cartes/blue_eyes/45467446.jpg",
     "cardName": "Dragon Esprit aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -633,15 +633,15 @@
   },
   {
     "id": 180,
-    "imageUrl": "https://www.lerepairedudragon.fr/138387/dragon-esprit-ultime-aux-yeux-bleus-ur-sdwd-.jpg",
-    "cardName": "Dragon Esprit Ultime aux Yeux Bleus",
+    "imageUrl": "/cartes/blue_eyes/23995346.jpg",
+    "cardName": "Dragon Ultime aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 181,
-    "imageUrl": "/cartes/EspritAvecDesYeuxDeBleu.webp",
+    "imageUrl": "/cartes/blue_eyes/42097666.jpg",
     "cardName": "Esprit avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 182,
-    "imageUrl": "/cartes/DemoiselleBlanche.webp",
+    "imageUrl": "/cartes/blue_eyes/17947697.jpg",
     "cardName": "Demoiselle Blanche",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 183,
-    "imageUrl": "/cartes/HurlementDesDragonsAuxYeuxDeBleu.webp",
+    "imageUrl": "/cartes/blue_eyes/17725109.jpg",
     "cardName": "Hurlement des Dragons aux Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -665,7 +665,7 @@
   },
   {
     "id": 184,
-    "imageUrl": "/cartes/VoeuxPourLesYeuxDeBleu.webp",
+    "imageUrl": "/cartes/blue_eyes/80326401.jpg",
     "cardName": "Voeux pour les Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -673,7 +673,7 @@
   },
   {
     "id": 185,
-    "imageUrl": "https://www.cards-capital.com/66200/veritable-lumiere.jpg",
+    "imageUrl": "/cartes/blue_eyes/62089826.jpg",
     "cardName": "Véritable Lumière",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 186,
-    "imageUrl": "https://www.cards-capital.com/86167/sage-avec-des-yeux-de-bleu.jpg",
+    "imageUrl": "/cartes/blue_eyes/8240199.jpg",
     "cardName": "Sage avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 187,
-    "imageUrl": "https://www.cards-capital.com/69849/dragon-tyran-aux-yeux-bleus.jpg",
+    "imageUrl": "/cartes/blue_eyes/11443677.jpg",
     "cardName": "Dragon Tyran aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -697,7 +697,7 @@
   },
   {
     "id": 188,
-    "imageUrl": "https://www.lerepairedudragon.fr/138377/neo-dragon-ultime-aux-yeux-bleus-c-sdwd-.jpg",
+    "imageUrl": "/cartes/blue_eyes/56532353.jpg",
     "cardName": "Néo Dragon Ultime aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -705,7 +705,7 @@
   },
   {
     "id": 189,
-    "imageUrl": "/cartes/MajestéDesDragonsBlancs.webp",
+    "imageUrl": "/cartes/blue_eyes/43219114.jpg",
     "cardName": "Majesté des Dragons Blancs",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -713,7 +713,7 @@
   },
   {
     "id": 190,
-    "imageUrl": "/cartes/NéoKaiserHippocampe.webp",
+    "imageUrl": "/cartes/blue_eyes/54332792.jpg",
     "cardName": "Néo Kaiser Hippocampe",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -721,7 +721,7 @@
   },
   {
     "id": 191,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota004.jpg",
+    "imageUrl": "/cartes/exodia/54475145.jpg",
     "cardName": "Coeur aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "Millennium",
@@ -729,7 +729,7 @@
   },
   {
     "id": 192,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BACH/bach004.jpg",
+    "imageUrl": "/cartes/blue_eyes/30576089.jpg",
     "cardName": "Dragon à Réaction aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -737,7 +737,7 @@
   },
   {
     "id": 193,
-    "imageUrl": "https://www.cards-capital.com/82518/fusion-ultime.jpg",
+    "imageUrl": "/cartes/blue_eyes/71143015.jpg",
     "cardName": "Fusion Ultime",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -745,7 +745,7 @@
   },
   {
     "id": 194,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/49/Ma%C3%AEtreavecdesYeuxdeBleu-LCKC-FR-UR-1E.png/revision/latest/scale-to-width-down/678?cb=20180904192531&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/45644898.jpg",
     "cardName": "Maître avec des Yeux de Bleu",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -753,7 +753,7 @@
   },
   {
     "id": 195,
-    "imageUrl": "https://www.cards-capital.com/62778/dragon-jumele-d-explosion-aux-yeux-bleus.jpg",
+    "imageUrl": "/cartes/blue_eyes/2129638.jpg",
     "cardName": "Dragon Jumelé d'Explosion aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -761,7 +761,7 @@
   },
   {
     "id": 196,
-    "imageUrl": "/cartes/LaCréatureUltimedeDestruction.webp",
+    "imageUrl": "/cartes/blue_eyes/56920308.jpg",
     "cardName": "La Créature Ultime de Destruction",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -769,15 +769,15 @@
   },
   {
     "id": 197,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/e/e2/DragonUltimeauxYeuxBleus-SBLS-FR-UR-1E.png/revision/latest?cb=20190326121430&path-prefix=fr",
-    "cardName": "Dragon Ultime aux yeux Bleus",
+    "imageUrl": "/cartes/blue_eyes/23995346.jpg",
+    "cardName": "Dragon Ultime aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 198,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/5/58/ChevalierMa%C3%AEtredesDragons-LCKC-FR-ScR-1E.png/revision/latest/scale-to-width-down/678?cb=20180730160904&path-prefix=fr",
+    "imageUrl": "/cartes/blue_eyes/62873545.jpg",
     "cardName": "Chevalier Maître des Dragons",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -785,7 +785,7 @@
   },
   {
     "id": 199,
-    "imageUrl": "https://www.lerepairedudragon.fr/75355/yugioh-dragon-ultime-alternatif-aux-yeux-bleus-psr-tn19-.jpg",
+    "imageUrl": "/cartes/blue_eyes/43228023.jpg",
     "cardName": "Dragon Ultime Alternatif aux Yeux Bleus",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",
@@ -793,7 +793,7 @@
   },
   {
     "id": 200,
-    "imageUrl": "https://www.cards-capital.com/88111/magia-maitre-des-dragons.jpg",
+    "imageUrl": "/cartes/blue_eyes/12381100.jpg",
     "cardName": "Magia Maître des Dragons",
     "archetype": "Blue-Eyes",
     "secondArchetype": "",

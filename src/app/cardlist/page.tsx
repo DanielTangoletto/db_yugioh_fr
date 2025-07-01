@@ -10,6 +10,7 @@ import cards5 from "../../data/cards_5.json";
 import cards6 from "../../data/cards_6.json";
 import cards7 from "../../data/cards_7.json";
 import cards8 from "../../data/cards_8.json";
+import cards9 from "../../data/cards_9.json";
 import Navbar from "@/components/Navbar";
 
 const Card = [
@@ -21,6 +22,7 @@ const Card = [
   ...cards6,
   ...cards7,
   ...cards8,
+  ...cards9,
 ];
 
 // Configuration des archetypes avec leurs images

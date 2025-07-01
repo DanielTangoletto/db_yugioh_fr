@@ -56,7 +56,7 @@ MaJ de la base de données (DB) :
 
 MaJ de la base de données (DB) :\
 • _Cartes Dominus_ ✔️\
-• _Exodia | Millennium (manque Brise-Sceau)_ ✔️\
+• _Exodia | Millennium_ ✔️\
 • _Centur-Ion_ ✔️\
 • _Yubel_ ✔️\
 • _Runick_ ✔️\
@@ -79,7 +79,7 @@ MaJ de la base de données (DB) :
 • _Spright_ ✔️\
 • _Branded_ ✔️\
 • _Albaz_ ✔️\
-• _Dark Magician | Dark Magician Girl (manque Sorcier Eradicateur)_ ✔️\
+• _Dark Magician | Dark Magician Girl_ ✔️\
 • _Despia_ ✔️
 
 ## V.1.02.5 - Avril 2025 (609 cartes recensées)
@@ -107,16 +107,20 @@ MaJ de la base de données (DB) :
 • _Generaider_ ✔️\
 • _Atlantean / Mermail_ ✔️
 
-## V.1.04 - Fin Juin 2025 (xxx cartes recensées)
+## V.1.04 - Fin Juin 2025 (801 cartes recensées)
 
 Quelques updates graphiques, plus de cartes à rajouter à venir.\
 Dans la liste des cartes : Catégories désormais affichées via des images, clic molette ouvre un nouvel onglet avec l'image de la carte.
 Ajout de la page Changelog + lien vers MDM
 
-MaJ de la base de données :
-• _Crystron_ ✔️
+MaJ de la base de données :\
+• _Crystron_ ✔️\
 • _Mimighoul_ ✔️\
 • _Ryu-Ge_ ✔️\
 • _Melodious_ ✔️\
-• _Gem-Knight_✔️\
+• _Gem-Knight_ ✔️\
 • _Timelord_
+
+## V.1.04.5 - Début Juillet 2025 (801 cartes recensées)
+
+Uniformisation en cours des cartes, pour avoir une qualité égale et propre.

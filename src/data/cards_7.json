@@ -73,7 +73,7 @@
   },
   {
     "id": 610,
-    "imageUrl": "/cartes/Argostars_Tydeu.webp",
+    "imageUrl": "/cartes/argostars/65889305.jpg",
     "cardName": "Argostars - Foudroyante Tydéu",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 611,
-    "imageUrl": "/cartes/Argostars_Eteo.webp",
+    "imageUrl": "/cartes/argostars/38379052.jpg",
     "cardName": "Argostars - Pourfendeuse Étéo",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -89,7 +89,7 @@
   },
   {
     "id": 612,
-    "imageUrl": "/cartes/Argostars_Veloce.webp",
+    "imageUrl": "/cartes/argostars/91284003.jpg",
     "cardName": "Argostars - Véloce Capane",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 613,
-    "imageUrl": "/cartes/Argostars_Adra.webp",
+    "imageUrl": "/cartes/argostars/91438674.jpg",
     "cardName": "Argostars - Glorieuse Adra",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 614,
-    "imageUrl": "/cartes/Argostars_Parthe.webp",
+    "imageUrl": "/cartes/argostars/21050476.jpg",
     "cardName": "Argostars - Féroce Parthe",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 615,
-    "imageUrl": "/cartes/Argostars_Stade.webp",
+    "imageUrl": "/cartes/argostars/2674965.jpg",
     "cardName": "Argostars - Stade à Domicile",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 616,
-    "imageUrl": "/cartes/Argostars_Tueur.webp",
+    "imageUrl": "/cartes/argostars/30964246.jpg",
     "cardName": "Argostars - Tueur de Géants",
     "archetype": "Argostars",
     "secondArchetype": "",
@@ -273,7 +273,7 @@
   },
   {
     "id": 635,
-    "imageUrl": "https://www.cards-capital.com/93236/neptabysses-le-prince-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/21565445.jpg",
     "cardName": "Neptabysses, le Prince de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "",
@@ -281,7 +281,7 @@
   },
   {
     "id": 636,
-    "imageUrl": "https://www.cards-capital.com/93191/cavalerie-dragon-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/74311226.jpg",
     "cardName": "Cavalerie Dragon de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "",
@@ -289,7 +289,7 @@
   },
   {
     "id": 637,
-    "imageUrl": "https://www.cards-capital.com/92553/pique-abysses-triaina.jpg",
+    "imageUrl": "/cartes/atlantean/81878201.jpg",
     "cardName": "Pique-Abysses Triaina",
     "archetype": "Atlantean",
     "secondArchetype": "Mermail",
@@ -297,7 +297,7 @@
   },
   {
     "id": 638,
-    "imageUrl": "https://www.cards-capital.com/92537/roi-des-sirenemures-neptabysses.jpg",
+    "imageUrl": "/cartes/atlantean/69385019.jpg",
     "cardName": "Roi des Sirènemures - Neptabysses",
     "archetype": "Atlantean",
     "secondArchetype": "Mermail",
@@ -305,7 +305,7 @@
   },
   {
     "id": 639,
-    "imageUrl": "https://www.cards-capital.com/92534/poseidra-des-abysses-le-seigneur-dragon-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/60517697.jpg",
     "cardName": "Poseidra des Abysses, le Seigneur Dragon de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "Mermail",
@@ -313,7 +313,7 @@
   },
   {
     "id": 640,
-    "imageUrl": "https://www.cards-capital.com/92505/rhinabysses-l-esprit-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/17080584.jpg",
     "cardName": "Rhinabysses, l'Esprit de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "Mermail",
@@ -321,7 +321,7 @@
   },
   {
     "id": 641,
-    "imageUrl": "https://www.cards-capital.com/92506/escouade-de-l-ombre-sirenemure.jpg",
+    "imageUrl": "/cartes/atlantean/53085623.jpg",
     "cardName": "Escouade de l'Ombre Sirènemure",
     "archetype": "Atlantean",
     "secondArchetype": "Mermail",
@@ -329,7 +329,7 @@
   },
   {
     "id": 642,
-    "imageUrl": "https://www.cards-capital.com/9459/tireur-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/706925.jpg",
     "cardName": "Tireur de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": 643,
-    "imageUrl": "https://www.cards-capital.com/16939/infanterie-lourde-de-l-atlantide.jpg",
+    "imageUrl": "/cartes/atlantean/37104630.jpg",
     "cardName": "Infanterie Lourde de l'Atlantide",
     "archetype": "Atlantean",
     "secondArchetype": "",
