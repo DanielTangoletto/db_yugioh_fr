@@ -529,7 +529,7 @@
   },
   {
     "id": 667,
-    "imageUrl": "https://www.cards-capital.com/72376/halqifibrax-crystron.jpg",
+    "imageUrl": "/cartes/crystron/50588353.jpg",
     "cardName": "Halqifibrax Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -537,7 +537,7 @@
   },
   {
     "id": 668,
-    "imageUrl": "https://www.cards-capital.com/44656/quandax-crystron.jpg",
+    "imageUrl": "/cartes/crystron/39964797.jpg",
     "cardName": "Quandax Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -545,7 +545,7 @@
   },
   {
     "id": 669,
-    "imageUrl": "https://www.cards-capital.com/39840/entree-crystron.jpg",
+    "imageUrl": "/cartes/crystron/52176579.jpg",
     "cardName": "Entrée Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -553,7 +553,7 @@
   },
   {
     "id": 670,
-    "imageUrl": "https://www.cards-capital.com/39867/rion-crystron.jpg",
+    "imageUrl": "/cartes/crystron/66938505.jpg",
     "cardName": "Rion Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -561,7 +561,7 @@
   },
   {
     "id": 671,
-    "imageUrl": "https://www.cards-capital.com/39841/impact-crystron.jpg",
+    "imageUrl": "/cartes/crystron/99274184.jpg",
     "cardName": "Impact Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -569,7 +569,7 @@
   },
   {
     "id": 672,
-    "imageUrl": "https://www.cards-capital.com/39833/potentiel-crystolique.jpg",
+    "imageUrl": "/cartes/crystron/3576031.jpg",
     "cardName": "Potentiel Crystolique",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -577,7 +577,7 @@
   },
   {
     "id": 673,
-    "imageUrl": "https://www.cards-capital.com/39820/rosenix-crystron.jpg",
+    "imageUrl": "/cartes/crystron/55326322.jpg",
     "cardName": "Rosénix Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -585,15 +585,15 @@
   },
   {
     "id": 674,
-    "imageUrl": "https://www.cards-capital.com/39817/prasiortue-crystron.jpg",
-    "cardName": "Prasiortle Crystron",
+    "imageUrl": "/cartes/crystron/56049970.jpg",
+    "cardName": "Prasiortue Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 675,
-    "imageUrl": "https://www.cards-capital.com/39818/morigre-crystron.jpg",
+    "imageUrl": "/cartes/crystron/83443619.jpg",
     "cardName": "Morigre Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -601,7 +601,7 @@
   },
   {
     "id": 676,
-    "imageUrl": "https://www.cards-capital.com/39819/thystivre-crystron.jpg",
+    "imageUrl": "/cartes/crystron/29838323.jpg",
     "cardName": "Thystivre Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": 677,
-    "imageUrl": "https://www.cards-capital.com/36210/quariongandrax-crystron.jpg",
+    "imageUrl": "/cartes/crystron/13455674.jpg",
     "cardName": "Quariongandrax Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 678,
-    "imageUrl": "https://www.cards-capital.com/36185/soufefnir-crystron.jpg",
+    "imageUrl": "/cartes/crystron/3422200.jpg",
     "cardName": "Soufefnir Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 679,
-    "imageUrl": "https://www.cards-capital.com/35106/ametrix-crystron.jpg",
+    "imageUrl": "/cartes/crystron/76359406.jpg",
     "cardName": "Amétrix Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 680,
-    "imageUrl": "https://www.cards-capital.com/35107/phenix-crystron.jpg",
+    "imageUrl": "/cartes/crystron/2743001.jpg",
     "cardName": "Phénix Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -641,7 +641,7 @@
   },
   {
     "id": 681,
-    "imageUrl": "https://www.cards-capital.com/35077/citree-crystron.jpg",
+    "imageUrl": "/cartes/crystron/20050865.jpg",
     "cardName": "Citree Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 682,
-    "imageUrl": "https://www.cards-capital.com/35076/quan-crystron.jpg",
+    "imageUrl": "/cartes/crystron/93665266.jpg",
     "cardName": "Quan Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 683,
-    "imageUrl": "https://www.lerepairedudragon.fr/137181/eleskeletus-crystron-c-suda-.jpg",
+    "imageUrl": "/cartes/crystron/47736165.jpg",
     "cardName": "Crystron Eleskeletus",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -665,7 +665,7 @@
   },
   {
     "id": 684,
-    "imageUrl": "https://www.lerepairedudragon.fr/137143/amas-crystron-c-suda-.jpg",
+    "imageUrl": "/cartes/crystron/53829527.jpg",
     "cardName": "Amas Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
