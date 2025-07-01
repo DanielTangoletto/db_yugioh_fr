@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "imageUrl": "https://www.cards-capital.com/88736/demonforgeron-au-paradis.jpg",
+    "imageUrl": "/cartes/fiendsmith/99989863.jpg",
     "cardName": "Démonforgeron au Paradis",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -113,15 +113,15 @@
   },
   {
     "id": 15,
-    "imageUrl": "https://www.cards-capital.com/88726/sanct-du-demonforgeron.jpg",
-    "cardName": "Sanct du démonforgeron",
+    "imageUrl": "/cartes/fiendsmith/35552985.jpg",
+    "cardName": "Sanct du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 16,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota014.jpg",
+    "imageUrl": "/cartes/fiendsmith/28803166.jpg",
     "cardName": "Lacrima les Larmes Cramoisies",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "imageUrl": "https://www.lerepairedudragon.fr/130060/agnumday-du-demonforgeron-sr-rota-.jpg",
+    "imageUrl": "/cartes/fiendsmith/32991300.jpg",
     "cardName": "Agnumday du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "imageUrl": "https://www.cards-capital.com/88697/desirae-du-demonforgeron.jpg",
+    "imageUrl": "/cartes/fiendsmith/82135803.jpg",
     "cardName": "Désirae du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -145,15 +145,15 @@
   },
   {
     "id": 19,
-    "imageUrl": "https://www.cards-capital.com/88711/sequence-du-demonforgeron.jpg",
-    "cardName": "Séquence du démonforgeron",
+    "imageUrl": "/cartes/fiendsmith/49867899.jpg",
+    "cardName": "Séquence du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 20,
-    "imageUrl": "https://www.cards-capital.com/88710/requiem-du-demonforgeron.jpg",
+    "imageUrl": "/cartes/fiendsmith/2463794.jpg",
     "cardName": "Requiem du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -161,7 +161,7 @@
   },
   {
     "id": 21,
-    "imageUrl": "https://www.cards-capital.com/88696/lacrima-du-demonforgeron.jpg",
+    "imageUrl": "/cartes/fiendsmith/46640168.jpg",
     "cardName": "Lacrima du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": 22,
-    "imageUrl": "https://www.cards-capital.com/88725/tract-du-demonforgeron.jpg",
+    "imageUrl": "/cartes/fiendsmith/98567237.jpg",
     "cardName": "Tract du Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 23,
-    "imageUrl": "https://www.cards-capital.com/88675/graveur-demonforgeron.jpg",
+    "imageUrl": "/cartes/fiendsmith/60764609.jpg",
     "cardName": "Graveur Démonforgeron",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "imageUrl": "/cartes/Kyrie.webp",
+    "imageUrl": "/cartes/fiendsmith/26434972.jpg",
     "cardName": "Fiendsmith Kyrie",
     "archetype": "Fiendsmith",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "imageUrl": "/cartes/Rextremende.webp",
+    "imageUrl": "/cartes/fiendsmith/11464648.jpg",
     "cardName": "Fiendsmith's Rextremende",
     "archetype": "Fiendsmith",
     "secondArchetype": "",

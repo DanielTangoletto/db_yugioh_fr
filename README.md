@@ -123,5 +123,5 @@ MaJ de la base de données :\
 
 ## V.1.04.5 - Début Juillet 2025 (823 cartes recensées)
 
-Uniformisation en cours des cartes, pour avoir une qualité égale et propre.
+Harmonisation en cours des cartes, pour avoir une qualité égale et propre.
 Ajout de nouvelles cartes récentes.
