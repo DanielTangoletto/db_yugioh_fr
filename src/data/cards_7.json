@@ -673,7 +673,7 @@
   },
   {
     "id": 685,
-    "imageUrl": "https://images.ygoprodeck.com/images/cards/31552317.jpg",
+    "imageUrl": "/cartes/crystron/31552317.jpg",
     "cardName": "Inclusion Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 686,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/0/01/CrystronTristaros-SUDA-EN-SR-1E.png/revision/latest?cb=20250409131757",
+    "imageUrl": "/cartes/crystron/99471856.jpg",
     "cardName": "Tristaros Crystron",
     "archetype": "Crystron",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 687,
-    "imageUrl": "https://images.ygoprodeck.com/images/cards/25865565.jpg",
+    "imageUrl": "/cartes/crystron/25865565.jpg",
     "cardName": "Crystron Soulfador",
     "archetype": "Crystron",
     "secondArchetype": "",

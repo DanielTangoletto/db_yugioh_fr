@@ -89,7 +89,7 @@
   },
   {
     "id": 712,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/9/9d/TenseiRyuGeAnva-ALIN-EN-C-1E.png/revision/latest?cb=20250503175437",
+    "imageUrl": "/cartes/ryu_ge/56322832.jpg",
     "cardName": "Tensei Ryu-Ge Anva",
     "archetype": "Ryu-Ge",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 713,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh/images/0/0e/RyuGeEnd-ALIN-EN-C-1E.png/revision/latest?cb=20250503172457",
+    "imageUrl": "/cartes/ryu_ge/90664684.jpg",
     "cardName": "Fin Ryu-Ge",
     "archetype": "Ryu-Ge",
     "secondArchetype": "",
@@ -652,6 +652,150 @@
     "imageUrl": "/cartes/gem_knight/88225269.jpg",
     "cardName": "Carcassenoyau, Chevalier-Gemmes",
     "archetype": "Gem-Knight",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 783,
+    "imageUrl": "/cartes/mermail/63941169.jpg",
+    "cardName": "Vapeur-Abysses",
+    "archetype": "Mermail",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 784,
+    "imageUrl": "/cartes/dark_magician/29436665.jpg",
+    "cardName": "Sorcier Eradicateur des Ténèbres",
+    "archetype": "Dark Magician",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 785,
+    "imageUrl": "/cartes/timelord/6616912.jpg",
+    "cardName": "Gabrion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 786,
+    "imageUrl": "/cartes/timelord/7733560.jpg",
+    "cardName": "Michion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 787,
+    "imageUrl": "/cartes/timelord/8967776.jpg",
+    "cardName": "Sephylon le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 788,
+    "imageUrl": "/cartes/timelord/9409625.jpg",
+    "cardName": "Machine Vide",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 789,
+    "imageUrl": "/cartes/timelord/27107590.jpg",
+    "cardName": "",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 790,
+    "imageUrl": "/cartes/timelord/28929131.jpg",
+    "cardName": "Zaphion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 791,
+    "imageUrl": "/cartes/timelord/33015627.jpg",
+    "cardName": "Sandaion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 792,
+    "imageUrl": "/cartes/timelord/34137269.jpg",
+    "cardName": "Hailon le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 793,
+    "imageUrl": "/cartes/timelord/36894320.jpg",
+    "cardName": "Machine Infinie",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 794,
+    "imageUrl": "/cartes/timelord/60222213.jpg",
+    "cardName": "Raphion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 795,
+    "imageUrl": "/cartes/timelord/65314286.jpg",
+    "cardName": "Sadion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 796,
+    "imageUrl": "/cartes/timelord/67508932.jpg",
+    "cardName": "Vorpgat le Seigneur du Temps Progéniteur",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 797,
+    "imageUrl": "/cartes/timelord/72883039.jpg",
+    "cardName": "Lumière Infinie",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 798,
+    "imageUrl": "/cartes/timelord/74530899.jpg",
+    "cardName": "Metaion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 799,
+    "imageUrl": "/cartes/timelord/91712985.jpg",
+    "cardName": "Kamion le Seigneur du Temps",
+    "archetype": "Timelord",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 800,
+    "imageUrl": "/cartes/timelord/92435533.jpg",
+    "cardName": "Lazion le Seigneur du Temps",
+    "archetype": "Timelord",
     "secondArchetype": "",
     "thirdArchetype": ""
   }

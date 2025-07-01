@@ -105,7 +105,7 @@ Ajout d'une mini-box de texte.
 MaJ de la base de données (DB) :
 
 • _Generaider_ ✔️\
-• _Atlantean / Mermail_ ✔️ (❌ Vapeur-Abysses)
+• _Atlantean / Mermail_ ✔️
 
 ## V.1.04 - Fin Juin 2025 (xxx cartes recensées)
 
@@ -114,8 +114,9 @@ Dans la liste des cartes : Catégories désormais affichées via des images, cli
 Ajout de la page Changelog + lien vers MDM
 
 MaJ de la base de données :
-• _Crystron (Inclusion, Tristaros, soulfador EN)_ ✔️
+• _Crystron_ ✔️
 • _Mimighoul_ ✔️\
-• _Ryu-Ge (Anva / Fin Ryu-Ge EN)_ ✔️\
+• _Ryu-Ge_ ✔️\
 • _Melodious_ ✔️\
-• *Gem-Knight*✔️
+• _Gem-Knight_✔️\
+• _Timelord_

@@ -76,6 +76,7 @@ const ARCHETYPE_CONFIG = {
   Tearlaments: "/sprites/Tearlaments.webp",
   "Tenpai Dragon": "/sprites/Tenpai_Dragon.webp",
   Tenyi: "/sprites/Tenyi.webp",
+  Timelord: "/sprites/Timelord.png",
   Toon: "/sprites/Toon.webp",
   "Tri-Brigade": "/sprites/Tri_Brigade.webp",
   "Voiceless Voice": "/sprites/Voiceless_Voice.webp",
