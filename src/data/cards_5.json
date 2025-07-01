@@ -321,18 +321,18 @@
   },
   {
     "id": 441,
-    "imageUrl": "https://www.cards-capital.com/76717/regain-du-marque.jpg",
+    "imageUrl": "/cartes/branded/34090915.jpg",
     "cardName": "Regain du Marqué",
     "archetype": "Branded",
-    "secondArchetype": "",
+    "secondArchetype": "Bystial",
     "thirdArchetype": ""
   },
   {
     "id": 442,
-    "imageUrl": "https://www.cards-capital.com/72144/albion-le-dragon-marque.jpg",
+    "imageUrl": "/cartes/branded/87746184.jpg",
     "cardName": "Albion le Dragon Marqué",
     "archetype": "Branded",
-    "secondArchetype": "",
+    "secondArchetype": "Albaz",
     "thirdArchetype": ""
   },
   {
@@ -345,15 +345,15 @@
   },
   {
     "id": 444,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23209.jpg",
+    "imageUrl": "/cartes/branded/32756828.jpg",
     "cardName": "Bête du Marqué",
     "archetype": "Branded",
-    "secondArchetype": "",
+    "secondArchetype": "Bystial",
     "thirdArchetype": ""
   },
   {
     "id": 445,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02016.jpg",
+    "imageUrl": "/cartes/branded/62962631.jpg",
     "cardName": "Aluber le Fou de Despia",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -369,7 +369,7 @@
   },
   {
     "id": 447,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03070ur.jpg",
+    "imageUrl": "/cartes/branded/36637374.jpg",
     "cardName": "Ouverture du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -401,7 +401,7 @@
   },
   {
     "id": 451,
-    "imageUrl": "https://www.cards-capital.com/65500/tragedie-despiane.jpg",
+    "imageUrl": "/cartes/branded/36577931.jpg",
     "cardName": "Tragédie Despiane",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -425,7 +425,7 @@
   },
   {
     "id": 454,
-    "imageUrl": "https://www.cards-capital.com/82593/bannissement-du-marque.jpg",
+    "imageUrl": "/cartes/branded/6763530.jpg",
     "cardName": "Bannissement du Marqué",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -457,7 +457,7 @@
   },
   {
     "id": 458,
-    "imageUrl": "https://www.cards-capital.com/65549/despia-theatre-des-marques.jpg",
+    "imageUrl": "/cartes/branded/99543666.jpg",
     "cardName": "Despia, Théâtre des Marqués",
     "archetype": "Branded",
     "secondArchetype": "Despia",
@@ -465,7 +465,7 @@
   },
   {
     "id": 459,
-    "imageUrl": "https://www.cards-capital.com/69865/disciple-marque.jpg",
+    "imageUrl": "/cartes/branded/34536828.jpg",
     "cardName": "Disciple Marqué",
     "archetype": "Branded",
     "secondArchetype": "",
@@ -481,7 +481,7 @@
   },
   {
     "id": 461,
-    "imageUrl": "https://www.cards-capital.com/74347/marque-du-dogmatika-fondamental.jpg",
+    "imageUrl": "/cartes/branded/14220547.jpg",
     "cardName": "Marqué du Dogmatika Fondamental",
     "archetype": "Branded",
     "secondArchetype": "Dogmatika",
