@@ -166,5 +166,21 @@
     "archetype": "Buster Blader",
     "secondArchetype": "",
     "thirdArchetype": ""
+  },
+  {
+    "id": 822,
+    "imageUrl": "/cartes/primite/99161253.jpg",
+    "cardName": "Fusion Primite",
+    "archetype": "Primite",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 823,
+    "imageUrl": "/cartes/primite/26462013.jpg",
+    "cardName": "Dragon Berzelius Profond Primite",
+    "archetype": "Primite",
+    "secondArchetype": "",
+    "thirdArchetype": ""
   }
 ]
