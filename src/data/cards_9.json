@@ -182,5 +182,29 @@
     "archetype": "Primite",
     "secondArchetype": "",
     "thirdArchetype": ""
+  },
+  {
+    "id": 824,
+    "imageUrl": "/cartes/millennium/73129314.jpg",
+    "cardName": "Âme de Gaïa le Chevalier Implacable",
+    "archetype": "Millennium",
+    "secondArchetype": "Gaia",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 825,
+    "imageUrl": "/cartes/maliss/20938824.jpg",
+    "cardName": "Maliss <P> Lièvre de Mars",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
+  },
+  {
+    "id": 826,
+    "imageUrl": "/cartes/maliss/93453053.jpg",
+    "cardName": "Maliss dans le Miroir",
+    "archetype": "Maliss",
+    "secondArchetype": "",
+    "thirdArchetype": ""
   }
 ]

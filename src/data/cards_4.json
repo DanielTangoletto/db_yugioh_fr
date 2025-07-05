@@ -89,7 +89,7 @@
   },
   {
     "id": 312,
-    "imageUrl": "https://www.cards-capital.com/74888/penducoucou-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/2511.jpg",
     "cardName": "Penducoucou Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 313,
-    "imageUrl": "https://www.cards-capital.com/74886/chandraglier-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/37629703.jpg",
     "cardName": "Chandraglier Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 314,
-    "imageUrl": "https://www.cards-capital.com/82722/cheminie-torbie-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/74018812.jpg",
     "cardName": "Cheminie Torbie Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 315,
-    "imageUrl": "https://www.lerepairedudragon.fr/99093/arianna-la-domestique-labrynth-ur-tama-.jpg",
+    "imageUrl": "/cartes/labrynth/1225009.jpg",
     "cardName": "Arianna la Domestique Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 316,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP24/mp24116.jpg",
+    "imageUrl": "/cartes/labrynth/73602965.jpg",
     "cardName": "Arias l'Intendante Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -129,7 +129,7 @@
   },
   {
     "id": 317,
-    "imageUrl": "https://www.cards-capital.com/74881/adorable-labrynth-du-chateau-d-argent.jpg",
+    "imageUrl": "/cartes/labrynth/2347656.jpg",
     "cardName": "Adorable Labrynth du Château d'Argent",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 318,
-    "imageUrl": "https://www.cards-capital.com/76693/mademoiselle-labrynth-du-chateau-d-argent.jpg",
+    "imageUrl": "/cartes/labrynth/81497286.jpg",
     "cardName": "Mademoiselle Labrynth du Château d'Argent",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 319,
-    "imageUrl": "https://www.cards-capital.com/74891/bienvenue-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/5380979.jpg",
     "cardName": "Bienvenue Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -153,7 +153,7 @@
   },
   {
     "id": 320,
-    "imageUrl": "https://www.cards-capital.com/78555/grande-bienvenue-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/92714517.jpg",
     "cardName": "Grande Bienvenue Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -161,7 +161,7 @@
   },
   {
     "id": 321,
-    "imageUrl": "https://www.cards-capital.com/74883/ariane-la-domestique-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/75730490.jpg",
     "cardName": "Ariane la Domestique Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": 322,
-    "imageUrl": "https://www.cards-capital.com/74889/labyrinthe-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/33407125.jpg",
     "cardName": "Labyrinthe Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 323,
-    "imageUrl": "https://www.cards-capital.com/82718/archdemon-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/48745395.jpg",
     "cardName": "Archdémon Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 324,
-    "imageUrl": "https://www.cards-capital.com/74890/traquenard-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/69895264.jpg",
     "cardName": "Traquenard Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 325,
-    "imageUrl": "https://www.cards-capital.com/74892/adieubienvenue-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/32785578.jpg",
     "cardName": "Adieubienvenue Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -201,7 +201,7 @@
   },
   {
     "id": 326,
-    "imageUrl": "https://www.cards-capital.com/74893/deferlement-labrynth.jpg",
+    "imageUrl": "/cartes/labrynth/68779682.jpg",
     "cardName": "Déferlement Labrynth",
     "archetype": "Labrynth",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 378,
-    "imageUrl": "https://www.cards-capital.com/74317/circulaire-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/36521307.jpg",
     "cardName": "Circulaire Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 379,
-    "imageUrl": "https://www.cards-capital.com/80970/sigma-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/27182739.jpg",
     "cardName": "Sigma Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 380,
-    "imageUrl": "https://www.cards-capital.com/72344/addition-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/80965043.jpg",
     "cardName": "Addition Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -641,7 +641,7 @@
   },
   {
     "id": 381,
-    "imageUrl": "https://www.cards-capital.com/58555/diametre-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/17946349.jpg",
     "cardName": "Diamètre Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 382,
-    "imageUrl": "https://www.cards-capital.com/54660/multiplication-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/52354896.jpg",
     "cardName": "Multiplication Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 383,
-    "imageUrl": "https://www.cards-capital.com/54659/soustraction-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/16360142.jpg",
     "cardName": "Soustraction Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -665,7 +665,7 @@
   },
   {
     "id": 384,
-    "imageUrl": "https://www.cards-capital.com/54661/division-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/89743495.jpg",
     "cardName": "Division Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -673,7 +673,7 @@
   },
   {
     "id": 385,
-    "imageUrl": "https://www.cards-capital.com/54657/nabla-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/53577438.jpg",
     "cardName": "Nabla Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 386,
-    "imageUrl": "https://www.cards-capital.com/54664/laplacien-primathmech.jpg",
+    "imageUrl": "/cartes/mathmech/88021907.jpg",
     "cardName": "Laplacien Primathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 387,
-    "imageUrl": "https://www.cards-capital.com/54695/alembertien-primathmech.jpg",
+    "imageUrl": "/cartes/mathmech/85692042.jpg",
     "cardName": "Alembertien Primathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -697,7 +697,7 @@
   },
   {
     "id": 388,
-    "imageUrl": "https://www.cards-capital.com/54662/magma-geomathmech.jpg",
+    "imageUrl": "/cartes/mathmech/15248594.jpg",
     "cardName": "Magma Géomathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -705,7 +705,7 @@
   },
   {
     "id": 389,
-    "imageUrl": "https://www.cards-capital.com/54663/sigma-final-geomathmech.jpg",
+    "imageUrl": "/cartes/mathmech/42632209.jpg",
     "cardName": "Sigma Final Géomathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -713,7 +713,7 @@
   },
   {
     "id": 390,
-    "imageUrl": "https://www.cards-capital.com/54665/equation-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/14025912.jpg",
     "cardName": "Équation Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -721,7 +721,7 @@
   },
   {
     "id": 391,
-    "imageUrl": "https://www.cards-capital.com/54666/nayuta-milliardlame-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/41410651.jpg",
     "cardName": "Nayuta Milliardlame Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -729,7 +729,7 @@
   },
   {
     "id": 392,
-    "imageUrl": "https://www.cards-capital.com/54667/superfactorielle-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/87804365.jpg",
     "cardName": "Superfactorielle Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",
@@ -737,7 +737,7 @@
   },
   {
     "id": 393,
-    "imageUrl": "https://www.cards-capital.com/54668/induction-mathmech.jpg",
+    "imageUrl": "/cartes/mathmech/14393464.jpg",
     "cardName": "Induction Mathmech",
     "archetype": "Mathmech",
     "secondArchetype": "",

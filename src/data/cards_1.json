@@ -201,23 +201,23 @@
   },
   {
     "id": 26,
-    "imageUrl": "https://www.cards-capital.com/67168/piece-structure-psy-gamma.jpg",
-    "cardName": "Pièce structure-Psy Gamma",
+    "imageUrl": "/cartes/handtrap/38814750.jpg",
+    "cardName": "Pièce Structure-PSY Gamma",
     "archetype": "Handtrap",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 27,
-    "imageUrl": "https://www.cards-capital.com/84446/fille-fantome-et-cornouiller-effrayant.jpg",
-    "cardName": "Fille fantôme et cornouiller effrayant",
+    "imageUrl": "/cartes/handtrap/60643554.jpg",
+    "cardName": "Fille Fantôme et Cornouiller Effrayant",
     "archetype": "Handtrap",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 28,
-    "imageUrl": "https://www.cards-capital.com/66006/fantome-du-defunt-et-fraicheur-lunaire.jpg",
+    "imageUrl": "/cartes/handtrap/52038442.jpg",
     "cardName": "Fantôme du Défunt et Fraîcheur Lunaire",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -225,15 +225,15 @@
   },
   {
     "id": 29,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01014cr.jpg",
+    "imageUrl": "/cartes/handtrap/91800273.jpg",
     "cardName": "Migrateur Dimensionnel",
     "archetype": "Handtrap",
-    "secondArchetype": "",
+    "secondArchetype": "Floodgate",
     "thirdArchetype": ""
   },
   {
     "id": 30,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02002ur.jpg",
+    "imageUrl": "/cartes/handtrap/24508238.jpg",
     "cardName": "Corbeau D.D.",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -241,7 +241,7 @@
   },
   {
     "id": 31,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01011.jpg",
+    "imageUrl": "/cartes/handtrap/73642297.jpg",
     "cardName": "Beauté Fantôme et Manoir Hanté",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -249,7 +249,7 @@
   },
   {
     "id": 32,
-    "imageUrl": "https://www.cards-capital.com/49660/ogre-fantome-et-lapin-des-neiges.jpg",
+    "imageUrl": "/cartes/handtrap/59438931.jpg",
     "cardName": "Ogre Fantôme et Lapin des Neiges",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -257,7 +257,7 @@
   },
   {
     "id": 33,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra0206bpur.jpg",
+    "imageUrl": "/cartes/handtrap/94145022.jpg",
     "cardName": "Hurluberlu et Oiseau de Verrouillage",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -265,7 +265,7 @@
   },
   {
     "id": 34,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01015.jpg",
+    "imageUrl": "/cartes/handtrap/27204313.jpg",
     "cardName": "Nibiru, l'être primitif",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -273,7 +273,7 @@
   },
   {
     "id": 35,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01003.jpg",
+    "imageUrl": "/cartes/handtrap/97268403.jpg",
     "cardName": "Illusionniste d'Effet",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -281,15 +281,15 @@
   },
   {
     "id": 36,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02063ur.jpg",
-    "cardName": "Désignateur de la suppression",
+    "imageUrl": "/cartes/handtrap/65681983.jpg",
+    "cardName": "Désignateur de la Suppression",
     "archetype": "Handtrap",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 37,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01057pse.jpg",
+    "imageUrl": "/cartes/handtrap/24224830.jpg",
     "cardName": "Appelé par la Tombe",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -297,7 +297,7 @@
   },
   {
     "id": 38,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/3/3b/CancrelatMaxx-SR03-FR-C-1E.png/revision/latest/scale-to-width-down/545?cb=20180730160201&path-prefix=fr",
+    "imageUrl": "/cartes/handtrap/23434538.jpg",
     "cardName": "Cancrelat Maxx",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -305,15 +305,15 @@
   },
   {
     "id": 39,
-    "imageUrl": "https://www.cards-capital.com/78857/floraison-de-cendres-et-joyeux-printemps.jpg",
-    "cardName": "Floraison de cendres et joyeux printemps",
+    "imageUrl": "/cartes/handtrap/14558128.jpg",
+    "cardName": "Floraison de Cendres et Joyeux Printemps",
     "archetype": "Handtrap",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 40,
-    "imageUrl": "https://www.cards-capital.com/84360/infini-ephemere.jpg",
+    "imageUrl": "/cartes/handtrap/10045474.jpg",
     "cardName": "Infini Éphémère",
     "archetype": "Handtrap",
     "secondArchetype": "Staple",
@@ -321,7 +321,7 @@
   },
   {
     "id": 41,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota024.jpg",
+    "imageUrl": "/cartes/handtrap/42141493.jpg",
     "cardName": "Mulcharmy Fuwalos",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -329,7 +329,7 @@
   },
   {
     "id": 42,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info027.jpg",
+    "imageUrl": "/cartes/handtrap/84192580.jpg",
     "cardName": "Mulcharmy Purulia",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": 43,
-    "imageUrl": "/cartes/handtraps/87126721.jpg",
+    "imageUrl": "/cartes/handtrap/87126721.jpg",
     "cardName": "Mulcharmy Meowls",
     "archetype": "Handtrap",
     "secondArchetype": "",
@@ -345,7 +345,7 @@
   },
   {
     "id": 44,
-    "imageUrl": "https://www.lerepairedudragon.fr/111937/fenrir-kashtira-str-mp23-.jpg",
+    "imageUrl": "/cartes/kashtira/32909498.jpg",
     "cardName": "Fenrir Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -353,47 +353,47 @@
   },
   {
     "id": 45,
-    "imageUrl": "https://www.lerepairedudragon.fr/101013/licorne-kashtira-ur-dabl-.jpg",
-    "cardName": "Kashtira Licorne",
+    "imageUrl": "/cartes/kashtira/68304193.jpg",
+    "cardName": "Licorne Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 46,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_PHHY/phhy046.jpg",
-    "cardName": "Kashtira Arise-Heart",
+    "imageUrl": "/cartes/kashtira/48626373.jpg",
+    "cardName": "Arise-Heart Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 47,
-    "imageUrl": "https://www.cards-capital.com/78483/riseheart-kashtira.jpg",
-    "cardName": "Kashtira Riseheart",
+    "imageUrl": "/cartes/kashtira/31149212.jpg",
+    "cardName": "Riseheart Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 48,
-    "imageUrl": "https://www.cards-capital.com/76677/ogre-kashtira.jpg",
-    "cardName": "Kashtira Ogre",
+    "imageUrl": "/cartes/kashtira/94392192.jpg",
+    "cardName": "Ogre Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 49,
-    "imageUrl": "https://www.cards-capital.com/78484/kashtira-griffrayeur.jpg",
+    "imageUrl": "/cartes/kashtira/78534861.jpg",
     "cardName": "Kashtira Griffrayeur",
     "archetype": "Kashtira",
-    "secondArchetype": "",
+    "secondArchetype": "Scareclaw",
     "thirdArchetype": ""
   },
   {
     "id": 50,
-    "imageUrl": "https://www.cards-capital.com/78485/kashtira-des-tiarmentations.jpg",
+    "imageUrl": "/cartes/kashtira/4928565.jpg",
     "cardName": "Kashtira des Tiarmentations",
     "archetype": "Kashtira",
     "secondArchetype": "Tearlaments",
@@ -401,15 +401,15 @@
   },
   {
     "id": 51,
-    "imageUrl": "https://www.cards-capital.com/76709/shangri-ira-kashtira.jpg",
-    "cardName": "Kashtira Shangri-Ira",
+    "imageUrl": "/cartes/kashtira/73542331.jpg",
+    "cardName": "Shangri-Ira Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 52,
-    "imageUrl": "https://www.cards-capital.com/78537/planete-pressurisee-wraitsoth.jpg",
+    "imageUrl": "/cartes/kashtira/71832012.jpg",
     "cardName": "Planète Pressurisée Wraitsoth",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -417,7 +417,7 @@
   },
   {
     "id": 53,
-    "imageUrl": "https://www.lerepairedudragon.fr/101063/naissance-kashtira-sr-dabl-.jpg",
+    "imageUrl": "/cartes/kashtira/69540484.jpg",
     "cardName": "Naissance Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -425,7 +425,7 @@
   },
   {
     "id": 54,
-    "imageUrl": "https://www.cards-capital.com/78536/kashtiratheose.jpg",
+    "imageUrl": "/cartes/kashtira/34447918.jpg",
     "cardName": "Kashtirathéose",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -433,15 +433,15 @@
   },
   {
     "id": 55,
-    "imageUrl": "https://www.cards-capital.com/91698/big-bang-kashtira.jpg",
-    "cardName": "Kashtira Big Bang",
+    "imageUrl": "/cartes/kashtira/33925864.jpg",
+    "cardName": "Big Bang Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 56,
-    "imageUrl": "https://www.cards-capital.com/76740/preparations-kashtira.jpg",
+    "imageUrl": "/cartes/kashtira/21639276.jpg",
     "cardName": "Préparations Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -449,7 +449,7 @@
   },
   {
     "id": 57,
-    "imageUrl": "https://www.cards-capital.com/79875/akstra-kashtira.jpg",
+    "imageUrl": "/cartes/kashtira/82286798.jpg",
     "cardName": "Akstra Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -457,7 +457,7 @@
   },
   {
     "id": 58,
-    "imageUrl": "https://www.cards-capital.com/78535/chevauchement-kashtira.jpg",
+    "imageUrl": "/cartes/kashtira/8953369.jpg",
     "cardName": "Chevauchement Kashtira",
     "archetype": "Kashtira",
     "secondArchetype": "",
@@ -521,8 +521,8 @@
   },
   {
     "id": 66,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01074.jpg",
-    "cardName": "A forces égales",
+    "imageUrl": "/cartes/handtrap/15693423.jpg",
+    "cardName": "À Forces Égales",
     "archetype": "Staple",
     "secondArchetype": "Handtrap",
     "thirdArchetype": ""
@@ -609,7 +609,7 @@
   },
   {
     "id": 77,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01070.jpg",
+    "imageUrl": "/cartes/floodgate/23516703.jpg",
     "cardName": "Limiteur d'invocation",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 78,
-    "imageUrl": "https://www.cards-capital.com/74926/parfum-anti-magie.jpg",
+    "imageUrl": "/cartes/floodgate/58921041.jpg",
     "cardName": "Parfum Anti-Magie",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 79,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA02/ra02077.jpg",
+    "imageUrl": "/cartes/floodgate/82732705.jpg",
     "cardName": "Absorption de compétence",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 80,
-    "imageUrl": "https://www.cards-capital.com/72136/il-ne-peut-y-en-avoir-qu-un.jpg",
+    "imageUrl": "/cartes/floodgate/24207889.jpg",
     "cardName": "Il ne peut en y avoir qu'un",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -641,7 +641,7 @@
   },
   {
     "id": 81,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/81/CombatenPr%C3%A9sencedelEmpereur-SDSB-FR-C-1E.png/revision/latest/scale-to-width-down/685?cb=20190211133216&path-prefix=fr",
+    "imageUrl": "/cartes/floodgate/53334471.jpg",
     "cardName": "Combats en présence de l'empereur",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -649,23 +649,23 @@
   },
   {
     "id": 82,
-    "imageUrl": "https://www.cards-capital.com/49289/village-secret-des-magiciens.jpg",
-    "cardName": "Village secret des magiciens",
+    "imageUrl": "/cartes/floodgate/68462976.jpg",
+    "cardName": "Village Secret des Magiciens",
     "archetype": "Floodgate",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 83,
-    "imageUrl": "https://www.lerepairedudragon.fr/109353/fissure-dimensionnelle-ur-blmr-.jpg",
-    "cardName": "Fissure dimensionnelle",
+    "imageUrl": "/cartes/floodgate/81674782.jpg",
+    "cardName": "Fissure Dimensionnelle",
     "archetype": "Floodgate",
     "secondArchetype": "",
     "thirdArchetype": ""
   },
   {
     "id": 84,
-    "imageUrl": "https://www.cards-capital.com/81014/macro-cosmos.jpg",
+    "imageUrl": "/cartes/floodgate/30241314.jpg",
     "cardName": "Macro Cosmos",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -673,7 +673,7 @@
   },
   {
     "id": 85,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01010ur.jpg",
+    "imageUrl": "/cartes/floodgate/15397015.jpg",
     "cardName": "Inspecteur Boarder",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 86,
-    "imageUrl": "https://www.cards-capital.com/51156/faux-artefact.jpg",
+    "imageUrl": "/cartes/floodgate/20292186.jpg",
     "cardName": "Faux - Artifact",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 87,
-    "imageUrl": "https://www.lerepairedudragon.fr/92522/fossile-dyna-pachycephalosaure-grp-mged-yu-gi-oh.jpg",
+    "imageUrl": "/cartes/floodgate/42009836.jpg",
     "cardName": "Fossile Dyna Pachycéphalosaure",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -697,7 +697,7 @@
   },
   {
     "id": 88,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAMA/mama109.jpg",
+    "imageUrl": "/cartes/floodgate/47355498.jpg",
     "cardName": "Vallée Mortuaire",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -705,7 +705,7 @@
   },
   {
     "id": 89,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/1/19/Rivalit%C3%A9desSeigneursdeGuerre-HISU-FR-SR-1E.png/revision/latest?cb=20181113172405&path-prefix=fr",
+    "imageUrl": "/cartes/floodgate/90846359.jpg",
     "cardName": "Rivalité des Seigneurs de Guerre",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -713,7 +713,7 @@
   },
   {
     "id": 90,
-    "imageUrl": "https://www.cards-capital.com/60347/barriere-dimensionnelle.jpg",
+    "imageUrl": "/cartes/floodgate/83326048.jpg",
     "cardName": "Barrière dimensionnelle",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -721,7 +721,7 @@
   },
   {
     "id": 91,
-    "imageUrl": "https://www.cards-capital.com/45669/winda-marionnette-de-l-ombre-el.jpg",
+    "imageUrl": "/cartes/shaddoll/94977270.jpg",
     "cardName": "Winda, Marionnette de l'Ombre El",
     "archetype": "Shaddoll",
     "secondArchetype": "Floodgate",

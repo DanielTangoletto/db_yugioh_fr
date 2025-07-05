@@ -129,7 +129,7 @@
   },
   {
     "id": 617,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_GFP2/gfp2147.jpg",
+    "imageUrl": "/cartes/generaider/2665273.jpg",
     "cardName": "Jormungandr, Boss Genèraideur de l'Éternité",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 618,
-    "imageUrl": "https://www.cards-capital.com/78525/laevatein-boss-generaideur-des-ombres.jpg",
+    "imageUrl": "/cartes/generaider/74615388.jpg",
     "cardName": "Laevatein, Boss Genèraideur des Ombres",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 619,
-    "imageUrl": "https://www.cards-capital.com/91539/vala-seidhr-des-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/91749600.jpg",
     "cardName": "Vala, Seidhr des Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -153,7 +153,7 @@
   },
   {
     "id": 620,
-    "imageUrl": "https://www.cards-capital.com/72316/mardel-boss-generaideur-de-la-lumiere.jpg",
+    "imageUrl": "/cartes/generaider/13903402.jpg",
     "cardName": "Mardel, Boss Genèraideur de la Lumière",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -161,7 +161,7 @@
   },
   {
     "id": 621,
-    "imageUrl": "https://www.cards-capital.com/72317/hela-boss-generaideur-de-la-mort.jpg",
+    "imageUrl": "/cartes/generaider/75660578.jpg",
     "cardName": "Hela, Boss Genèraideur de la Mort",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": 622,
-    "imageUrl": "https://www.cards-capital.com/56681/harr-boss-generaideur-des-tempetes.jpg",
+    "imageUrl": "/cartes/generaider/68199168.jpg",
     "cardName": "Harr, Boss Genèraideur des Tempêtes",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 623,
-    "imageUrl": "https://www.cards-capital.com/56682/loptr-ombre-des-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/94183877.jpg",
     "cardName": "Loptr, Ombre des Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 624,
-    "imageUrl": "https://www.cards-capital.com/55289/utgarda-boss-generaideur-de-la-delusion.jpg",
+    "imageUrl": "/cartes/generaider/744887.jpg",
     "cardName": "Utgarda, Boss Genèraideur de la Délusion",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 625,
-    "imageUrl": "https://www.cards-capital.com/72390/niveau-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/38053381.jpg",
     "cardName": "Niveau Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -201,7 +201,7 @@
   },
   {
     "id": 626,
-    "imageUrl": "https://www.cards-capital.com/54691/butin-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/1942635.jpg",
     "cardName": "Butin Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -209,7 +209,7 @@
   },
   {
     "id": 627,
-    "imageUrl": "https://www.cards-capital.com/54692/combat-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/37931734.jpg",
     "cardName": "Combat Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -217,7 +217,7 @@
   },
   {
     "id": 628,
-    "imageUrl": "https://www.cards-capital.com/54693/salle-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/64325438.jpg",
     "cardName": "Salle Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -225,7 +225,7 @@
   },
   {
     "id": 629,
-    "imageUrl": "https://www.cards-capital.com/54694/morsure-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/720147.jpg",
     "cardName": "Morsure Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -233,7 +233,7 @@
   },
   {
     "id": 630,
-    "imageUrl": "https://www.cards-capital.com/54686/nidhogg-boss-generaideur-de-la-glace.jpg",
+    "imageUrl": "/cartes/generaider/49275969.jpg",
     "cardName": "Nidhogg, Boss Genèraideur de la Glace",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -241,7 +241,7 @@
   },
   {
     "id": 631,
-    "imageUrl": "https://www.cards-capital.com/54685/naglfar-boss-generaideur-du-feu.jpg",
+    "imageUrl": "/cartes/generaider/2881864.jpg",
     "cardName": "Naglfar, Boss Genèraideur du Feu",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -249,7 +249,7 @@
   },
   {
     "id": 632,
-    "imageUrl": "https://www.cards-capital.com/54684/dovelgus-boss-generaideur-du-fer.jpg",
+    "imageUrl": "/cartes/generaider/76382116.jpg",
     "cardName": "Dovelgus, Boss Genèraideur du Fer",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -257,7 +257,7 @@
   },
   {
     "id": 633,
-    "imageUrl": "https://www.cards-capital.com/54690/quete-boss-generaideur.jpg",
+    "imageUrl": "/cartes/generaider/75448086.jpg",
     "cardName": "Quête Boss Genèraideur",
     "archetype": "Generaider",
     "secondArchetype": "",
@@ -265,7 +265,7 @@
   },
   {
     "id": 634,
-    "imageUrl": "https://www.cards-capital.com/54683/frodi-boss-generaideur-des-epees.jpg",
+    "imageUrl": "/cartes/generaider/40998517.jpg",
     "cardName": "Frodi, Boss Genèraideur des Épées",
     "archetype": "Generaider",
     "secondArchetype": "",

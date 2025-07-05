@@ -505,7 +505,7 @@
   },
   {
     "id": 264,
-    "imageUrl": "https://www.lerepairedudragon.fr/52504/yugioh-bras-gauche-de-l-interdit-c-ldk2.jpg",
+    "imageUrl": "/cartes/exodia/7902349.jpg",
     "cardName": "Bras Gauche de l'Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -513,7 +513,7 @@
   },
   {
     "id": 265,
-    "imageUrl": "https://www.cards-capital.com/34501/bras-droit-de-l-interdit.jpg",
+    "imageUrl": "/cartes/exodia/70903634.jpg",
     "cardName": "Bras Droit de l'Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -521,7 +521,7 @@
   },
   {
     "id": 266,
-    "imageUrl": "https://www.lerepairedudragon.fr/52506/yugioh-jambe-gauche-de-l-interdit-c-ldk2.jpg",
+    "imageUrl": "/cartes/exodia/44519536.jpg",
     "cardName": "Jambe Gauche de l'Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -529,7 +529,7 @@
   },
   {
     "id": 267,
-    "imageUrl": "https://www.cards-capital.com/29661/jambe-droite-de-l-interdit.jpg",
+    "imageUrl": "/cartes/exodia/8124921.jpg",
     "cardName": "Jambe Droite de l'Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -537,7 +537,7 @@
   },
   {
     "id": 268,
-    "imageUrl": "https://www.lerepairedudragon.fr/52502/yugioh-exodia-l-interdit-c-ldk2.jpg",
+    "imageUrl": "/cartes/exodia/33396948.jpg",
     "cardName": "Exodia l'Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -545,7 +545,7 @@
   },
   {
     "id": 269,
-    "imageUrl": "https://www.cards-capital.com/88692/l-incarne-de-l-instoppable-exodia.jpg",
+    "imageUrl": "/cartes/exodia/83257450.jpg",
     "cardName": "L'Incarné de l'Instoppable Éxodia",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -553,7 +553,7 @@
   },
   {
     "id": 270,
-    "imageUrl": "https://www.cards-capital.com/88717/ankh-millenaire.jpg",
+    "imageUrl": "/cartes/exodia/37613663.jpg",
     "cardName": "Ankh Millénaire",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -561,7 +561,7 @@
   },
   {
     "id": 271,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info001.jpg",
+    "imageUrl": "/cartes/millennium/38775407.jpg",
     "cardName": "Sengenjin se Réveille d'un Millénaire",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -569,7 +569,7 @@
   },
   {
     "id": 272,
-    "imageUrl": "https://www.cards-capital.com/88659/golem-qui-garde-les-tresors-millenaires.jpg",
+    "imageUrl": "/cartes/millennium/74169516.jpg",
     "cardName": "Golem qui Garde les Trésors Millénaires",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -577,7 +577,7 @@
   },
   {
     "id": 273,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info003.jpg",
+    "imageUrl": "/cartes/millennium/1164211.jpg",
     "cardName": "Bouclier de la Dynastie Millénaire",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -585,7 +585,7 @@
   },
   {
     "id": 274,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info005.jpg",
+    "imageUrl": "/cartes/millennium/63947968.jpg",
     "cardName": "Reflet Infernal du Millénaire",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -593,7 +593,7 @@
   },
   {
     "id": 275,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info004.jpg",
+    "imageUrl": "/cartes/millennium/37552929.jpg",
     "cardName": "Vierge de la Lune Millénaire",
     "archetype": "Exodia",
     "secondArchetype": "Millennium",
@@ -601,7 +601,7 @@
   },
   {
     "id": 276,
-    "imageUrl": "https://www.lerepairedudragon.fr/126162/temple-wedju-ur-info-.jpg",
+    "imageUrl": "/cartes/millennium/63017368.jpg",
     "cardName": "Temple Wedju",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": 277,
-    "imageUrl": "https://www.cards-capital.com/88732/feux-de-la-rage-exxod.jpg",
+    "imageUrl": "/cartes/exodia/23617756.jpg",
     "cardName": "Feux de la Rage Exxod",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 278,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y03ultrarare.jpg",
+    "imageUrl": "/cartes/exodia/64043465.jpg",
     "cardName": "Destruction !!!",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 279,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info055.jpg",
+    "imageUrl": "/cartes/exodia/402416.jpg",
     "cardName": "Embrasement Destruction !!!",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 280,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLTR/bltr051.jpg",
+    "imageUrl": "/cartes/exodia/58604027.jpg",
     "cardName": "L'Incarné du Légendaire Exodia",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -641,7 +641,7 @@
   },
   {
     "id": 281,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2y09commune.jpg",
+    "imageUrl": "/cartes/exodia/12600382.jpg",
     "cardName": "Exodia Necross",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 282,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/6f/Contratavec%C3%89xodia-LDK2-FR-C-1E.png/revision/latest?cb=20180730161551&path-prefix=fr",
+    "imageUrl": "/cartes/exodia/33244944.jpg",
     "cardName": "Contrat avec Exodia",
     "archetype": "Exodia",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 283,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/7/7f/ExodiuslUltimeInterdit-MIL1-FR-C-1E.png/revision/latest?cb=20180730175747&path-prefix=fr",
+    "imageUrl": "/cartes/exodia/13893596.jpg",
     "cardName": "Exodius l'Ultime Interdit",
     "archetype": "Exodia",
     "secondArchetype": "",

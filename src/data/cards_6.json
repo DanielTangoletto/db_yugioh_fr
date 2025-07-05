@@ -1,7 +1,7 @@
 [
   {
     "id": 501,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2a/CavaleriedesT%C3%A9n%C3%A8bres-DUPO-FR-UR-1E.png/revision/latest?cb=20190404145154&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/73452089.jpg",
     "cardName": "Cavalerie des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 502,
-    "imageUrl": "https://www.cards-capital.com/74049/les-magiciens-des-tenebres.jpg",
+    "imageUrl": "/cartes/dark_magician/50237654.jpg",
     "cardName": "Les Magiciens des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -17,7 +17,7 @@
   },
   {
     "id": 503,
-    "imageUrl": "https://www.cards-capital.com/69848/maitre-du-chaos.jpg",
+    "imageUrl": "/cartes/dark_magician/85059922.jpg",
     "cardName": "Maître du Chaos",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 504,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_BLMR/blmr001.jpg",
+    "imageUrl": "/cartes/dark_magician/5829717.jpg",
     "cardName": "Magicien Sombre le Chevalier de la Magie du Dragon",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -33,7 +33,7 @@
   },
   {
     "id": 505,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw049commune.jpg",
+    "imageUrl": "/cartes/dark_magician/13722870.jpg",
     "cardName": "Chevalier du Flamboiement des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -41,7 +41,7 @@
   },
   {
     "id": 506,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3089.jpg",
+    "imageUrl": "/cartes/dark_magician/47963370.jpg",
     "cardName": "Magicien du Chaos",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -49,7 +49,7 @@
   },
   {
     "id": 507,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw027commune.jpg",
+    "imageUrl": "/cartes/dark_magician/92377303.jpg",
     "cardName": "Sage des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -57,7 +57,7 @@
   },
   {
     "id": 508,
-    "imageUrl": "https://www.cards-capital.com/82494/timee-le-dragon-uni.jpg",
+    "imageUrl": "/cartes/dark_magician/3078380.jpg",
     "cardName": "Timée le Dragon Uni",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -65,7 +65,7 @@
   },
   {
     "id": 509,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw028commune.jpg",
+    "imageUrl": "/cartes/dark_magician/50725996.jpg",
     "cardName": "Chevalier Magicien des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -73,7 +73,7 @@
   },
   {
     "id": 510,
-    "imageUrl": "https://www.cards-capital.com/55193/mahad-oracle-palladium.jpg",
+    "imageUrl": "/cartes/dark_magician/71703785.jpg",
     "cardName": "Mahad Oracle Palladium",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 511,
-    "imageUrl": "https://www.cards-capital.com/74037/magicien-de-l-illusion-noire.jpg",
+    "imageUrl": "/cartes/dark_magician/35191415.jpg",
     "cardName": "Magicien de l'Illusion Noire",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 513,
-    "imageUrl": "https://www.lerepairedudragon.fr/97531/magicien-chronique-ur-gfp2-yu-gi-oh.jpg",
+    "imageUrl": "/cartes/dark_magician/60948488.jpg",
     "cardName": "Magicien Chronique",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 514,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_info/info006.jpg",
+    "imageUrl": "/cartes/dark_magician/342673.jpg",
     "cardName": "Magicien Sombre le Magicien de Magie Noire",
     "archetype": "Dark Magician",
     "secondArchetype": "Sarcophagus",
@@ -113,7 +113,7 @@
   },
   {
     "id": 515,
-    "imageUrl": "https://www.cards-capital.com/34507/magicienne-des-tenebres.jpg",
+    "imageUrl": "/cartes/dark_magician/38033121.jpg",
     "cardName": "Magicienne des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -129,7 +129,7 @@
   },
   {
     "id": 517,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3087.jpg",
+    "imageUrl": "/cartes/dark_magician/30603688.jpg",
     "cardName": "Apprentie Magicienne Illusion",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 518,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/85/MagicienSombreExp%C3%A9riment%C3%A9-LEDD-FR-C-1E.png/revision/latest/scale-to-width-down/682?cb=20180730200514&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/73752131.jpg",
     "cardName": "Magicien Sombre Expérimenté",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 519,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/d/d4/RobeduMagicien-LEDD-FR-C-1E.png/revision/latest?cb=20180904194111&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/71696014.jpg",
     "cardName": "Robe du Magicien",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -153,7 +153,7 @@
   },
   {
     "id": 520,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MP23/mp23002.jpg",
+    "imageUrl": "/cartes/kuriboh/31699677.jpg",
     "cardName": "Magikuriboh",
     "archetype": "Dark Magician",
     "secondArchetype": "Kuriboh",
@@ -161,7 +161,7 @@
   },
   {
     "id": 521,
-    "imageUrl": "https://www.cards-capital.com/16119/mille-couteaux.jpg",
+    "imageUrl": "/cartes/dark_magician/63391643.jpg",
     "cardName": "Mille Couteaux",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": 522,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/d/d3/Cons%C3%A9crationparlaLumi%C3%A8reetlesT%C3%A9n%C3%A8bres-DPRP-FR-C-1E.png/revision/latest?cb=20180730161523&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/69542930.jpg",
     "cardName": "Consécration par la Lumière et les Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 523,
-    "imageUrl": "https://www.lerepairedudragon.fr/38642/attaque-de-magie-noire-c-ysyr.jpg",
+    "imageUrl": "/cartes/dark_magician/2314238.jpg",
     "cardName": "Attaque de Magie Noire",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 524,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LCYW/lcyw072commune.jpg",
+    "imageUrl": "/cartes/dark_magician/87210505.jpg",
     "cardName": "Titre de Chevalier",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 525,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SS01/ss01a10commune.jpg",
+    "imageUrl": "/cartes/dark_magician/13604200.jpg",
     "cardName": "Pierre de Sagesse",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -201,7 +201,7 @@
   },
   {
     "id": 526,
-    "imageUrl": "https://www.cards-capital.com/84808/rideau-de-magie-noire.jpg",
+    "imageUrl": "/cartes/dark_magician/99789342.jpg",
     "cardName": "Rideau de Magie Noire",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -209,7 +209,7 @@
   },
   {
     "id": 527,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/91/FormuleMagique-YGLD-FR-C-1E.png/revision/latest?cb=20180904191111&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/67227834.jpg",
     "cardName": "Formule Magique",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -217,7 +217,7 @@
   },
   {
     "id": 528,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/41/L%C5%92ildeTim%C3%A9e-LEDD-FR-C-1E.png/revision/latest?cb=20180730195727&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/1784686.jpg",
     "cardName": "L'Œil de Timée",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -225,7 +225,7 @@
   },
   {
     "id": 529,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/6/69/Magie%C3%89tenduedesT%C3%A9n%C3%A8bres-LEDD-FR-C-1E.png/revision/latest/scale-to-width-down/683?cb=20180730201259&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/111280.jpg",
     "cardName": "Magie Étendue des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -233,7 +233,7 @@
   },
   {
     "id": 530,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/9/9a/CercleMagiqueSombre-DUPO-FR-UR-1E.png/revision/latest?cb=20190404142613&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/47222536.jpg",
     "cardName": "Cercle Magique Sombre",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -241,7 +241,7 @@
   },
   {
     "id": 531,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDS3/lds3094.jpg",
+    "imageUrl": "/cartes/dark_magician/73616671.jpg",
     "cardName": "Illusion Magique",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -249,7 +249,7 @@
   },
   {
     "id": 532,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/0/05/AttaqueBr%C3%BBlantedesT%C3%A9n%C3%A8bres-LDK2-FR-ScR-EL.png/revision/latest?cb=20180730152820&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/49702428.jpg",
     "cardName": "Attaque Brûlante des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -257,7 +257,7 @@
   },
   {
     "id": 533,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LDK2/ldk2s05secretrare.jpg",
+    "imageUrl": "/cartes/dark_magician/75190122.jpg",
     "cardName": "Magie Brûlante des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -265,7 +265,7 @@
   },
   {
     "id": 534,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_LEDD/ledda18.jpg",
+    "imageUrl": "/cartes/dark_magician/41735184.jpg",
     "cardName": "Héritage de Magie Noire",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -273,7 +273,7 @@
   },
   {
     "id": 535,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_DUSA/dusa025ultrarare.jpg",
+    "imageUrl": "/cartes/dark_magician/15256925.jpg",
     "cardName": "Sceptre au Souffle de Chaos",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -281,7 +281,7 @@
   },
   {
     "id": 536,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/24/LienentreProfesseuret%C3%89tudiant-DUPO-FR-UR-1E.png/revision/latest/scale-to-width-down/687?cb=20190404145109&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/60709218.jpg",
     "cardName": "Lien entre Professeur et Étudiant",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -289,7 +289,7 @@
   },
   {
     "id": 537,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/a/ad/DoubleCoupMagiedesT%C3%A9n%C3%A8bres-DUPO-FR-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20190404145108&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/70168345.jpg",
     "cardName": "Double Coup Magie des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -297,7 +297,7 @@
   },
   {
     "id": 538,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA01/ra01068.jpg",
+    "imageUrl": "/cartes/dark_magician/95477924.jpg",
     "cardName": "Sauvetage du Magicien",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -313,7 +313,7 @@
   },
   {
     "id": 540,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2a/NavigationdesMagiciens-LEDD-FR-UR-1E.png/revision/latest?cb=20180730204711&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/7922915.jpg",
     "cardName": "Navigation des Magiciens",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -321,7 +321,7 @@
   },
   {
     "id": 541,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/f/f6/%C3%82me%C3%89ternelle-DUPO-FR-UR-1E.png/revision/latest?cb=20190404142612&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/48680970.jpg",
     "cardName": "Âme Éternelle",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -329,7 +329,7 @@
   },
   {
     "id": 542,
-    "imageUrl": "https://www.cards-capital.com/74062/combinaison-des-magiciens.jpg",
+    "imageUrl": "/cartes/dark_magician/86509711.jpg",
     "cardName": "Combinaison des Magiciens",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": 543,
-    "imageUrl": "https://www.cards-capital.com/88733/force-de-miroir-de-magie-des-tenebres.jpg",
+    "imageUrl": "/cartes/dark_magician/59016454.jpg",
     "cardName": "Force de Miroir de Magie des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "Sarcophagus",
@@ -345,7 +345,7 @@
   },
   {
     "id": 544,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_RA03/ra03258.jpg",
+    "imageUrl": "/cartes/dark_magician/43892408.jpg",
     "cardName": "Magicienne des Ténèbres le Dragon Chevalier",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -553,7 +553,7 @@
   },
   {
     "id": 570,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAGO/mago114rare.jpg",
+    "imageUrl": "/cartes/floodgate/73356503.jpg",
     "cardName": "Statue-Barrière des Tempêtes",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -561,7 +561,7 @@
   },
   {
     "id": 571,
-    "imageUrl": "https://www.lerepairedudragon.fr/82126/statue-barriere-des-abysses-gr-mago-yu-gi-oh.jpg",
+    "imageUrl": "/cartes/floodgate/84478195.jpg",
     "cardName": "Statue-Barrière des Abysses",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -569,7 +569,7 @@
   },
   {
     "id": 572,
-    "imageUrl": "https://www.lerepairedudragon.fr/82130/statue-barriere-de-la-secheresse-gr-mago-yu-gi-oh.jpg",
+    "imageUrl": "/cartes/floodgate/19740112.jpg",
     "cardName": "Statue-Barrière de la Sécheresse",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -577,7 +577,7 @@
   },
   {
     "id": 573,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAGO/mago116rare.jpg",
+    "imageUrl": "/cartes/floodgate/46145256.jpg",
     "cardName": "Statue-Barrière du Paradis",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -585,7 +585,7 @@
   },
   {
     "id": 574,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAGO/mago113rare.jpg",
+    "imageUrl": "/cartes/floodgate/47961808.jpg",
     "cardName": "Statue-Barrière des Enfers",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -593,7 +593,7 @@
   },
   {
     "id": 575,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_MAGO/mago112rare.jpg",
+    "imageUrl": "/cartes/floodgate/10963799.jpg",
     "cardName": "Statue-Barrière du Torrent",
     "archetype": "Floodgate",
     "secondArchetype": "",
@@ -601,7 +601,7 @@
   },
   {
     "id": 576,
-    "imageUrl": "https://www.cards-capital.com/85991/teuf-fracassante-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/64327901.jpg",
     "cardName": "Teuf Fracassante des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": 577,
-    "imageUrl": "https://www.cards-capital.com/92500/gobelins-motards-dechaines.jpg",
+    "imageUrl": "/cartes/goblin_biker/55320758.jpg",
     "cardName": "Gobelins Motards Déchaînés",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": 578,
-    "imageUrl": "https://www.cards-capital.com/85940/mean-l-impitoyable-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/64257161.jpg",
     "cardName": "Mean l'Impitoyable des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": 579,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_phni/phni047.jpg",
+    "imageUrl": "/cartes/goblin_biker/34001672.jpg",
     "cardName": "Grand Gabonga des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 580,
-    "imageUrl": "https://www.cards-capital.com/85937/dugg-le-chargeur-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/24079759.jpg",
     "cardName": "Dugg le Chargeur des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -641,7 +641,7 @@
   },
   {
     "id": 581,
-    "imageUrl": "https://www.cards-capital.com/92548/evasion-fracassante-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/29111045.jpg",
     "cardName": "Évasion Fracassante des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -649,7 +649,7 @@
   },
   {
     "id": 582,
-    "imageUrl": "https://www.cards-capital.com/85992/entree-fracassante-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/90711610.jpg",
     "cardName": "Entrée Fracassante des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 583,
-    "imageUrl": "https://www.cards-capital.com/92566/crise-fracassante-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/15094540.jpg",
     "cardName": "Crise Fracassante des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -665,7 +665,7 @@
   },
   {
     "id": 584,
-    "imageUrl": "https://www.cards-capital.com/86877/carambolage-fracassant-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/90946420.jpg",
     "cardName": "Carambolage Fracassant des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -673,7 +673,7 @@
   },
   {
     "id": 585,
-    "imageUrl": "https://www.cards-capital.com/86007/ruee-fracassante-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/50311058.jpg",
     "cardName": "Ruée Fracassante des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": 586,
-    "imageUrl": "https://www.cards-capital.com/86846/troika-griare-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/44241999.jpg",
     "cardName": "Troika Griare des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -689,7 +689,7 @@
   },
   {
     "id": 587,
-    "imageUrl": "https://www.cards-capital.com/85938/clatter-le-bruyant-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/51473858.jpg",
     "cardName": "Clatter le Bruyant des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -697,7 +697,7 @@
   },
   {
     "id": 588,
-    "imageUrl": "https://www.cards-capital.com/85939/boom-l-eclair-des-gobelins-motards.jpg",
+    "imageUrl": "/cartes/goblin_biker/27868563.jpg",
     "cardName": "Boom l'Éclair des Gobelins Motards",
     "archetype": "Goblin Biker",
     "secondArchetype": "",
@@ -705,7 +705,7 @@
   },
   {
     "id": 589,
-    "imageUrl": "https://www.lerepairedudragon.fr/137198/gobelins-motards-fous-furieux-qcse-suda-.jpg",
+    "imageUrl": "/cartes/goblin_biker/46014517.jpg",
     "cardName": "Gobelins Motards Fous Furieux",
     "archetype": "Goblin Biker",
     "secondArchetype": "",

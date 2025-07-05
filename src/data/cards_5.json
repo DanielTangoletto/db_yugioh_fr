@@ -65,7 +65,7 @@
   },
   {
     "id": 409,
-    "imageUrl": "https://www.cards-capital.com/84917/roi-du-feu-legendaire-ponix.jpg",
+    "imageUrl": "/cartes/fire_king/90681088.jpg",
     "cardName": "Roi du Feu Légendaire Ponix",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -73,7 +73,7 @@
   },
   {
     "id": 410,
-    "imageUrl": "https://www.cards-capital.com/84873/roi-du-feu-sacre-garunix.jpg",
+    "imageUrl": "/cartes/fire_king/66431519.jpg",
     "cardName": "Roi du Feu Sacré Garunix",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 411,
-    "imageUrl": "https://www.cards-capital.com/84918/avatar-grand-roi-du-feu-garunix.jpg",
+    "imageUrl": "/cartes/fire_king/23015896.jpg",
     "cardName": "Avatar Grand Roi du Feu Garunix",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -89,7 +89,7 @@
   },
   {
     "id": 412,
-    "imageUrl": "https://www.lerepairedudragon.fr/119032/eternite-garunix-hyang-des-rois-du-feu-ur-sr14-.jpg",
+    "imageUrl": "/cartes/fire_king/64182380.jpg",
     "cardName": "Éternité Garunix, Hyang des Rois du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -97,7 +97,7 @@
   },
   {
     "id": 413,
-    "imageUrl": "https://www.cards-capital.com/84879/avatar-roi-du-feu-kirin.jpg",
+    "imageUrl": "/cartes/fire_king/96594609.jpg",
     "cardName": "Avatar Roi du Feu Kirin",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 414,
-    "imageUrl": "https://www.cards-capital.com/84874/avatar-grand-roi-du-feu-kirin.jpg",
+    "imageUrl": "/cartes/fire_king/2526224.jpg",
     "cardName": "Avatar Grand Roi du Feu Kirin",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": 415,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/4/41/%C3%8EleduRoiduFeu-SHVI-FR-C-1E.png/revision/latest?cb=20180731121152&path-prefix=fr",
+    "imageUrl": "/cartes/fire_king/57554544.jpg",
     "cardName": "Île du Roi du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 416,
-    "imageUrl": "https://www.cards-capital.com/84896/sanctuaire-du-roi-du-feu.jpg",
+    "imageUrl": "/cartes/fire_king/65305978.jpg",
     "cardName": "Sanctuaire du Roi du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -129,7 +129,7 @@
   },
   {
     "id": 417,
-    "imageUrl": "https://www.cards-capital.com/84919/avatar-roi-du-feu-arvata.jpg",
+    "imageUrl": "/cartes/fire_king/18621798.jpg",
     "cardName": "Avatar Roi du Feu Arvata",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 418,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_rota/rota098.jpg",
+    "imageUrl": "/cartes/fire_king/44455560.jpg",
     "cardName": "Membre de la Cour du Roi du Feu Ulcanix",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 419,
-    "imageUrl": "https://www.cards-capital.com/84897/brulure-celeste-du-roi-du-feu.jpg",
+    "imageUrl": "/cartes/fire_king/91703676.jpg",
     "cardName": "Brûlure Céleste du Roi du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -153,7 +153,7 @@
   },
   {
     "id": 420,
-    "imageUrl": "https://www.cards-capital.com/84877/avatar-roi-du-feu-barong.jpg",
+    "imageUrl": "/cartes/fire_king/69000994.jpg",
     "cardName": "Avatar Roi du Feu Barong",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -161,7 +161,7 @@
   },
   {
     "id": 421,
-    "imageUrl": "https://www.cards-capital.com/84899/cercle-des-rois-du-feu.jpg",
+    "imageUrl": "/cartes/fire_king/59388357.jpg",
     "cardName": "Cercle des Rois du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": 422,
-    "imageUrl": "https://www.cards-capital.com/84875/avatar-roi-du-feu-rangbali.jpg",
+    "imageUrl": "/cartes/fire_king/38910263.jpg",
     "cardName": "Avatar Roi du Feu Rangbali",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -177,7 +177,7 @@
   },
   {
     "id": 423,
-    "imageUrl": "https://www.cards-capital.com/84878/avatar-roi-du-feu-yaksha.jpg",
+    "imageUrl": "/cartes/fire_king/66413481.jpg",
     "cardName": "Avatar Roi du Feu Yaksha",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -185,7 +185,7 @@
   },
   {
     "id": 424,
-    "imageUrl": "https://www.play-in.com/images/cartes/yugi_SR14/sr14004.jpg",
+    "imageUrl": "/cartes/fire_king/54149433.jpg",
     "cardName": "Avatar Roi Du Feu Garunix",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -193,7 +193,7 @@
   },
   {
     "id": 425,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/d/d9/AssautdesRoisduFeu-HISU-FR-SR-1E.png/revision/latest?cb=20181113172419&path-prefix=fr",
+    "imageUrl": "/cartes/fire_king/22993208.jpg",
     "cardName": "Assaut des Rois du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -201,7 +201,7 @@
   },
   {
     "id": 426,
-    "imageUrl": "https://www.cards-capital.com/84905/echelon-des-rois-du-feu.jpg",
+    "imageUrl": "/cartes/fire_king/38798785.jpg",
     "cardName": "Échelon des Rois du Feu",
     "archetype": "Fire King",
     "secondArchetype": "",
@@ -713,7 +713,7 @@
   },
   {
     "id": 490,
-    "imageUrl": "https://www.lerepairedudragon.fr/76834/yugioh-ames-des-magiciens-ur-led6-.jpg",
+    "imageUrl": "/cartes/dark_magician/97631303.jpg",
     "cardName": "Âmes des Magiciens",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -721,7 +721,7 @@
   },
   {
     "id": 491,
-    "imageUrl": "https://www.cards-capital.com/75268/soldat-dragon-sombre-aux-yeux-rouges.jpg",
+    "imageUrl": "/cartes/dark_magician/37818794.jpg",
     "cardName": "Soldat Dragon Sombre aux Yeux Rouges",
     "archetype": "Dark Magician",
     "secondArchetype": "Red-Eyes",
@@ -729,7 +729,7 @@
   },
   {
     "id": 492,
-    "imageUrl": "https://www.cards-capital.com/79802/magicien-sombre.jpg",
+    "imageUrl": "/cartes/dark_magician/46986414.jpg",
     "cardName": "Magicien Sombre",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -737,7 +737,7 @@
   },
   {
     "id": 493,
-    "imageUrl": "https://www.cards-capital.com/69846/illusion-du-chaos.jpg",
+    "imageUrl": "/cartes/dark_magician/12266229.jpg",
     "cardName": "Illusion du Chaos",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -745,7 +745,7 @@
   },
   {
     "id": 494,
-    "imageUrl": "https://www.lerepairedudragon.fr/76840/yugioh-baton-du-magicien-c-led6-.jpg",
+    "imageUrl": "/cartes/dark_magician/7084129.jpg",
     "cardName": "Bâton du Magicien",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -753,7 +753,7 @@
   },
   {
     "id": 495,
-    "imageUrl": "https://www.lerepairedudragon.fr/76836/yugioh-secrets-de-la-magie-des-tenebres-r-led6-.jpg",
+    "imageUrl": "/cartes/dark_magician/59514116.jpg",
     "cardName": "Secrets de la Magie des Ténèbres",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -761,7 +761,7 @@
   },
   {
     "id": 496,
-    "imageUrl": "https://www.lerepairedudragon.fr/76835/yugioh-ame-de-serviteur-ur-led6-.jpg",
+    "imageUrl": "/cartes/dark_magician/23020408.jpg",
     "cardName": "Âme de Serviteur",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -769,7 +769,7 @@
   },
   {
     "id": 497,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/8/87/MagicienSombreduChaos-DUSA-FR-UR-1E.png/revision/latest?cb=20180730200649&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/40737112.jpg",
     "cardName": "Magicien Sombre du Chaos",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -785,7 +785,7 @@
   },
   {
     "id": 499,
-    "imageUrl": "https://static.wikia.nocookie.net/yugioh-gx/images/2/2c/DragonAmulette-LEDD-FR-C-1E.png/revision/latest?cb=20180730165352&path-prefix=fr",
+    "imageUrl": "/cartes/dark_magician/75380687.jpg",
     "cardName": "Dragon Amulette",
     "archetype": "Dark Magician",
     "secondArchetype": "",
@@ -793,7 +793,7 @@
   },
   {
     "id": 500,
-    "imageUrl": "https://www.lerepairedudragon.fr/59906/yugioh-magicien-sombre-le-dragon-chevalier-ur-ledd-.jpg",
+    "imageUrl": "/cartes/dark_magician/41721210.jpg",
     "cardName": "Magicien Sombre le Dragon Chevalier",
     "archetype": "Dark Magician",
     "secondArchetype": "",
